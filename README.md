@@ -1,4 +1,4 @@
-## Updated on 2022.08.02
+## Updated on 2022.08.03
 
 ## SLAM
 
@@ -102,6 +102,6 @@
 |**2022-08-01**|**Active cancellation of servo-induced noise on stabilized lasers via feedforward**|Lintao Li et.al.|[2208.01012v1](http://arxiv.org/abs/2208.01012v1)|null|
 |**2022-08-01**|**Influence of the coordination defects on the dynamics and the potential energy landscape of two-dimensional silica**|Projesh Kumar Roy et.al.|[2208.01011v1](http://arxiv.org/abs/2208.01011v1)|null|
 |**2022-08-01**|**Multi-Document Summarization with Centroid-Based Pretraining**|Ratish Puduppully et.al.|[2208.01006v1](http://arxiv.org/abs/2208.01006v1)|**[link](https://github.com/ratishsp/centrum)**|
-|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-02**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v2](http://arxiv.org/abs/2208.00998v2)|null|
 |**2022-08-01**|**MULTIPAR: Supervised Irregular Tensor Factorization with Multi-task Learning**|Yifei Ren et.al.|[2208.00993v1](http://arxiv.org/abs/2208.00993v1)|null|
 

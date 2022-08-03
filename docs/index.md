@@ -83,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**|Carlos A. Diaz-Ruiz et.al.|[2208.01166v1](http://arxiv.org/abs/2208.01166v1)|null|
+|**2022-08-01**|**Mitigating Shadows in Lidar Scan Matching using Spherical Voxels**|Matthew McDermott et.al.|[2208.01150v1](http://arxiv.org/abs/2208.01150v1)|null|
 |**2022-07-30**|**PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds**|Aoran Xiao et.al.|[2208.00223v1](http://arxiv.org/abs/2208.00223v1)|null|
 |**2022-07-30**|**Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds**|D. Qiao et.al.|[2208.00116v1](http://arxiv.org/abs/2208.00116v1)|null|
 |**2022-07-29**|**Enhanced Laser-Scan Matching with Online Error Estimation for Highway and Tunnel Driving**|Matthew McDermott et.al.|[2207.14674v1](http://arxiv.org/abs/2207.14674v1)|null|
@@ -98,6 +100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**|Erica J. Nelson et.al.|[2208.01630v1](http://arxiv.org/abs/2208.01630v1)|null|
+|**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|null|
+|**2022-08-02**|**Revisiting sample size planning for receiver operating characteristic studies: a confidence interval approach with precision and assurance**|Di Shu et.al.|[2208.01614v1](http://arxiv.org/abs/2208.01614v1)|null|
+|**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
+|**2022-08-02**|**Learning Skill-based Industrial Robot Tasks with User Priors**|Matthias Mayr et.al.|[2208.01605v1](http://arxiv.org/abs/2208.01605v1)|null|
+|**2022-08-02**|**On the ages of bright galaxies $\sim 500$ Myr after the Big Bang: insights into star formation activity at $z \gtrsim 15$ with JWST**|Lily Whitler et.al.|[2208.01599v1](http://arxiv.org/abs/2208.01599v1)|null|
+|**2022-08-02**|**Gap Opening and Inner Disk Structure in the Strongly Accreting Transition Disk of DM Tau**|Logan Francis et.al.|[2208.01598v1](http://arxiv.org/abs/2208.01598v1)|null|
+|**2022-08-02**|**Height coincidences in products of the projective line**|Niki Myrto Mavraki et.al.|[2208.01597v1](http://arxiv.org/abs/2208.01597v1)|null|
+|**2022-08-02**|**Do I really need all this work to find vulnerabilities? An empirical case study comparing vulnerability detection techniques on a Java application**|Sarah Elder et.al.|[2208.01595v1](http://arxiv.org/abs/2208.01595v1)|null|
+|**2022-08-02**|**Block sparsity and gauge mediated weight sharing for learning dynamical laws from data**|M. Götte et.al.|[2208.01591v1](http://arxiv.org/abs/2208.01591v1)|null|
 |**2022-08-01**|**On the Limitations of Sociodemographic Adaptation with Transformers**|Chia-Chien Hung et.al.|[2208.01029v1](http://arxiv.org/abs/2208.01029v1)|null|
 |**2022-08-01**|**A performance contextualization approach to validating camera models for robot simulation**|Asher Elmquist et.al.|[2208.01022v1](http://arxiv.org/abs/2208.01022v1)|null|
 |**2022-08-01**|**Learning Multi-Object Symbols for Manipulation with Attentive Deep Effect Predictors**|Alper Ahmetoglu et.al.|[2208.01021v1](http://arxiv.org/abs/2208.01021v1)|null|

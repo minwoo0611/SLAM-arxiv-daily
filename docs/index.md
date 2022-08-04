@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
+|**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
@@ -83,6 +85,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
+|**2022-08-03**|**SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud**|Xiangrui Zhao et.al.|[2208.01925v1](http://arxiv.org/abs/2208.01925v1)|**[link](https://github.com/zxrzju/superline3d)**|
+|**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
 |**2022-08-01**|**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**|Carlos A. Diaz-Ruiz et.al.|[2208.01166v1](http://arxiv.org/abs/2208.01166v1)|null|
 |**2022-08-01**|**Mitigating Shadows in Lidar Scan Matching using Spherical Voxels**|Matthew McDermott et.al.|[2208.01150v1](http://arxiv.org/abs/2208.01150v1)|null|
 |**2022-07-30**|**PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds**|Aoran Xiao et.al.|[2208.00223v1](http://arxiv.org/abs/2208.00223v1)|null|
@@ -100,6 +105,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**Orbital dynamics landscape near the most distant known trans-Neptunian objects**|Kathryn Volk et.al.|[2208.02248v1](http://arxiv.org/abs/2208.02248v1)|null|
+|**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
+|**2022-08-03**|**Magnetic field driven dynamics in twisted bilayer artificial spin ice at superlattice angles**|Rehana Begum Popy et.al.|[2208.02243v1](http://arxiv.org/abs/2208.02243v1)|null|
+|**2022-08-03**|**An Online Method for the Data Driven Stochastic Optimal Control Problem with Unknown Model Parameters**|Richard Archibald et.al.|[2208.02241v1](http://arxiv.org/abs/2208.02241v1)|null|
+|**2022-08-03**|**Quantum-Inspired Tensor Neural Networks for Partial Differential Equations**|Raj Patel et.al.|[2208.02235v1](http://arxiv.org/abs/2208.02235v1)|null|
+|**2022-08-03**|**The Sparkler: Evolved High-Redshift Globular Clusters Captured by JWST**|Lamiya A. Mowla et.al.|[2208.02233v1](http://arxiv.org/abs/2208.02233v1)|null|
+|**2022-08-03**|**Rapid Production of Accurate Embedded-Atom Method Potentials for Metal Alloys**|Elan J. Weiss et.al.|[2208.02223v1](http://arxiv.org/abs/2208.02223v1)|null|
+|**2022-08-03**|**A universal crossover in quantum circuits governed by a proximate classical error correction transition**|Anasuya Lyons et.al.|[2208.02217v1](http://arxiv.org/abs/2208.02217v1)|null|
+|**2022-08-03**|**Tunable itinerant spin dynamics with polar molecules**|Jun-Ru Li et.al.|[2208.02216v1](http://arxiv.org/abs/2208.02216v1)|null|
+|**2022-08-03**|**Proportionality of gravitational and electromagnetic radiation by an electron in an intense plane wave**|G. Audagnotto et.al.|[2208.02215v1](http://arxiv.org/abs/2208.02215v1)|null|
 |**2022-08-02**|**JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**|Erica J. Nelson et.al.|[2208.01630v1](http://arxiv.org/abs/2208.01630v1)|null|
 |**2022-08-02**|**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**|Rinon Gal et.al.|[2208.01618v1](http://arxiv.org/abs/2208.01618v1)|**[link](https://github.com/rinongal/textual_inversion)**|
 |**2022-08-02**|**Revisiting sample size planning for receiver operating characteristic studies: a confidence interval approach with precision and assurance**|Di Shu et.al.|[2208.01614v1](http://arxiv.org/abs/2208.01614v1)|null|

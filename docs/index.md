@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches et.al.|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|null|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
 |**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
@@ -85,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-04**|**A Cooperative Perception Environment for Traffic Operations and Control**|Hanlin Chen et.al.|[2208.02792v1](http://arxiv.org/abs/2208.02792v1)|null|
+|**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|
+|**2022-08-03**|**Estimating Visual Information From Audio Through Manifold Learning**|Fabrizio Pedersoli et.al.|[2208.02337v1](http://arxiv.org/abs/2208.02337v1)|null|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
 |**2022-08-03**|**SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud**|Xiangrui Zhao et.al.|[2208.01925v1](http://arxiv.org/abs/2208.01925v1)|**[link](https://github.com/zxrzju/superline3d)**|
 |**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
@@ -105,6 +109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
+|**2022-08-04**|**Tree stick-breaking priors for covariate-dependent mixture models**|Akira Horiguchi et.al.|[2208.02806v1](http://arxiv.org/abs/2208.02806v1)|null|
+|**2022-08-04**|**Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**|Maria Okounkova et.al.|[2208.02805v1](http://arxiv.org/abs/2208.02805v1)|null|
+|**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
+|**2022-08-04**|**Transformers as Meta-Learners for Implicit Neural Representations**|Yinbo Chen et.al.|[2208.02801v1](http://arxiv.org/abs/2208.02801v1)|null|
+|**2022-08-04**|**Boltzmann equations for astrophysical stochastic gravitational wave backgrounds scattering off of massive objects**|Lorenzo Pizzuti et.al.|[2208.02800v1](http://arxiv.org/abs/2208.02800v1)|null|
+|**2022-08-04**|**Feature selection with gradient descent on two-layer networks in low-rotation regimes**|Matus Telgarsky et.al.|[2208.02789v1](http://arxiv.org/abs/2208.02789v1)|null|
+|**2022-08-04**|**Notions, Stability, Existence, and Robustness of Limit Cycles in Hybrid Systems**|Xuyang Lou et.al.|[2208.02785v1](http://arxiv.org/abs/2208.02785v1)|null|
+|**2022-08-04**|**Panchromatic evolution of three luminous red novae: Forbidden hugs in pandemic times -- IV**|A. Pastorello et.al.|[2208.02782v1](http://arxiv.org/abs/2208.02782v1)|null|
+|**2022-08-04**|**From Data to Software to Science with the Rubin Observatory LSST**|Katelyn Breivik et.al.|[2208.02781v1](http://arxiv.org/abs/2208.02781v1)|null|
 |**2022-08-03**|**Orbital dynamics landscape near the most distant known trans-Neptunian objects**|Kathryn Volk et.al.|[2208.02248v1](http://arxiv.org/abs/2208.02248v1)|null|
 |**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
 |**2022-08-03**|**Magnetic field driven dynamics in twisted bilayer artificial spin ice at superlattice angles**|Rehana Begum Popy et.al.|[2208.02243v1](http://arxiv.org/abs/2208.02243v1)|null|

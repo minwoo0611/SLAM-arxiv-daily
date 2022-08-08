@@ -1,4 +1,4 @@
-> Updated on 2022.08.07
+> Updated on 2022.08.08
 
 ## SLAM
 
@@ -478,7 +478,7 @@
 - 2022-08-04, **Tree stick-breaking priors for covariate-dependent mixture models**, Akira Horiguchi et.al., Paper: [http://arxiv.org/abs/2208.02806v1](http://arxiv.org/abs/2208.02806v1)
 - 2022-08-04, **Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**, Maria Okounkova et.al., Paper: [http://arxiv.org/abs/2208.02805v1](http://arxiv.org/abs/2208.02805v1), Code: **[https://github.com/mariaokounkova/beyondgranalysis](https://github.com/mariaokounkova/beyondgranalysis)**
 - 2022-08-04, **Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**, Tarun Kalluri et.al., Paper: [http://arxiv.org/abs/2208.02804v1](http://arxiv.org/abs/2208.02804v1)
-- 2022-08-04, **Transformers as Meta-Learners for Implicit Neural Representations**, Yinbo Chen et.al., Paper: [http://arxiv.org/abs/2208.02801v1](http://arxiv.org/abs/2208.02801v1), Code: **[https://github.com/yinboc/trans-inr](https://github.com/yinboc/trans-inr)**
+- 2022-08-05, **Transformers as Meta-Learners for Implicit Neural Representations**, Yinbo Chen et.al., Paper: [http://arxiv.org/abs/2208.02801v2](http://arxiv.org/abs/2208.02801v2), Code: **[https://github.com/yinboc/trans-inr](https://github.com/yinboc/trans-inr)**
 - 2022-08-04, **Boltzmann equations for astrophysical stochastic gravitational wave backgrounds scattering off of massive objects**, Lorenzo Pizzuti et.al., Paper: [http://arxiv.org/abs/2208.02800v1](http://arxiv.org/abs/2208.02800v1)
 - 2022-08-04, **Feature selection with gradient descent on two-layer networks in low-rotation regimes**, Matus Telgarsky et.al., Paper: [http://arxiv.org/abs/2208.02789v1](http://arxiv.org/abs/2208.02789v1)
 - 2022-08-04, **Notions, Stability, Existence, and Robustness of Limit Cycles in Hybrid Systems**, Xuyang Lou et.al., Paper: [http://arxiv.org/abs/2208.02785v1](http://arxiv.org/abs/2208.02785v1)

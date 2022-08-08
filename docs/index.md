@@ -86,6 +86,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Discover the Mysteries of the Maya: Selected Contributions from the Machine Learning Challenge & The Discovery Challenge Workshop at ECML PKDD 2021**|Dragi Kocev et.al.|[2208.03163v1](http://arxiv.org/abs/2208.03163v1)|null|
+|**2022-08-05**|**A Lightweight Machine Learning Pipeline for LiDAR-simulation**|Richard Marcus et.al.|[2208.03130v1](http://arxiv.org/abs/2208.03130v1)|null|
 |**2022-08-04**|**A Cooperative Perception Environment for Traffic Operations and Control**|Hanlin Chen et.al.|[2208.02792v1](http://arxiv.org/abs/2208.02792v1)|null|
 |**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|
 |**2022-08-03**|**Estimating Visual Information From Audio Through Manifold Learning**|Fabrizio Pedersoli et.al.|[2208.02337v1](http://arxiv.org/abs/2208.02337v1)|null|
@@ -109,6 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**A Non-Asymptotic Framework for Approximate Message Passing in Spiked Models**|Gen Li et.al.|[2208.03313v1](http://arxiv.org/abs/2208.03313v1)|null|
+|**2022-08-05**|**How do the dynamics of the Milky Way - Large Magellanic Cloud system affect gamma-ray constraints on particle dark matter?**|Christopher Eckner et.al.|[2208.03312v1](http://arxiv.org/abs/2208.03312v1)|null|
+|**2022-08-05**|**A continuous transformation between non-Hermitian and Lindbladian evolution**|Daniel Finkelstein-Shapiro et.al.|[2208.03310v1](http://arxiv.org/abs/2208.03310v1)|null|
+|**2022-08-05**|**Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models**|Margaret Li et.al.|[2208.03306v1](http://arxiv.org/abs/2208.03306v1)|null|
+|**2022-08-05**|**Accelerating discrete dislocation dynamics simulations with graph neural networks**|Nicolas Bertin et.al.|[2208.03296v1](http://arxiv.org/abs/2208.03296v1)|null|
+|**2022-08-05**|**Identity and Dynamic Teams in Social Dilemmas**|Kyle Tilbury et.al.|[2208.03293v1](http://arxiv.org/abs/2208.03293v1)|null|
+|**2022-08-05**|**Constraining bosonic asymmetric dark matter with neutron star mass-radius measurements**|Nathan Rutherford et.al.|[2208.03282v1](http://arxiv.org/abs/2208.03282v1)|null|
+|**2022-08-05**|**JWST NIRCam+NIRSpec: Interstellar medium and stellar populations of young galaxies with rising star formation and evolving gas reservoirs**|Sandro Tacchella et.al.|[2208.03281v1](http://arxiv.org/abs/2208.03281v1)|null|
+|**2022-08-05**|**Modeling Self-Propagating Malware with Epidemiological Models**|Alesia Chernikova et.al.|[2208.03276v1](http://arxiv.org/abs/2208.03276v1)|null|
+|**2022-08-05**|**The ALMA Science Archive Reaches a Major Milestone**|Felix Stoehr et.al.|[2208.03275v1](http://arxiv.org/abs/2208.03275v1)|null|
 |**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
 |**2022-08-04**|**Tree stick-breaking priors for covariate-dependent mixture models**|Akira Horiguchi et.al.|[2208.02806v1](http://arxiv.org/abs/2208.02806v1)|null|
 |**2022-08-04**|**Gravitational wave inference on a numerical-relativity simulation of a black hole merger beyond general relativity**|Maria Okounkova et.al.|[2208.02805v1](http://arxiv.org/abs/2208.02805v1)|**[link](https://github.com/mariaokounkova/beyondgranalysis)**|

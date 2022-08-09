@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|null|
+|**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches et.al.|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|**[link](https://github.com/ros-swg/turtlebot3_demo)**|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati et.al.|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
 |**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi et.al.|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
@@ -86,6 +89,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|null|
+|**2022-08-08**|**SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty**|Gwangtak Bae et.al.|[2208.04043v1](http://arxiv.org/abs/2208.04043v1)|null|
+|**2022-08-08**|**Extrinsic Camera Calibration with Semantic Segmentation**|Alexander Tsaregorodtsev et.al.|[2208.03949v1](http://arxiv.org/abs/2208.03949v1)|null|
+|**2022-08-08**|**RadSegNet: A Reliable Approach to Radar Camera Fusion**|Kshitiz Bansal et.al.|[2208.03849v1](http://arxiv.org/abs/2208.03849v1)|null|
+|**2022-08-07**|**Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph**|Honghui Yang et.al.|[2208.03624v1](http://arxiv.org/abs/2208.03624v1)|**[link](https://github.com/nightmare-n/graphrcnn)**|
+|**2022-08-06**|**A Successful Integration of the Robotic Technology Kernel (RTK) for a By-Wire Electric Vehicle System with a Mobile App Interface**|Justin Dombecki et.al.|[2208.03535v1](http://arxiv.org/abs/2208.03535v1)|null|
+|**2022-08-06**|**Real-time Neural Dense Elevation Mapping for Urban Terrain with Uncertainty Estimations**|Bowen Yang et.al.|[2208.03467v1](http://arxiv.org/abs/2208.03467v1)|null|
+|**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-05**|**Discover the Mysteries of the Maya: Selected Contributions from the Machine Learning Challenge & The Discovery Challenge Workshop at ECML PKDD 2021**|Dragi Kocev et.al.|[2208.03163v1](http://arxiv.org/abs/2208.03163v1)|null|
 |**2022-08-05**|**A Lightweight Machine Learning Pipeline for LiDAR-simulation**|Richard Marcus et.al.|[2208.03130v1](http://arxiv.org/abs/2208.03130v1)|null|
 |**2022-08-04**|**A Cooperative Perception Environment for Traffic Operations and Control**|Hanlin Chen et.al.|[2208.02792v1](http://arxiv.org/abs/2208.02792v1)|null|
@@ -111,6 +122,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-08**|**Unfolded Dynamics Approach and Quantum Field Theory**|N. G. Misuna et.al.|[2208.04306v1](http://arxiv.org/abs/2208.04306v1)|null|
+|**2022-08-08**|**High-gain observer for the nitrification process including sensor dynamics**|Patrick Schmidt et.al.|[2208.04300v1](http://arxiv.org/abs/2208.04300v1)|null|
+|**2022-08-08**|**Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**|Wenbin Lu et.al.|[2208.04293v1](http://arxiv.org/abs/2208.04293v1)|null|
+|**2022-08-08**|**Monte Carlo twisting for particle filters**|Joshua J Bon et.al.|[2208.04288v1](http://arxiv.org/abs/2208.04288v1)|null|
+|**2022-08-08**|**Exploiting Shape Cues for Weakly Supervised Semantic Segmentation**|Sungpil Kho et.al.|[2208.04286v1](http://arxiv.org/abs/2208.04286v1)|null|
+|**2022-08-08**|**LWGNet: Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval**|Atreyee Saha et.al.|[2208.04283v1](http://arxiv.org/abs/2208.04283v1)|null|
+|**2022-08-08**|**Estimating density, velocity, and pressure fields in supersonic flow using physics-informed BOS**|Joseph P. Molnar et.al.|[2208.04280v1](http://arxiv.org/abs/2208.04280v1)|null|
+|**2022-08-08**|**Self-Supervised Contrastive Representation Learning for 3D Mesh Segmentation**|Ayaan Haque et.al.|[2208.04278v1](http://arxiv.org/abs/2208.04278v1)|null|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**Using soft maximin for risk averse multi-objective decision-making**|Benjamin J Smith et.al.|[2208.04273v1](http://arxiv.org/abs/2208.04273v1)|null|
 |**2022-08-05**|**A Non-Asymptotic Framework for Approximate Message Passing in Spiked Models**|Gen Li et.al.|[2208.03313v1](http://arxiv.org/abs/2208.03313v1)|null|
 |**2022-08-05**|**How do the dynamics of the Milky Way - Large Magellanic Cloud system affect gamma-ray constraints on particle dark matter?**|Christopher Eckner et.al.|[2208.03312v1](http://arxiv.org/abs/2208.03312v1)|null|
 |**2022-08-05**|**A continuous transformation between non-Hermitian and Lindbladian evolution**|Daniel Finkelstein-Shapiro et.al.|[2208.03310v1](http://arxiv.org/abs/2208.03310v1)|null|

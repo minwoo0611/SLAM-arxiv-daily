@@ -1,4 +1,4 @@
-> Updated on 2022.08.08
+> Updated on 2022.08.09
 
 ## SLAM
 
@@ -479,7 +479,7 @@
 - 2022-08-05, **A Non-Asymptotic Framework for Approximate Message Passing in Spiked Models**, Gen Li et.al., Paper: [http://arxiv.org/abs/2208.03313v1](http://arxiv.org/abs/2208.03313v1)
 - 2022-08-05, **How do the dynamics of the Milky Way - Large Magellanic Cloud system affect gamma-ray constraints on particle dark matter?**, Christopher Eckner et.al., Paper: [http://arxiv.org/abs/2208.03312v1](http://arxiv.org/abs/2208.03312v1)
 - 2022-08-05, **A continuous transformation between non-Hermitian and Lindbladian evolution**, Daniel Finkelstein-Shapiro et.al., Paper: [http://arxiv.org/abs/2208.03310v1](http://arxiv.org/abs/2208.03310v1)
-- 2022-08-05, **Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models**, Margaret Li et.al., Paper: [http://arxiv.org/abs/2208.03306v1](http://arxiv.org/abs/2208.03306v1)
+- 2022-08-05, **Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models**, Margaret Li et.al., Paper: [http://arxiv.org/abs/2208.03306v1](http://arxiv.org/abs/2208.03306v1), Code: **[https://github.com/hadasah/btm](https://github.com/hadasah/btm)**
 - 2022-08-05, **Accelerating discrete dislocation dynamics simulations with graph neural networks**, Nicolas Bertin et.al., Paper: [http://arxiv.org/abs/2208.03296v1](http://arxiv.org/abs/2208.03296v1)
 - 2022-08-05, **Identity and Dynamic Teams in Social Dilemmas**, Kyle Tilbury et.al., Paper: [http://arxiv.org/abs/2208.03293v1](http://arxiv.org/abs/2208.03293v1)
 - 2022-08-05, **Constraining bosonic asymmetric dark matter with neutron star mass-radius measurements**, Nathan Rutherford et.al., Paper: [http://arxiv.org/abs/2208.03282v1](http://arxiv.org/abs/2208.03282v1)

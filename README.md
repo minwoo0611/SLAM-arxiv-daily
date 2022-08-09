@@ -85,7 +85,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|null|
+|**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|**[link](https://github.com/seiris21/ucb2022.snowcast)**|
 |**2022-08-08**|**SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty**|Gwangtak Bae et.al.|[2208.04043v1](http://arxiv.org/abs/2208.04043v1)|null|
 |**2022-08-08**|**Extrinsic Camera Calibration with Semantic Segmentation**|Alexander Tsaregorodtsev et.al.|[2208.03949v1](http://arxiv.org/abs/2208.03949v1)|null|
 |**2022-08-08**|**RadSegNet: A Reliable Approach to Radar Camera Fusion**|Kshitiz Bansal et.al.|[2208.03849v1](http://arxiv.org/abs/2208.03849v1)|null|
@@ -123,7 +123,7 @@
 |**2022-08-08**|**Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**|Wenbin Lu et.al.|[2208.04293v1](http://arxiv.org/abs/2208.04293v1)|null|
 |**2022-08-08**|**Monte Carlo twisting for particle filters**|Joshua J Bon et.al.|[2208.04288v1](http://arxiv.org/abs/2208.04288v1)|null|
 |**2022-08-08**|**Exploiting Shape Cues for Weakly Supervised Semantic Segmentation**|Sungpil Kho et.al.|[2208.04286v1](http://arxiv.org/abs/2208.04286v1)|null|
-|**2022-08-08**|**LWGNet: Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval**|Atreyee Saha et.al.|[2208.04283v1](http://arxiv.org/abs/2208.04283v1)|null|
+|**2022-08-08**|**LWGNet: Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval**|Atreyee Saha et.al.|[2208.04283v1](http://arxiv.org/abs/2208.04283v1)|**[link](https://github.com/at3e/lwgnet)**|
 |**2022-08-08**|**Estimating density, velocity, and pressure fields in supersonic flow using physics-informed BOS**|Joseph P. Molnar et.al.|[2208.04280v1](http://arxiv.org/abs/2208.04280v1)|null|
 |**2022-08-08**|**Self-Supervised Contrastive Representation Learning for 3D Mesh Segmentation**|Ayaan Haque et.al.|[2208.04278v1](http://arxiv.org/abs/2208.04278v1)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|

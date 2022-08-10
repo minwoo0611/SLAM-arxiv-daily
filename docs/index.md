@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.09
+## Updated on 2022.08.10
 
 ## SLAM
 
@@ -97,7 +97,7 @@ layout: default
 |**2022-08-06**|**A Successful Integration of the Robotic Technology Kernel (RTK) for a By-Wire Electric Vehicle System with a Mobile App Interface**|Justin Dombecki et.al.|[2208.03535v1](http://arxiv.org/abs/2208.03535v1)|null|
 |**2022-08-06**|**Real-time Neural Dense Elevation Mapping for Urban Terrain with Uncertainty Estimations**|Bowen Yang et.al.|[2208.03467v1](http://arxiv.org/abs/2208.03467v1)|null|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
-|**2022-08-05**|**Discover the Mysteries of the Maya: Selected Contributions from the Machine Learning Challenge & The Discovery Challenge Workshop at ECML PKDD 2021**|Dragi Kocev et.al.|[2208.03163v1](http://arxiv.org/abs/2208.03163v1)|null|
+|**2022-08-09**|**Discover the Mysteries of the Maya: Selected Contributions from the Machine Learning Challenge & The Discovery Challenge Workshop at ECML PKDD 2021**|Dragi Kocev et.al.|[2208.03163v2](http://arxiv.org/abs/2208.03163v2)|null|
 |**2022-08-05**|**A Lightweight Machine Learning Pipeline for LiDAR-simulation**|Richard Marcus et.al.|[2208.03130v1](http://arxiv.org/abs/2208.03130v1)|null|
 |**2022-08-04**|**A Cooperative Perception Environment for Traffic Operations and Control**|Hanlin Chen et.al.|[2208.02792v1](http://arxiv.org/abs/2208.02792v1)|null|
 |**2022-08-04**|**Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**|Hanwen Kang et.al.|[2208.02483v1](http://arxiv.org/abs/2208.02483v1)|null|

@@ -456,6 +456,8 @@
 
 ## LiDAR
 
+- 2022-08-09, **Innovative photodetector for LIDAR systems**, K. Khuseynzada et.al., Paper: [http://arxiv.org/abs/2208.04694v1](http://arxiv.org/abs/2208.04694v1)
+- 2022-08-09, **Machine Learning for LiDAR-Based Navigation System**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.04531v1](http://arxiv.org/abs/2208.04531v1)
 - 2022-08-08, **Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**, Malachy Moran et.al., Paper: [http://arxiv.org/abs/2208.04246v1](http://arxiv.org/abs/2208.04246v1), Code: **[https://github.com/seiris21/ucb2022.snowcast](https://github.com/seiris21/ucb2022.snowcast)**
 - 2022-08-08, **SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty**, Gwangtak Bae et.al., Paper: [http://arxiv.org/abs/2208.04043v1](http://arxiv.org/abs/2208.04043v1)
 - 2022-08-08, **Extrinsic Camera Calibration with Semantic Segmentation**, Alexander Tsaregorodtsev et.al., Paper: [http://arxiv.org/abs/2208.03949v1](http://arxiv.org/abs/2208.03949v1)
@@ -487,6 +489,16 @@
 
 ## Dynamic Object
 
+- 2022-08-09, **A slow bar in the lenticular barred galaxy NGC 4277**, C. Buttitta et.al., Paper: [http://arxiv.org/abs/2208.04932v1](http://arxiv.org/abs/2208.04932v1)
+- 2022-08-09, **Co-lexicographically ordering automata and regular languages. Part I**, Nicola Cotumaccio et.al., Paper: [http://arxiv.org/abs/2208.04931v1](http://arxiv.org/abs/2208.04931v1)
+- 2022-08-09, **A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**, N. Laporte et.al., Paper: [http://arxiv.org/abs/2208.04930v1](http://arxiv.org/abs/2208.04930v1)
+- 2022-08-09, **On the Activation Function Dependence of the Spectral Bias of Neural Networks**, Qingguo Hong et.al., Paper: [http://arxiv.org/abs/2208.04924v1](http://arxiv.org/abs/2208.04924v1)
+- 2022-08-09, **SU(3)_f Constraints on Hypernuclear Energy Density Functionals**, Horst Lenske et.al., Paper: [http://arxiv.org/abs/2208.04916v1](http://arxiv.org/abs/2208.04916v1)
+- 2022-08-09, **The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**, F. Cullen et.al., Paper: [http://arxiv.org/abs/2208.04914v1](http://arxiv.org/abs/2208.04914v1)
+- 2022-08-09, **Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction**, David Joon Ho et.al., Paper: [http://arxiv.org/abs/2208.04910v1](http://arxiv.org/abs/2208.04910v1)
+- 2022-08-09, **The economic cost of social distancing during a pandemic: an optimal control approach in the SVIR model**, Alessandro Ramponi et.al., Paper: [http://arxiv.org/abs/2208.04908v1](http://arxiv.org/abs/2208.04908v1)
+- 2022-08-09, **A new uniqueness theorem for the tight C*-algebra of an inverse semigroup**, Charles Starling et.al., Paper: [http://arxiv.org/abs/2208.04904v1](http://arxiv.org/abs/2208.04904v1)
+- 2022-08-09, **Imaging below the camera noise floor with a homodyne microscope**, Osian Wolley et.al., Paper: [http://arxiv.org/abs/2208.04898v1](http://arxiv.org/abs/2208.04898v1)
 - 2022-08-08, **Unfolded Dynamics Approach and Quantum Field Theory**, N. G. Misuna et.al., Paper: [http://arxiv.org/abs/2208.04306v1](http://arxiv.org/abs/2208.04306v1)
 - 2022-08-08, **High-gain observer for the nitrification process including sensor dynamics**, Patrick Schmidt et.al., Paper: [http://arxiv.org/abs/2208.04300v1](http://arxiv.org/abs/2208.04300v1)
 - 2022-08-08, **Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**, Wenbin Lu et.al., Paper: [http://arxiv.org/abs/2208.04293v1](http://arxiv.org/abs/2208.04293v1)

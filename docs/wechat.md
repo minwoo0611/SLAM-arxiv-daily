@@ -456,6 +456,7 @@
 
 ## LiDAR
 
+- 2022-08-10, **Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**, Zhipeng Luo et.al., Paper: [http://arxiv.org/abs/2208.05216v1](http://arxiv.org/abs/2208.05216v1)
 - 2022-08-09, **Innovative photodetector for LIDAR systems**, K. Khuseynzada et.al., Paper: [http://arxiv.org/abs/2208.04694v1](http://arxiv.org/abs/2208.04694v1)
 - 2022-08-09, **Machine Learning for LiDAR-Based Navigation System**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.04531v1](http://arxiv.org/abs/2208.04531v1)
 - 2022-08-08, **Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**, Malachy Moran et.al., Paper: [http://arxiv.org/abs/2208.04246v1](http://arxiv.org/abs/2208.04246v1), Code: **[https://github.com/seiris21/ucb2022.snowcast](https://github.com/seiris21/ucb2022.snowcast)**
@@ -489,6 +490,16 @@
 
 ## Dynamic Object
 
+- 2022-08-10, **Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**, Lukas J. Furtak et.al., Paper: [http://arxiv.org/abs/2208.05473v1](http://arxiv.org/abs/2208.05473v1)
+- 2022-08-10, **EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2208.05470v1](http://arxiv.org/abs/2208.05470v1)
+- 2022-08-10, **Erasure qubits: Overcoming the $T_1$ limit in superconducting circuits**, Aleksander Kubica et.al., Paper: [http://arxiv.org/abs/2208.05461v1](http://arxiv.org/abs/2208.05461v1)
+- 2022-08-10, **Time-dependent optimized coupled-cluster method with doubles and perturbative triples [TD-OCCD(T)] for first principles simulation of multielectron dynamics**, Himadri Pathak et.al., Paper: [http://arxiv.org/abs/2208.05455v1](http://arxiv.org/abs/2208.05455v1)
+- 2022-08-10, **Coupling Temperature Distribution with the Single Particle Model**, Matthew Hunt et.al., Paper: [http://arxiv.org/abs/2208.05448v1](http://arxiv.org/abs/2208.05448v1)
+- 2022-08-10, **CoditT5: Pretraining for Source Code and Natural Language Editing**, Jiyang Zhang et.al., Paper: [http://arxiv.org/abs/2208.05446v1](http://arxiv.org/abs/2208.05446v1)
+- 2022-08-10, **Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services**, Hongyang Du et.al., Paper: [http://arxiv.org/abs/2208.05438v1](http://arxiv.org/abs/2208.05438v1)
+- 2022-08-10, **Gravitational radiation at infinity with non-negative cosmological constant**, José M. M. Senovilla et.al., Paper: [http://arxiv.org/abs/2208.05436v1](http://arxiv.org/abs/2208.05436v1)
+- 2022-08-10, **Designing a 3D Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems**, Yuankun Fu et.al., Paper: [http://arxiv.org/abs/2208.05429v1](http://arxiv.org/abs/2208.05429v1)
+- 2022-08-10, **Inferred Properties of Planets in Mean-Motion Resonances are Biased by Measurement Noise**, David Jensen et.al., Paper: [http://arxiv.org/abs/2208.05423v1](http://arxiv.org/abs/2208.05423v1)
 - 2022-08-09, **A slow bar in the lenticular barred galaxy NGC 4277**, C. Buttitta et.al., Paper: [http://arxiv.org/abs/2208.04932v1](http://arxiv.org/abs/2208.04932v1)
 - 2022-08-09, **Co-lexicographically ordering automata and regular languages. Part I**, Nicola Cotumaccio et.al., Paper: [http://arxiv.org/abs/2208.04931v1](http://arxiv.org/abs/2208.04931v1)
 - 2022-08-09, **A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**, N. Laporte et.al., Paper: [http://arxiv.org/abs/2208.04930v1](http://arxiv.org/abs/2208.04930v1)

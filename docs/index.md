@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.10
+## Updated on 2022.08.11
 
 ## SLAM
 
@@ -129,7 +129,7 @@ layout: default
 |**2022-08-09**|**A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**|N. Laporte et.al.|[2208.04930v1](http://arxiv.org/abs/2208.04930v1)|null|
 |**2022-08-09**|**On the Activation Function Dependence of the Spectral Bias of Neural Networks**|Qingguo Hong et.al.|[2208.04924v1](http://arxiv.org/abs/2208.04924v1)|null|
 |**2022-08-09**|**SU(3)_f Constraints on Hypernuclear Energy Density Functionals**|Horst Lenske et.al.|[2208.04916v1](http://arxiv.org/abs/2208.04916v1)|null|
-|**2022-08-09**|**The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**|F. Cullen et.al.|[2208.04914v1](http://arxiv.org/abs/2208.04914v1)|null|
+|**2022-08-10**|**The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared imaging**|F. Cullen et.al.|[2208.04914v2](http://arxiv.org/abs/2208.04914v2)|null|
 |**2022-08-09**|**Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction**|David Joon Ho et.al.|[2208.04910v1](http://arxiv.org/abs/2208.04910v1)|null|
 |**2022-08-09**|**The economic cost of social distancing during a pandemic: an optimal control approach in the SVIR model**|Alessandro Ramponi et.al.|[2208.04908v1](http://arxiv.org/abs/2208.04908v1)|null|
 |**2022-08-09**|**A new uniqueness theorem for the tight C*-algebra of an inverse semigroup**|Charles Starling et.al.|[2208.04904v1](http://arxiv.org/abs/2208.04904v1)|null|

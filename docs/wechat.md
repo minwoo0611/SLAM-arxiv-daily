@@ -1,7 +1,8 @@
-> Updated on 2022.08.11
+> Updated on 2022.08.12
 
 ## SLAM
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
 - 2022-08-05, **A Survey on Visual Map Localization Using LiDARs and Cameras**, Elhousni Mahdi et.al., Paper: [http://arxiv.org/abs/2208.03376v1](http://arxiv.org/abs/2208.03376v1)
@@ -456,6 +457,9 @@
 
 ## LiDAR
 
+- 2022-08-11, **Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**, Hongchao Zhang et.al., Paper: [http://arxiv.org/abs/2208.05944v1](http://arxiv.org/abs/2208.05944v1)
+- 2022-08-11, **Predictive Angular Potential Field-based Obstacle Avoidance for Dynamic UAV Flights**, Daniel Schleich et.al., Paper: [http://arxiv.org/abs/2208.05873v1](http://arxiv.org/abs/2208.05873v1)
+- 2022-08-10, **Tightly confining lithium niobate photonic integrated circuits and lasers**, Zihan Li et.al., Paper: [http://arxiv.org/abs/2208.05556v1](http://arxiv.org/abs/2208.05556v1)
 - 2022-08-10, **Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**, Zhipeng Luo et.al., Paper: [http://arxiv.org/abs/2208.05216v1](http://arxiv.org/abs/2208.05216v1), Code: **[https://github.com/jasonkks/pttr](https://github.com/jasonkks/pttr)**
 - 2022-08-09, **Innovative photodetector for LIDAR systems**, K. Khuseynzada et.al., Paper: [http://arxiv.org/abs/2208.04694v1](http://arxiv.org/abs/2208.04694v1)
 - 2022-08-09, **Machine Learning for LiDAR-Based Navigation System**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.04531v1](http://arxiv.org/abs/2208.04531v1)
@@ -490,6 +494,16 @@
 
 ## Dynamic Object
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
+- 2022-08-11, **PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2208.05962v1](http://arxiv.org/abs/2208.05962v1)
+- 2022-08-11, **Photonic p-orbital higher-order topological insulators**, Yahui Zhang et.al., Paper: [http://arxiv.org/abs/2208.05961v1](http://arxiv.org/abs/2208.05961v1)
+- 2022-08-11, **Spatially quasi-periodic bifurcations from periodic traveling water waves and a method for detecting bifurcations using signed singular values**, Jon Wilkening et.al., Paper: [http://arxiv.org/abs/2208.05954v1](http://arxiv.org/abs/2208.05954v1)
+- 2022-08-11, **New Dynamical Degrees of Freedom from Invertible Transformations**, Pavel Jiroušek et.al., Paper: [http://arxiv.org/abs/2208.05951v1](http://arxiv.org/abs/2208.05951v1)
+- 2022-08-11, **What Represents Space-time? And What Follows for Substantivalism \emph{vs.} Relationalism and Gravitational Energy?**, J. Brian Pitts et.al., Paper: [http://arxiv.org/abs/2208.05946v1](http://arxiv.org/abs/2208.05946v1)
+- 2022-08-11, **Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**, Hongchao Zhang et.al., Paper: [http://arxiv.org/abs/2208.05944v1](http://arxiv.org/abs/2208.05944v1)
+- 2022-08-11, **Trion magnetic polarons in (Cd,Mn)Te/(Cd,Mn,Mg)Te quantum wells**, F. Godejohann et.al., Paper: [http://arxiv.org/abs/2208.05943v1](http://arxiv.org/abs/2208.05943v1)
+- 2022-08-11, **Stochastic Modelling of Star Formation Histories III. Constraints from Physically-Motivated Gaussian Processes**, Kartheik G. Iyer et.al., Paper: [http://arxiv.org/abs/2208.05938v1](http://arxiv.org/abs/2208.05938v1)
+- 2022-08-11, **Nonexistence of motility induced phase separation transition in one dimension**, Indranil Mukherjee et.al., Paper: [http://arxiv.org/abs/2208.05937v1](http://arxiv.org/abs/2208.05937v1)
 - 2022-08-10, **Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**, Lukas J. Furtak et.al., Paper: [http://arxiv.org/abs/2208.05473v1](http://arxiv.org/abs/2208.05473v1)
 - 2022-08-10, **EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2208.05470v1](http://arxiv.org/abs/2208.05470v1)
 - 2022-08-10, **Erasure qubits: Overcoming the $T_1$ limit in superconducting circuits**, Aleksander Kubica et.al., Paper: [http://arxiv.org/abs/2208.05461v1](http://arxiv.org/abs/2208.05461v1)

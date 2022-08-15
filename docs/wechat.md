@@ -1,7 +1,8 @@
-> Updated on 2022.08.14
+> Updated on 2022.08.15
 
 ## SLAM
 
+- 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
@@ -494,6 +495,16 @@
 
 ## Dynamic Object
 
+- 2022-08-12, **Direct Route to Thermodynamic Uncertainty Relations**, Cai Dieball et.al., Paper: [http://arxiv.org/abs/2208.06402v1](http://arxiv.org/abs/2208.06402v1)
+- 2022-08-12, **OUTformation: Distributed Data-Gathering with Feedback under Unknown Environment and Communication Delay Constraints**, SooJean Han et.al., Paper: [http://arxiv.org/abs/2208.06395v1](http://arxiv.org/abs/2208.06395v1)
+- 2022-08-12, **On the dimension of stationary measures for random piecewise affine interval homeomorphisms**, Krzysztof Barański et.al., Paper: [http://arxiv.org/abs/2208.06394v1](http://arxiv.org/abs/2208.06394v1)
+- 2022-08-12, **Autonomous Intelligent Software Development**, Mark Alan Matties et.al., Paper: [http://arxiv.org/abs/2208.06393v1](http://arxiv.org/abs/2208.06393v1)
+- 2022-08-12, **Internal energy exchanges and chaotic dynamics in an intrinsically coupled system**, M. C. de Sousa et.al., Paper: [http://arxiv.org/abs/2208.06390v1](http://arxiv.org/abs/2208.06390v1)
+- 2022-08-12, **Quantum metrology with ultracold chemical reactions**, Seong-Ho Shinn et.al., Paper: [http://arxiv.org/abs/2208.06380v1](http://arxiv.org/abs/2208.06380v1)
+- 2022-08-12, **Relational Action Bases: Formalization, Effective Safety Verification, and Invariants (Extended Version)**, Silvio Ghilardi et.al., Paper: [http://arxiv.org/abs/2208.06377v1](http://arxiv.org/abs/2208.06377v1)
+- 2022-08-12, **Markov Observation Models**, Michael A. Kouritzin et.al., Paper: [http://arxiv.org/abs/2208.06368v1](http://arxiv.org/abs/2208.06368v1)
+- 2022-08-12, **Finding Multiply-Lensed and Binary Quasars in the DESI Legacy Imaging Surveys**, C. Dawes et.al., Paper: [http://arxiv.org/abs/2208.06356v1](http://arxiv.org/abs/2208.06356v1)
+- 2022-08-12, **Ab initio self-consistent many-body theory of polarons at all couplings**, Jon Lafuente-Bartolome et.al., Paper: [http://arxiv.org/abs/2208.06352v1](http://arxiv.org/abs/2208.06352v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-11, **PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2208.05962v1](http://arxiv.org/abs/2208.05962v1), Code: **[https://github.com/immortalco/pointtree](https://github.com/immortalco/pointtree)**
 - 2022-08-11, **Photonic p-orbital higher-order topological insulators**, Yahui Zhang et.al., Paper: [http://arxiv.org/abs/2208.05961v1](http://arxiv.org/abs/2208.05961v1)

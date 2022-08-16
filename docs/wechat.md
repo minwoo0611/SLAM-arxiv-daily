@@ -458,6 +458,10 @@
 
 ## LiDAR
 
+- 2022-08-15, **Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2208.07364v1](http://arxiv.org/abs/2208.07364v1)
+- 2022-08-15, **Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**, Subodh Mishra et.al., Paper: [http://arxiv.org/abs/2208.07362v1](http://arxiv.org/abs/2208.07362v1)
+- 2022-08-15, **How Does Data Freshness Affect Real-time Supervised Learning?**, Md Kamran Chowdhury Shisher et.al., Paper: [http://arxiv.org/abs/2208.06948v1](http://arxiv.org/abs/2208.06948v1), Code: **[https://github.com/kamran0153/impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)**
+- 2022-08-14, **Identification of the energy contributions associated with wall-attached eddies and very-large-scale motions in the near-neutral atmospheric surface layer through wind LiDAR measurements**, Matteo Puccioni et.al., Paper: [http://arxiv.org/abs/2208.06908v1](http://arxiv.org/abs/2208.06908v1)
 - 2022-08-11, **Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**, Hongchao Zhang et.al., Paper: [http://arxiv.org/abs/2208.05944v1](http://arxiv.org/abs/2208.05944v1)
 - 2022-08-11, **Predictive Angular Potential Field-based Obstacle Avoidance for Dynamic UAV Flights**, Daniel Schleich et.al., Paper: [http://arxiv.org/abs/2208.05873v1](http://arxiv.org/abs/2208.05873v1)
 - 2022-08-10, **Tightly confining lithium niobate photonic integrated circuits and lasers**, Zihan Li et.al., Paper: [http://arxiv.org/abs/2208.05556v1](http://arxiv.org/abs/2208.05556v1)
@@ -495,6 +499,16 @@
 
 ## Dynamic Object
 
+- 2022-08-15, **Unsupervised Video Domain Adaptation: A Disentanglement Perspective**, Pengfei Wei et.al., Paper: [http://arxiv.org/abs/2208.07365v1](http://arxiv.org/abs/2208.07365v1), Code: **[https://github.com/ldkong1205/transvae](https://github.com/ldkong1205/transvae)**
+- 2022-08-15, **Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2208.07364v1](http://arxiv.org/abs/2208.07364v1)
+- 2022-08-15, **Stable Scheduling in Transactional Memory**, Costas Busch et.al., Paper: [http://arxiv.org/abs/2208.07359v1](http://arxiv.org/abs/2208.07359v1)
+- 2022-08-15, **From Ramsey degrees to Ramsey expansions via weak amalgamation**, Dragan Mašulović et.al., Paper: [http://arxiv.org/abs/2208.07351v1](http://arxiv.org/abs/2208.07351v1)
+- 2022-08-15, **Exponentiability in categories of relational structures**, Jason Parker et.al., Paper: [http://arxiv.org/abs/2208.07350v1](http://arxiv.org/abs/2208.07350v1)
+- 2022-08-15, **Charmenability and Stiffness of Arithmetic Groups**, Uri Bader et.al., Paper: [http://arxiv.org/abs/2208.07347v1](http://arxiv.org/abs/2208.07347v1)
+- 2022-08-15, **Action Recognition based on Cross-Situational Action-object Statistics**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2208.07344v1](http://arxiv.org/abs/2208.07344v1)
+- 2022-08-15, **Every graph with no $\mathcal{K}_8^{-4}$ minor is $7$-colorable**, Michael Lafferty et.al., Paper: [http://arxiv.org/abs/2208.07338v1](http://arxiv.org/abs/2208.07338v1)
+- 2022-08-15, **Domain-aware Control-oriented Neural Models for Autonomous Underwater Vehicles**, Wenceslao Shaw Cortez et.al., Paper: [http://arxiv.org/abs/2208.07333v1](http://arxiv.org/abs/2208.07333v1)
+- 2022-08-15, **Is far from equilibrium dynamics of superconductors quantum or classical?**, Aidan Zabalo et.al., Paper: [http://arxiv.org/abs/2208.07320v1](http://arxiv.org/abs/2208.07320v1)
 - 2022-08-12, **Direct Route to Thermodynamic Uncertainty Relations**, Cai Dieball et.al., Paper: [http://arxiv.org/abs/2208.06402v1](http://arxiv.org/abs/2208.06402v1)
 - 2022-08-12, **OUTformation: Distributed Data-Gathering with Feedback under Unknown Environment and Communication Delay Constraints**, SooJean Han et.al., Paper: [http://arxiv.org/abs/2208.06395v1](http://arxiv.org/abs/2208.06395v1)
 - 2022-08-12, **On the dimension of stationary measures for random piecewise affine interval homeomorphisms**, Krzysztof Barański et.al., Paper: [http://arxiv.org/abs/2208.06394v1](http://arxiv.org/abs/2208.06394v1)

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
@@ -91,6 +92,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-15**|**Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**|Hao Dong et.al.|[2208.07364v1](http://arxiv.org/abs/2208.07364v1)|**[link](https://github.com/PRBonn/pole-localization)**|
 |**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
 |**2022-08-15**|**How Does Data Freshness Affect Real-time Supervised Learning?**|Md Kamran Chowdhury Shisher et.al.|[2208.06948v1](http://arxiv.org/abs/2208.06948v1)|**[link](https://github.com/kamran0153/impact-of-data-freshness-in-learning)**|
@@ -134,6 +136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-16**|**Sublimation Origin of Active Asteroid P/2018 P3**|Yoonyoung Kim et.al.|[2208.07868v1](http://arxiv.org/abs/2208.07868v1)|null|
+|**2022-08-16**|**StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**|Haonan Qiu et.al.|[2208.07862v1](http://arxiv.org/abs/2208.07862v1)|null|
+|**2022-08-16**|**Physiochemical hydrodynamics of the phase segregation in an evaporating binary microdroplet**|Yaxing Li et.al.|[2208.07861v1](http://arxiv.org/abs/2208.07861v1)|null|
+|**2022-08-16**|**Entropy Current and Fluid-Gravity Duality in Gauss-Bonnet theory**|Chandranathan A et.al.|[2208.07856v1](http://arxiv.org/abs/2208.07856v1)|null|
+|**2022-08-16**|**Topological Speedups For Minimal Cantor Systems**|Drew D. Ash et.al.|[2208.07854v1](http://arxiv.org/abs/2208.07854v1)|null|
+|**2022-08-16**|**Microscopic response theory for strongly-coupled superfluid fermionic systems**|Elena Litvinova et.al.|[2208.07843v1](http://arxiv.org/abs/2208.07843v1)|null|
+|**2022-08-16**|**Chiral Gauge Dynamics: Candidates for Non-Supersymmetric Dualities**|Avner Karasik et.al.|[2208.07842v1](http://arxiv.org/abs/2208.07842v1)|null|
+|**2022-08-16**|**PICASO 3.0: A One-Dimensional Climate Model for Giant Planets and Brown Dwarfs**|Sagnick Mukherjee et.al.|[2208.07836v1](http://arxiv.org/abs/2208.07836v1)|null|
+|**2022-08-16**|**What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation**|Wei Zhou et.al.|[2208.07833v1](http://arxiv.org/abs/2208.07833v1)|null|
+|**2022-08-16**|**Structured prior distributions for the covariance matrix in latent factor models**|Sarah Elizabeth Heaps et.al.|[2208.07831v1](http://arxiv.org/abs/2208.07831v1)|null|
 |**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
 |**2022-08-15**|**Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**|Hao Dong et.al.|[2208.07364v1](http://arxiv.org/abs/2208.07364v1)|**[link](https://github.com/PRBonn/pole-localization)**|
 |**2022-08-15**|**Stable Scheduling in Transactional Memory**|Costas Busch et.al.|[2208.07359v1](http://arxiv.org/abs/2208.07359v1)|null|

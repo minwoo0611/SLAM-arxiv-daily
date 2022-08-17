@@ -502,7 +502,7 @@
 ## Dynamic Object
 
 - 2022-08-16, **Sublimation Origin of Active Asteroid P/2018 P3**, Yoonyoung Kim et.al., Paper: [http://arxiv.org/abs/2208.07868v1](http://arxiv.org/abs/2208.07868v1)
-- 2022-08-16, **StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2208.07862v1](http://arxiv.org/abs/2208.07862v1)
+- 2022-08-16, **StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2208.07862v1](http://arxiv.org/abs/2208.07862v1), Code: **[https://github.com/arthur-qiu/stylefacev](https://github.com/arthur-qiu/stylefacev)**
 - 2022-08-16, **Physiochemical hydrodynamics of the phase segregation in an evaporating binary microdroplet**, Yaxing Li et.al., Paper: [http://arxiv.org/abs/2208.07861v1](http://arxiv.org/abs/2208.07861v1)
 - 2022-08-16, **Entropy Current and Fluid-Gravity Duality in Gauss-Bonnet theory**, Chandranathan A et.al., Paper: [http://arxiv.org/abs/2208.07856v1](http://arxiv.org/abs/2208.07856v1)
 - 2022-08-16, **Topological Speedups For Minimal Cantor Systems**, Drew D. Ash et.al., Paper: [http://arxiv.org/abs/2208.07854v1](http://arxiv.org/abs/2208.07854v1)

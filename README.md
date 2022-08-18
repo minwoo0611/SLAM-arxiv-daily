@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-15**|**Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**|Hao Dong et.al.|[2208.07364v1](http://arxiv.org/abs/2208.07364v1)|**[link](https://github.com/PRBonn/pole-localization)**|
 |**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
@@ -132,6 +133,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Structural relaxation, dynamical arrest and aging in soft-sphere liquids**|Patricia Mendoza-Méndez et.al.|[2208.08436v1](http://arxiv.org/abs/2208.08436v1)|null|
+|**2022-08-17**|**Individual Claims Reserving using Activation Patterns**|Marie Michaelides et.al.|[2208.08430v1](http://arxiv.org/abs/2208.08430v1)|null|
+|**2022-08-17**|**Phase dynamics in an AC driven multiterminal Josephson junction analogue**|François Amet et.al.|[2208.08428v1](http://arxiv.org/abs/2208.08428v1)|null|
+|**2022-08-17**|**Anomalous Josephson effect and rectification in junctions between Floquet topological superconductors**|Abhiram Soori et.al.|[2208.08427v1](http://arxiv.org/abs/2208.08427v1)|null|
+|**2022-08-17**|**Microscopic Activated Dynamics Theory of the Shear Rheology and Stress Overshoot in Ultra-Dense Glass-Forming Fluids and Colloidal Suspensions**|Ashesh Ghosh et.al.|[2208.08419v1](http://arxiv.org/abs/2208.08419v1)|null|
+|**2022-08-17**|**Estimation and Specification Test for Diffusion Models with Stochastic Volatility**|Alejandra López-Pérez et.al.|[2208.08415v1](http://arxiv.org/abs/2208.08415v1)|null|
+|**2022-08-17**|**Symmetries and zero modes in sample path large deviations**|Timo Schorlepp et.al.|[2208.08413v1](http://arxiv.org/abs/2208.08413v1)|null|
+|**2022-08-17**|**Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency**|Baoru Huang et.al.|[2208.08407v1](http://arxiv.org/abs/2208.08407v1)|null|
+|**2022-08-17**|**Finite temperature dynamics in gapped 1D models in the sine-Gordon family**|Márton Kormos et.al.|[2208.08406v1](http://arxiv.org/abs/2208.08406v1)|null|
+|**2022-08-17**|**Characteristic, dynamic, and near saturation regions of Out-of-time-order correlation in Floquet Ising models**|Rohit Kumar Shukla et.al.|[2208.08283v1](http://arxiv.org/abs/2208.08283v1)|null|
 |**2022-08-16**|**Sublimation Origin of Active Asteroid P/2018 P3**|Yoonyoung Kim et.al.|[2208.07868v1](http://arxiv.org/abs/2208.07868v1)|null|
 |**2022-08-16**|**StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**|Haonan Qiu et.al.|[2208.07862v1](http://arxiv.org/abs/2208.07862v1)|**[link](https://github.com/arthur-qiu/stylefacev)**|
 |**2022-08-16**|**Physiochemical hydrodynamics of the phase segregation in an evaporating binary microdroplet**|Yaxing Li et.al.|[2208.07861v1](http://arxiv.org/abs/2208.07861v1)|null|

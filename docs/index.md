@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.17
+## Updated on 2022.08.18
 
 ## SLAM
 
@@ -139,12 +139,12 @@ layout: default
 |**2022-08-16**|**Sublimation Origin of Active Asteroid P/2018 P3**|Yoonyoung Kim et.al.|[2208.07868v1](http://arxiv.org/abs/2208.07868v1)|null|
 |**2022-08-16**|**StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**|Haonan Qiu et.al.|[2208.07862v1](http://arxiv.org/abs/2208.07862v1)|**[link](https://github.com/arthur-qiu/stylefacev)**|
 |**2022-08-16**|**Physiochemical hydrodynamics of the phase segregation in an evaporating binary microdroplet**|Yaxing Li et.al.|[2208.07861v1](http://arxiv.org/abs/2208.07861v1)|null|
-|**2022-08-16**|**Entropy Current and Fluid-Gravity Duality in Gauss-Bonnet theory**|Chandranathan A et.al.|[2208.07856v1](http://arxiv.org/abs/2208.07856v1)|null|
+|**2022-08-17**|**Entropy Current and Fluid-Gravity Duality in Gauss-Bonnet theory**|Chandranathan A et.al.|[2208.07856v2](http://arxiv.org/abs/2208.07856v2)|null|
 |**2022-08-16**|**Topological Speedups For Minimal Cantor Systems**|Drew D. Ash et.al.|[2208.07854v1](http://arxiv.org/abs/2208.07854v1)|null|
 |**2022-08-16**|**Microscopic response theory for strongly-coupled superfluid fermionic systems**|Elena Litvinova et.al.|[2208.07843v1](http://arxiv.org/abs/2208.07843v1)|null|
 |**2022-08-16**|**Chiral Gauge Dynamics: Candidates for Non-Supersymmetric Dualities**|Avner Karasik et.al.|[2208.07842v1](http://arxiv.org/abs/2208.07842v1)|null|
 |**2022-08-16**|**PICASO 3.0: A One-Dimensional Climate Model for Giant Planets and Brown Dwarfs**|Sagnick Mukherjee et.al.|[2208.07836v1](http://arxiv.org/abs/2208.07836v1)|null|
-|**2022-08-16**|**What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation**|Wei Zhou et.al.|[2208.07833v1](http://arxiv.org/abs/2208.07833v1)|null|
+|**2022-08-17**|**What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation**|Wei Zhou et.al.|[2208.07833v2](http://arxiv.org/abs/2208.07833v2)|null|
 |**2022-08-16**|**Structured prior distributions for the covariance matrix in latent factor models**|Sarah Elizabeth Heaps et.al.|[2208.07831v1](http://arxiv.org/abs/2208.07831v1)|null|
 |**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
 |**2022-08-15**|**Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**|Hao Dong et.al.|[2208.07364v1](http://arxiv.org/abs/2208.07364v1)|**[link](https://github.com/PRBonn/pole-localization)**|

@@ -92,6 +92,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Ret3D: Rethinking Object Relations for Efficient 3D Object Detection in Driving Scenes**|Yu-Huan Wu et.al.|[2208.08621v1](http://arxiv.org/abs/2208.08621v1)|null|
+|**2022-08-17**|**Visual Cross-View Metric Localization with Dense Uncertainty Estimates**|Zimin Xia et.al.|[2208.08519v1](http://arxiv.org/abs/2208.08519v1)|**[link](https://github.com/tudelft-iv/crossviewmetriclocalization)**|
 |**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani et.al.|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-15**|**Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments**|Hao Dong et.al.|[2208.07364v1](http://arxiv.org/abs/2208.07364v1)|**[link](https://github.com/PRBonn/pole-localization)**|
@@ -137,6 +139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Open-Vocabulary Panoptic Segmentation with MaskCLIP**|Zheng Ding et.al.|[2208.08984v1](http://arxiv.org/abs/2208.08984v1)|null|
+|**2022-08-18**|**Quality issues in Machine Learning Software Systems**|Pierre-Olivier Côté et.al.|[2208.08982v1](http://arxiv.org/abs/2208.08982v1)|**[link](https://github.com/poclecoqq/quality_issues_in_mlsss)**|
+|**2022-08-18**|**Stabilizing multiple equilibria and cycles with noisy prediction-based control**|Elena Braverman et.al.|[2208.08980v1](http://arxiv.org/abs/2208.08980v1)|null|
+|**2022-08-18**|**Nonlinearity of the post-spinel transition and its expression in slabs and plumes worldwide**|Junjie Dong et.al.|[2208.08975v1](http://arxiv.org/abs/2208.08975v1)|null|
+|**2022-08-18**|**GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**|Zhi-Qi Cheng et.al.|[2208.08965v1](http://arxiv.org/abs/2208.08965v1)|null|
+|**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
+|**2022-08-18**|**Early Warnings for Multistage Transitions in Dynamics on Networks**|Neil G. MacLaren et.al.|[2208.08961v1](http://arxiv.org/abs/2208.08961v1)|null|
+|**2022-08-18**|**DeepClouds.ai: Deep learning enabled computationally cheap direct numerical simulations**|Moumita Bhowmik et.al.|[2208.08956v1](http://arxiv.org/abs/2208.08956v1)|null|
+|**2022-08-18**|**Optimal Energy Management in Autonomous Power Systems with Probabilistic Security Constraints and Adaptive Frequency Control**|Spyridon Chapaloglou et.al.|[2208.08953v1](http://arxiv.org/abs/2208.08953v1)|null|
+|**2022-08-18**|**KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**|Fangquan Lin et.al.|[2208.08952v1](http://arxiv.org/abs/2208.08952v1)|null|
 |**2022-08-17**|**Structural relaxation, dynamical arrest and aging in soft-sphere liquids**|Patricia Mendoza-Méndez et.al.|[2208.08436v1](http://arxiv.org/abs/2208.08436v1)|null|
 |**2022-08-17**|**Individual Claims Reserving using Activation Patterns**|Marie Michaelides et.al.|[2208.08430v1](http://arxiv.org/abs/2208.08430v1)|null|
 |**2022-08-17**|**Phase dynamics in an AC driven multiterminal Josephson junction analogue**|François Amet et.al.|[2208.08428v1](http://arxiv.org/abs/2208.08428v1)|null|

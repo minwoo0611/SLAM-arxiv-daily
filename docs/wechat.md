@@ -510,7 +510,7 @@
 - 2022-08-18, **Nonlinearity of the post-spinel transition and its expression in slabs and plumes worldwide**, Junjie Dong et.al., Paper: [http://arxiv.org/abs/2208.08975v1](http://arxiv.org/abs/2208.08975v1)
 - 2022-08-18, **GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**, Zhi-Qi Cheng et.al., Paper: [http://arxiv.org/abs/2208.08965v1](http://arxiv.org/abs/2208.08965v1)
 - 2022-08-18, **Stable Object Reorientation using Contact Plane Registration**, Richard Li et.al., Paper: [http://arxiv.org/abs/2208.08962v1](http://arxiv.org/abs/2208.08962v1)
-- 2022-08-18, **Early Warnings for Multistage Transitions in Dynamics on Networks**, Neil G. MacLaren et.al., Paper: [http://arxiv.org/abs/2208.08961v1](http://arxiv.org/abs/2208.08961v1)
+- 2022-08-18, **Early Warnings for Multistage Transitions in Dynamics on Networks**, Neil G. MacLaren et.al., Paper: [http://arxiv.org/abs/2208.08961v1](http://arxiv.org/abs/2208.08961v1), Code: **[https://github.com/ngmaclaren/doublewells](https://github.com/ngmaclaren/doublewells)**
 - 2022-08-18, **DeepClouds.ai: Deep learning enabled computationally cheap direct numerical simulations**, Moumita Bhowmik et.al., Paper: [http://arxiv.org/abs/2208.08956v1](http://arxiv.org/abs/2208.08956v1)
 - 2022-08-18, **Optimal Energy Management in Autonomous Power Systems with Probabilistic Security Constraints and Adaptive Frequency Control**, Spyridon Chapaloglou et.al., Paper: [http://arxiv.org/abs/2208.08953v1](http://arxiv.org/abs/2208.08953v1)
 - 2022-08-18, **KDD CUP 2022 Wind Power Forecasting Team 88VIP Solution**, Fangquan Lin et.al., Paper: [http://arxiv.org/abs/2208.08952v1](http://arxiv.org/abs/2208.08952v1)

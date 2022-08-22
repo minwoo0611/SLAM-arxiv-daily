@@ -504,6 +504,16 @@
 
 ## Dynamic Object
 
+- 2022-08-19, **Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion**, Zian Wang et.al., Paper: [http://arxiv.org/abs/2208.09480v1](http://arxiv.org/abs/2208.09480v1)
+- 2022-08-19, **Diophantine statements over Residue fields: Galois stratification and uniformity**, Michael D. Fried et.al., Paper: [http://arxiv.org/abs/2208.09476v1](http://arxiv.org/abs/2208.09476v1)
+- 2022-08-19, **Counting surfaces on Calabi-Yau 4-folds I: Foundations**, Younghan Bae et.al., Paper: [http://arxiv.org/abs/2208.09474v1](http://arxiv.org/abs/2208.09474v1)
+- 2022-08-19, **Accounting for surface temperature variations in Rayleigh-Bénard convection**, Jason Olsthoorn et.al., Paper: [http://arxiv.org/abs/2208.09471v1](http://arxiv.org/abs/2208.09471v1)
+- 2022-08-19, **Rogue planets and brown dwarfs: Predicting the populations free-floating planetary mass objects observable with JWST**, Aleks Scholz et.al., Paper: [http://arxiv.org/abs/2208.09465v1](http://arxiv.org/abs/2208.09465v1)
+- 2022-08-19, **Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2208.09463v1](http://arxiv.org/abs/2208.09463v1)
+- 2022-08-19, **Dynamical transitions and aging in the superdiffusive Pomeau-Manneville map**, Samuel Brevitt et.al., Paper: [http://arxiv.org/abs/2208.09458v1](http://arxiv.org/abs/2208.09458v1)
+- 2022-08-19, **Unified Policy Optimization for Continuous-action Reinforcement Learning in Non-stationary Tasks and Games**, Rong-Jun Qin et.al., Paper: [http://arxiv.org/abs/2208.09452v1](http://arxiv.org/abs/2208.09452v1)
+- 2022-08-19, **Macro to micro phase separation in a collection of chiral active swimmers**, Vivek Semwal et.al., Paper: [http://arxiv.org/abs/2208.09448v1](http://arxiv.org/abs/2208.09448v1)
+- 2022-08-19, **MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation**, Han Sun et.al., Paper: [http://arxiv.org/abs/2208.09446v1](http://arxiv.org/abs/2208.09446v1)
 - 2022-08-18, **Open-Vocabulary Panoptic Segmentation with MaskCLIP**, Zheng Ding et.al., Paper: [http://arxiv.org/abs/2208.08984v1](http://arxiv.org/abs/2208.08984v1)
 - 2022-08-18, **Quality issues in Machine Learning Software Systems**, Pierre-Olivier Côté et.al., Paper: [http://arxiv.org/abs/2208.08982v1](http://arxiv.org/abs/2208.08982v1), Code: **[https://github.com/poclecoqq/quality_issues_in_mlsss](https://github.com/poclecoqq/quality_issues_in_mlsss)**
 - 2022-08-18, **Stabilizing multiple equilibria and cycles with noisy prediction-based control**, Elena Braverman et.al., Paper: [http://arxiv.org/abs/2208.08980v1](http://arxiv.org/abs/2208.08980v1)

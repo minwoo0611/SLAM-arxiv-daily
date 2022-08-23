@@ -147,7 +147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-22**|**Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**|Christopher C. Lovell et.al.|[2208.10479v1](http://arxiv.org/abs/2208.10479v1)|null|
+|**2022-08-22**|**Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**|Christopher C. Lovell et.al.|[2208.10479v1](http://arxiv.org/abs/2208.10479v1)|**[link](https://github.com/christopherlovell/evstats)**|
 |**2022-08-22**|**Get It in Writing: Formal Contracts Mitigate Social Dilemmas in Multi-Agent RL**|Phillip J. K. Christoffersen et.al.|[2208.10469v1](http://arxiv.org/abs/2208.10469v1)|null|
 |**2022-08-22**|**Evaporation of non-circular droplets**|Alexander W. Wray et.al.|[2208.10468v1](http://arxiv.org/abs/2208.10468v1)|null|
 |**2022-08-22**|**The physics of hypomagnetic field effects in the radical pair mechanism**|Hadi Zadeh-Haghighi et.al.|[2208.10465v1](http://arxiv.org/abs/2208.10465v1)|null|

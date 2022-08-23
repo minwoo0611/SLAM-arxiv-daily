@@ -2,6 +2,9 @@
 
 ## SLAM
 
+- 2022-08-22, **Doppler Exploitation in Bistatic mmWave Radio SLAM**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2208.10204v1](http://arxiv.org/abs/2208.10204v1)
+- 2022-08-21, **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2208.09825v1](http://arxiv.org/abs/2208.09825v1)
+- 2022-08-21, **JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**, Longrui Dong et.al., Paper: [http://arxiv.org/abs/2208.09777v1](http://arxiv.org/abs/2208.09777v1)
 - 2022-08-15, **BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**, Yunge Cui et.al., Paper: [http://arxiv.org/abs/2208.07473v1](http://arxiv.org/abs/2208.07473v1)
 - 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
@@ -459,6 +462,11 @@
 
 ## LiDAR
 
+- 2022-08-22, **SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2208.10449v1](http://arxiv.org/abs/2208.10449v1)
+- 2022-08-22, **Physical LiDAR Simulation in Real-Time Engine**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10295v1](http://arxiv.org/abs/2208.10295v1)
+- 2022-08-21, **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2208.09825v1](http://arxiv.org/abs/2208.09825v1)
+- 2022-08-21, **Photonic integrated circuit with multiple waveguide layers for broadband high-efficient on-chip 3-D optical phased arrays in light detection and ranging applications**, Dachuan Wu et.al., Paper: [http://arxiv.org/abs/2208.09783v1](http://arxiv.org/abs/2208.09783v1)
+- 2022-08-21, **JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**, Longrui Dong et.al., Paper: [http://arxiv.org/abs/2208.09777v1](http://arxiv.org/abs/2208.09777v1)
 - 2022-08-18, **Ret3D: Rethinking Object Relations for Efficient 3D Object Detection in Driving Scenes**, Yu-Huan Wu et.al., Paper: [http://arxiv.org/abs/2208.08621v1](http://arxiv.org/abs/2208.08621v1)
 - 2022-08-17, **Visual Cross-View Metric Localization with Dense Uncertainty Estimates**, Zimin Xia et.al., Paper: [http://arxiv.org/abs/2208.08519v1](http://arxiv.org/abs/2208.08519v1), Code: **[https://github.com/tudelft-iv/crossviewmetriclocalization](https://github.com/tudelft-iv/crossviewmetriclocalization)**
 - 2022-08-16, **NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**, Amir Salimi Lafmejani et.al., Paper: [http://arxiv.org/abs/2208.07974v1](http://arxiv.org/abs/2208.07974v1)
@@ -504,6 +512,16 @@
 
 ## Dynamic Object
 
+- 2022-08-22, **Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**, Christopher C. Lovell et.al., Paper: [http://arxiv.org/abs/2208.10479v1](http://arxiv.org/abs/2208.10479v1)
+- 2022-08-22, **Get It in Writing: Formal Contracts Mitigate Social Dilemmas in Multi-Agent RL**, Phillip J. K. Christoffersen et.al., Paper: [http://arxiv.org/abs/2208.10469v1](http://arxiv.org/abs/2208.10469v1)
+- 2022-08-22, **Evaporation of non-circular droplets**, Alexander W. Wray et.al., Paper: [http://arxiv.org/abs/2208.10468v1](http://arxiv.org/abs/2208.10468v1)
+- 2022-08-22, **The physics of hypomagnetic field effects in the radical pair mechanism**, Hadi Zadeh-Haghighi et.al., Paper: [http://arxiv.org/abs/2208.10465v1](http://arxiv.org/abs/2208.10465v1)
+- 2022-08-22, **Minimax-Optimal Multi-Agent RL in Zero-Sum Markov Games With a Generative Model**, Gen Li et.al., Paper: [http://arxiv.org/abs/2208.10458v1](http://arxiv.org/abs/2208.10458v1)
+- 2022-08-22, **Problem-Size Independent Angles for a Grover-Driven Quantum Approximate Optimization Algorithm**, David Headley et.al., Paper: [http://arxiv.org/abs/2208.10453v1](http://arxiv.org/abs/2208.10453v1)
+- 2022-08-22, **Transonic buffet characteristics under conditions of free and forced transition**, Pradeep Moise et.al., Paper: [http://arxiv.org/abs/2208.10452v1](http://arxiv.org/abs/2208.10452v1)
+- 2022-08-22, **SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2208.10449v1](http://arxiv.org/abs/2208.10449v1)
+- 2022-08-22, **Mass fluctuations in Random Average Transfer Process in open set-up**, Rahul Dandekar et.al., Paper: [http://arxiv.org/abs/2208.10446v1](http://arxiv.org/abs/2208.10446v1)
+- 2022-08-22, **Dual PIC: a structure preserving method for discretizing Lie-Poisson brackets**, William Barham et.al., Paper: [http://arxiv.org/abs/2208.10444v1](http://arxiv.org/abs/2208.10444v1)
 - 2022-08-19, **Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion**, Zian Wang et.al., Paper: [http://arxiv.org/abs/2208.09480v1](http://arxiv.org/abs/2208.09480v1)
 - 2022-08-19, **Diophantine statements over Residue fields: Galois stratification and uniformity**, Michael D. Fried et.al., Paper: [http://arxiv.org/abs/2208.09476v1](http://arxiv.org/abs/2208.09476v1)
 - 2022-08-19, **Counting surfaces on Calabi-Yau 4-folds I: Foundations**, Younghan Bae et.al., Paper: [http://arxiv.org/abs/2208.09474v1](http://arxiv.org/abs/2208.09474v1)

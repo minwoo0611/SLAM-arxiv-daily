@@ -1,4 +1,4 @@
-> Updated on 2022.08.22
+> Updated on 2022.08.23
 
 ## SLAM
 
@@ -508,7 +508,7 @@
 - 2022-08-19, **Diophantine statements over Residue fields: Galois stratification and uniformity**, Michael D. Fried et.al., Paper: [http://arxiv.org/abs/2208.09476v1](http://arxiv.org/abs/2208.09476v1)
 - 2022-08-19, **Counting surfaces on Calabi-Yau 4-folds I: Foundations**, Younghan Bae et.al., Paper: [http://arxiv.org/abs/2208.09474v1](http://arxiv.org/abs/2208.09474v1)
 - 2022-08-19, **Accounting for surface temperature variations in Rayleigh-Bénard convection**, Jason Olsthoorn et.al., Paper: [http://arxiv.org/abs/2208.09471v1](http://arxiv.org/abs/2208.09471v1)
-- 2022-08-19, **Rogue planets and brown dwarfs: Predicting the populations free-floating planetary mass objects observable with JWST**, Aleks Scholz et.al., Paper: [http://arxiv.org/abs/2208.09465v1](http://arxiv.org/abs/2208.09465v1)
+- 2022-08-22, **Rogue planets and brown dwarfs: Predicting the populations of free-floating planetary mass objects observable with JWST**, Aleks Scholz et.al., Paper: [http://arxiv.org/abs/2208.09465v2](http://arxiv.org/abs/2208.09465v2)
 - 2022-08-19, **Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2208.09463v1](http://arxiv.org/abs/2208.09463v1)
 - 2022-08-19, **Dynamical transitions and aging in the superdiffusive Pomeau-Manneville map**, Samuel Brevitt et.al., Paper: [http://arxiv.org/abs/2208.09458v1](http://arxiv.org/abs/2208.09458v1)
 - 2022-08-19, **Unified Policy Optimization for Continuous-action Reinforcement Learning in Non-stationary Tasks and Games**, Rong-Jun Qin et.al., Paper: [http://arxiv.org/abs/2208.09452v1](http://arxiv.org/abs/2208.09452v1)

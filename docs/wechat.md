@@ -1,4 +1,4 @@
-> Updated on 2022.08.23
+> Updated on 2022.08.24
 
 ## SLAM
 
@@ -463,7 +463,7 @@
 ## LiDAR
 
 - 2022-08-22, **SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2208.10449v1](http://arxiv.org/abs/2208.10449v1)
-- 2022-08-22, **Physical LiDAR Simulation in Real-Time Engine**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10295v1](http://arxiv.org/abs/2208.10295v1), Code: **[https://github.com/cosys-lab/gpulidar-airsim](https://github.com/cosys-lab/gpulidar-airsim)**
+- 2022-08-23, **Physical LiDAR Simulation in Real-Time Engine**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10295v2](http://arxiv.org/abs/2208.10295v2), Code: **[https://github.com/cosys-lab/gpulidar-airsim](https://github.com/cosys-lab/gpulidar-airsim)**
 - 2022-08-21, **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2208.09825v1](http://arxiv.org/abs/2208.09825v1)
 - 2022-08-21, **Photonic integrated circuit with multiple waveguide layers for broadband high-efficient on-chip 3-D optical phased arrays in light detection and ranging applications**, Dachuan Wu et.al., Paper: [http://arxiv.org/abs/2208.09783v1](http://arxiv.org/abs/2208.09783v1)
 - 2022-08-21, **JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**, Longrui Dong et.al., Paper: [http://arxiv.org/abs/2208.09777v1](http://arxiv.org/abs/2208.09777v1)

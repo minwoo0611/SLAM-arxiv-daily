@@ -462,6 +462,7 @@
 
 ## LiDAR
 
+- 2022-08-23, **Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**, Jinrong Yang et.al., Paper: [http://arxiv.org/abs/2208.10976v1](http://arxiv.org/abs/2208.10976v1)
 - 2022-08-22, **SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2208.10449v1](http://arxiv.org/abs/2208.10449v1)
 - 2022-08-23, **Physical LiDAR Simulation in Real-Time Engine**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10295v2](http://arxiv.org/abs/2208.10295v2), Code: **[https://github.com/cosys-lab/gpulidar-airsim](https://github.com/cosys-lab/gpulidar-airsim)**
 - 2022-08-21, **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2208.09825v1](http://arxiv.org/abs/2208.09825v1)
@@ -512,6 +513,16 @@
 
 ## Dynamic Object
 
+- 2022-08-23, **Distance-Aware Occlusion Detection with Focused Attention**, Yang Li et.al., Paper: [http://arxiv.org/abs/2208.11122v1](http://arxiv.org/abs/2208.11122v1), Code: **[https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)**
+- 2022-08-23, **ATLASGAL - Star forming efficiencies and the Galactic star formation rate**, M. R. A. Wells et.al., Paper: [http://arxiv.org/abs/2208.11121v1](http://arxiv.org/abs/2208.11121v1)
+- 2022-08-23, **Polynomial log-volume growth of quasi-unipotent automorphisms of abelian varieties**, Fei Hu et.al., Paper: [http://arxiv.org/abs/2208.11120v1](http://arxiv.org/abs/2208.11120v1)
+- 2022-08-23, **Limits of Entrainment of Circadian Neuronal Networks**, Yorgos M. Psarellis et.al., Paper: [http://arxiv.org/abs/2208.11119v1](http://arxiv.org/abs/2208.11119v1)
+- 2022-08-23, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v1](http://arxiv.org/abs/2208.11112v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2022-08-23, **Magnetic Relaxation of a Voigt-MHD System**, Peter Constantin et.al., Paper: [http://arxiv.org/abs/2208.11109v1](http://arxiv.org/abs/2208.11109v1)
+- 2022-08-23, **Approximations on Spirallike domains of $\mathbb{C}^{n}$**, Sanjoy Chatterjee et.al., Paper: [http://arxiv.org/abs/2208.11107v1](http://arxiv.org/abs/2208.11107v1)
+- 2022-08-23, **Quantum Information Approach to the Implementation of a Neutron Cavity**, O. Nahman-Lévesque et.al., Paper: [http://arxiv.org/abs/2208.11098v1](http://arxiv.org/abs/2208.11098v1)
+- 2022-08-23, **Novel reaction force for ultra-relativistic dynamics of a classical point charge**, P. Martín-Luna et.al., Paper: [http://arxiv.org/abs/2208.11096v1](http://arxiv.org/abs/2208.11096v1)
+- 2022-08-23, **Dynamic Causal Collaborative Filtering**, Shuyuan Xu et.al., Paper: [http://arxiv.org/abs/2208.11094v1](http://arxiv.org/abs/2208.11094v1)
 - 2022-08-22, **Extreme Value Statistics of the Halo and Stellar Mass Distributions at High Redshift: are JWST Results in Tension with ΛCDM?**, Christopher C. Lovell et.al., Paper: [http://arxiv.org/abs/2208.10479v1](http://arxiv.org/abs/2208.10479v1), Code: **[https://github.com/christopherlovell/evstats](https://github.com/christopherlovell/evstats)**
 - 2022-08-22, **Get It in Writing: Formal Contracts Mitigate Social Dilemmas in Multi-Agent RL**, Phillip J. K. Christoffersen et.al., Paper: [http://arxiv.org/abs/2208.10469v1](http://arxiv.org/abs/2208.10469v1)
 - 2022-08-22, **Evaporation of non-circular droplets**, Alexander W. Wray et.al., Paper: [http://arxiv.org/abs/2208.10468v1](http://arxiv.org/abs/2208.10468v1)

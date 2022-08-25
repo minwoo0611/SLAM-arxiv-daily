@@ -516,7 +516,7 @@
 
 ## Dynamic Object
 
-- 2022-08-24, **Bugs in the Data: How ImageNet Misrepresents Biodiversity**, Alexandra Sasha Luccioni et.al., Paper: [http://arxiv.org/abs/2208.11695v1](http://arxiv.org/abs/2208.11695v1)
+- 2022-08-24, **Bugs in the Data: How ImageNet Misrepresents Biodiversity**, Alexandra Sasha Luccioni et.al., Paper: [http://arxiv.org/abs/2208.11695v1](http://arxiv.org/abs/2208.11695v1), Code: **[https://github.com/rolnicklab/imagenetbiodiversity](https://github.com/rolnicklab/imagenetbiodiversity)**
 - 2022-08-24, **Evolutionary Stable Strategies and Cubic Vector Fields**, Jefferson Bastos et.al., Paper: [http://arxiv.org/abs/2208.11694v1](http://arxiv.org/abs/2208.11694v1)
 - 2022-08-24, **Analysis of point-contact models of the bounce of a hard spinning ball on a compliant frictional surface**, Stanisław W. Biber et.al., Paper: [http://arxiv.org/abs/2208.11685v1](http://arxiv.org/abs/2208.11685v1)
 - 2022-08-24, **DESI Observations of the Andromeda Galaxy: Revealing the Immigration History of our Nearest Neighbor**, Arjun Dey et.al., Paper: [http://arxiv.org/abs/2208.11683v1](http://arxiv.org/abs/2208.11683v1)

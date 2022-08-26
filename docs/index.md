@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.25
+## Updated on 2022.08.26
 
 ## SLAM
 
@@ -155,7 +155,7 @@ layout: default
 |**2022-08-24**|**Evolutionary Stable Strategies and Cubic Vector Fields**|Jefferson Bastos et.al.|[2208.11694v1](http://arxiv.org/abs/2208.11694v1)|null|
 |**2022-08-24**|**Analysis of point-contact models of the bounce of a hard spinning ball on a compliant frictional surface**|Stanisław W. Biber et.al.|[2208.11685v1](http://arxiv.org/abs/2208.11685v1)|null|
 |**2022-08-24**|**DESI Observations of the Andromeda Galaxy: Revealing the Immigration History of our Nearest Neighbor**|Arjun Dey et.al.|[2208.11683v1](http://arxiv.org/abs/2208.11683v1)|null|
-|**2022-08-24**|**Collatz map as a power bounded nonsingular transformation**|Idris Assani et.al.|[2208.11675v1](http://arxiv.org/abs/2208.11675v1)|null|
+|**2022-08-25**|**Collatz map as a power bounded nonsingular transformation**|Idris Assani et.al.|[2208.11675v2](http://arxiv.org/abs/2208.11675v2)|null|
 |**2022-08-24**|**Searching for Spectroscopic Signatures of Ongoing Quenching in SDSS Galaxies**|Andrea D. Weibel et.al.|[2208.11668v1](http://arxiv.org/abs/2208.11668v1)|null|
 |**2022-08-24**|**On the topological linkage of intertwined, spatial networks**|Felix Kramer et.al.|[2208.11662v1](http://arxiv.org/abs/2208.11662v1)|null|
 |**2022-08-24**|**Boundary time crystals engineered by long-range dissipation**|Gianluca Passarelli et.al.|[2208.11659v1](http://arxiv.org/abs/2208.11659v1)|null|

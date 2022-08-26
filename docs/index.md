@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
+|**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|null|
 |**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge et.al.|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
@@ -96,6 +98,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-25**|**Sensor trajectory estimation by triangulating lidar returns**|Charles F. F. Karney et.al.|[2208.12116v1](http://arxiv.org/abs/2208.12116v1)|null|
+|**2022-08-25**|**Autonomous social robot navigation in unknown urban environments using semantic segmentation**|Sophie Buckeridge et.al.|[2208.11903v1](http://arxiv.org/abs/2208.11903v1)|null|
+|**2022-08-25**|**Vulnerability Analysis of Time Synchronization in Automotive Ethernet**|Rishikesh Kakade et.al.|[2208.11878v1](http://arxiv.org/abs/2208.11878v1)|null|
+|**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
+|**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
+|**2022-08-25**|**No [[n, k, d < 86]] code can violate the quantum Hamming bound**|Emanuel Dallas et.al.|[2208.11800v1](http://arxiv.org/abs/2208.11800v1)|null|
 |**2022-08-24**|**AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**|Liang Du et.al.|[2208.11658v1](http://arxiv.org/abs/2208.11658v1)|null|
 |**2022-08-24**|**A new explainable DTM generation algorithm with airborne LIDAR data: grounds are smoothly connected eventually**|Hunsoo Song et.al.|[2208.11243v1](http://arxiv.org/abs/2208.11243v1)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
@@ -151,6 +159,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-25**|**MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**|Xiaoyi Dong et.al.|[2208.12262v1](http://arxiv.org/abs/2208.12262v1)|null|
+|**2022-08-25**|**Fragmentation-induced localization and boundary charges in dimensions two and above**|Julius Lehmann et.al.|[2208.12260v1](http://arxiv.org/abs/2208.12260v1)|null|
+|**2022-08-25**|**Control Barrier Functions-based Semi-Definite Programs (CBF-SDPs): Robust Safe Control For Dynamic Systems with Relative Degree Two Safety Indices**|Jaskaran Singh Grover et.al.|[2208.12252v1](http://arxiv.org/abs/2208.12252v1)|null|
+|**2022-08-25**|**Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**|Dylan Turpin et.al.|[2208.12250v1](http://arxiv.org/abs/2208.12250v1)|null|
+|**2022-08-25**|**Phase Transitions in Biased Opinion Dynamics with 2-choices Rule**|Arpan Mukhopadhyay et.al.|[2208.12245v1](http://arxiv.org/abs/2208.12245v1)|null|
+|**2022-08-25**|**On Length Spectrum Rigidity of Dispersing Billiard Systems**|Otto Vaughn Osterman et.al.|[2208.12244v1](http://arxiv.org/abs/2208.12244v1)|null|
+|**2022-08-25**|**Evidence of Kardar-Parisi-Zhang scaling on a digital quantum simulator**|Nathan Keenan et.al.|[2208.12243v1](http://arxiv.org/abs/2208.12243v1)|null|
+|**2022-08-25**|**Controlling collective dynamical states of mesoscale brain networks with local perturbations**|Lia Papadopoulos et.al.|[2208.12231v1](http://arxiv.org/abs/2208.12231v1)|null|
+|**2022-08-25**|**Controllable particle migration in liquid crystal flows**|Magdalena Lesniewska et.al.|[2208.12221v1](http://arxiv.org/abs/2208.12221v1)|null|
+|**2022-08-25**|**Complexity reduction in resonant open quantum system Tavis-Cummings model with quantum circuit mapping**|Marina Krstic Marinkovic et.al.|[2208.12029v1](http://arxiv.org/abs/2208.12029v1)|null|
 |**2022-08-24**|**Bugs in the Data: How ImageNet Misrepresents Biodiversity**|Alexandra Sasha Luccioni et.al.|[2208.11695v1](http://arxiv.org/abs/2208.11695v1)|**[link](https://github.com/rolnicklab/imagenetbiodiversity)**|
 |**2022-08-24**|**Evolutionary Stable Strategies and Cubic Vector Fields**|Jefferson Bastos et.al.|[2208.11694v1](http://arxiv.org/abs/2208.11694v1)|null|
 |**2022-08-24**|**Analysis of point-contact models of the bounce of a hard spinning ball on a compliant frictional surface**|Stanisław W. Biber et.al.|[2208.11685v1](http://arxiv.org/abs/2208.11685v1)|null|

@@ -1,4 +1,4 @@
-> Updated on 2022.08.28
+> Updated on 2022.08.29
 
 ## SLAM
 
@@ -7,7 +7,7 @@
 - 2022-08-24, **DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**, Seungwon Song et.al., Paper: [http://arxiv.org/abs/2208.11500v1](http://arxiv.org/abs/2208.11500v1), Code: **[https://github.com/url-kaist/dynavins](https://github.com/url-kaist/dynavins)**
 - 2022-08-22, **Doppler Exploitation in Bistatic mmWave Radio SLAM**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2208.10204v1](http://arxiv.org/abs/2208.10204v1)
 - 2022-08-21, **Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2208.09825v1](http://arxiv.org/abs/2208.09825v1)
-- 2022-08-21, **JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**, Longrui Dong et.al., Paper: [http://arxiv.org/abs/2208.09777v1](http://arxiv.org/abs/2208.09777v1)
+- 2022-08-26, **JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**, Longrui Dong et.al., Paper: [http://arxiv.org/abs/2208.09777v2](http://arxiv.org/abs/2208.09777v2)
 - 2022-08-15, **BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**, Yunge Cui et.al., Paper: [http://arxiv.org/abs/2208.07473v1](http://arxiv.org/abs/2208.07473v1)
 - 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
@@ -465,6 +465,8 @@
 
 ## LiDAR
 
+- 2022-08-26, **The Foreseeable Future: Self-Supervised Learning to Predict Dynamic Scenes for Indoor Navigation**, Hugues Thomas et.al., Paper: [http://arxiv.org/abs/2208.12602v1](http://arxiv.org/abs/2208.12602v1)
+- 2022-08-26, **Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**, Ruixiang Xue et.al., Paper: [http://arxiv.org/abs/2208.12573v1](http://arxiv.org/abs/2208.12573v1)
 - 2022-08-25, **Sensor trajectory estimation by triangulating lidar returns**, Charles F. F. Karney et.al., Paper: [http://arxiv.org/abs/2208.12116v1](http://arxiv.org/abs/2208.12116v1)
 - 2022-08-25, **Autonomous social robot navigation in unknown urban environments using semantic segmentation**, Sophie Buckeridge et.al., Paper: [http://arxiv.org/abs/2208.11903v1](http://arxiv.org/abs/2208.11903v1)
 - 2022-08-25, **Vulnerability Analysis of Time Synchronization in Automotive Ethernet**, Rishikesh Kakade et.al., Paper: [http://arxiv.org/abs/2208.11878v1](http://arxiv.org/abs/2208.11878v1)
@@ -524,6 +526,16 @@
 
 ## Dynamic Object
 
+- 2022-08-26, **Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**, Florian Jüngermann et.al., Paper: [http://arxiv.org/abs/2208.12804v1](http://arxiv.org/abs/2208.12804v1)
+- 2022-08-26, **Mechanics of a ferromagnetic domain wall**, Se Kwon Kim et.al., Paper: [http://arxiv.org/abs/2208.12799v1](http://arxiv.org/abs/2208.12799v1)
+- 2022-08-26, **Additional complex conjugate feedback induced explosive death and multistabilities**, K. Sathiyadevi et.al., Paper: [http://arxiv.org/abs/2208.12794v1](http://arxiv.org/abs/2208.12794v1)
+- 2022-08-26, **A Model of Mass Extinction Accounting for Species's Differential Evolutionary Response to a Catastrophic Climate Change**, Amer Alsulami et.al., Paper: [http://arxiv.org/abs/2208.12792v1](http://arxiv.org/abs/2208.12792v1)
+- 2022-08-26, **Importance of preferential segregation by aerodynamics in dust rig tests**, Cairen Miranda et.al., Paper: [http://arxiv.org/abs/2208.12788v1](http://arxiv.org/abs/2208.12788v1)
+- 2022-08-26, **Non-Markovian models of opinion dynamics on temporal networks**, Weiqi Chu et.al., Paper: [http://arxiv.org/abs/2208.12787v1](http://arxiv.org/abs/2208.12787v1)
+- 2022-08-26, **Exergy of an open continuous medium**, F. Becattini et.al., Paper: [http://arxiv.org/abs/2208.12785v1](http://arxiv.org/abs/2208.12785v1)
+- 2022-08-26, **Relationships between cumulative entropy/extropy, Gini mean difference and probability weighted moments**, Sudheesh Kattumannil et.al., Paper: [http://arxiv.org/abs/2208.12783v1](http://arxiv.org/abs/2208.12783v1)
+- 2022-08-26, **Prospect Theory-inspired Automated P2P Energy Trading with Q-learning-based Dynamic Pricing**, Ashutosh Timilsina et.al., Paper: [http://arxiv.org/abs/2208.12777v1](http://arxiv.org/abs/2208.12777v1)
+- 2022-08-26, **A scattering transform for graphs based on heat semigroups, with an application for the detection of anomalies in positive time series with underlying periodicities**, Bernhard G. Bodmann et.al., Paper: [http://arxiv.org/abs/2208.12773v1](http://arxiv.org/abs/2208.12773v1)
 - 2022-08-25, **MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**, Xiaoyi Dong et.al., Paper: [http://arxiv.org/abs/2208.12262v1](http://arxiv.org/abs/2208.12262v1)
 - 2022-08-25, **Fragmentation-induced localization and boundary charges in dimensions two and above**, Julius Lehmann et.al., Paper: [http://arxiv.org/abs/2208.12260v1](http://arxiv.org/abs/2208.12260v1)
 - 2022-08-25, **Control Barrier Functions-based Semi-Definite Programs (CBF-SDPs): Robust Safe Control For Dynamic Systems with Relative Degree Two Safety Indices**, Jaskaran Singh Grover et.al., Paper: [http://arxiv.org/abs/2208.12252v1](http://arxiv.org/abs/2208.12252v1)

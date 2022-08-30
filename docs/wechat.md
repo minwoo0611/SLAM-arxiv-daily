@@ -1,7 +1,8 @@
-> Updated on 2022.08.29
+> Updated on 2022.08.30
 
 ## SLAM
 
+- 2022-08-27, **Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2208.12997v1](http://arxiv.org/abs/2208.12997v1)
 - 2022-08-25, **FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**, Jianhao Jiao et.al., Paper: [http://arxiv.org/abs/2208.11865v1](http://arxiv.org/abs/2208.11865v1)
 - 2022-08-25, **Lidar SLAM for Autonomous Driving Vehicles**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.11855v1](http://arxiv.org/abs/2208.11855v1)
 - 2022-08-24, **DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**, Seungwon Song et.al., Paper: [http://arxiv.org/abs/2208.11500v1](http://arxiv.org/abs/2208.11500v1), Code: **[https://github.com/url-kaist/dynavins](https://github.com/url-kaist/dynavins)**
@@ -465,6 +466,7 @@
 
 ## LiDAR
 
+- 2022-08-29, **PV-RCNN++: Semantical Point-Voxel Feature Interaction for 3D Object Detection**, Peng Wu et.al., Paper: [http://arxiv.org/abs/2208.13414v1](http://arxiv.org/abs/2208.13414v1)
 - 2022-08-26, **The Foreseeable Future: Self-Supervised Learning to Predict Dynamic Scenes for Indoor Navigation**, Hugues Thomas et.al., Paper: [http://arxiv.org/abs/2208.12602v1](http://arxiv.org/abs/2208.12602v1)
 - 2022-08-26, **Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**, Ruixiang Xue et.al., Paper: [http://arxiv.org/abs/2208.12573v1](http://arxiv.org/abs/2208.12573v1)
 - 2022-08-25, **Sensor trajectory estimation by triangulating lidar returns**, Charles F. F. Karney et.al., Paper: [http://arxiv.org/abs/2208.12116v1](http://arxiv.org/abs/2208.12116v1)
@@ -526,6 +528,16 @@
 
 ## Dynamic Object
 
+- 2022-08-29, **Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA**, Theo J. O'Neill et.al., Paper: [http://arxiv.org/abs/2208.13768v1](http://arxiv.org/abs/2208.13768v1)
+- 2022-08-29, **Pinpointing Feshbach Resonances and Testing Efimov Universalities in $^{39}$K**, Jiří Etrych et.al., Paper: [http://arxiv.org/abs/2208.13766v1](http://arxiv.org/abs/2208.13766v1)
+- 2022-08-29, **Level dynamics and avoided level crossings in driven disordered quantum dots**, András Grabarits et.al., Paper: [http://arxiv.org/abs/2208.13761v1](http://arxiv.org/abs/2208.13761v1)
+- 2022-08-29, **Superfluidic nature of self-driven nanofluidics at liquid-gas interfaces**, Vinitha Johny et.al., Paper: [http://arxiv.org/abs/2208.13759v1](http://arxiv.org/abs/2208.13759v1)
+- 2022-08-29, **Recovery of rapidly decaying source terms from dynamical samples in evolution equations**, Akram Aldroubi et.al., Paper: [http://arxiv.org/abs/2208.13756v1](http://arxiv.org/abs/2208.13756v1)
+- 2022-08-29, **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis**, Wan-Cyuan Fan et.al., Paper: [http://arxiv.org/abs/2208.13753v1](http://arxiv.org/abs/2208.13753v1)
+- 2022-08-29, **Rapid Blue- and Red-shifted Excursions in H$α$ line profiles synthesized from realistic 3D MHD simulations**, S. Danilovic et.al., Paper: [http://arxiv.org/abs/2208.13749v1](http://arxiv.org/abs/2208.13749v1)
+- 2022-08-29, **Transport of single nanoparticles through respirators and masks**, K. V. Chinmaya et.al., Paper: [http://arxiv.org/abs/2208.13740v1](http://arxiv.org/abs/2208.13740v1)
+- 2022-08-29, **Effective Image Tampering Localization via Semantic Segmentation Network**, Haochen Zhu et.al., Paper: [http://arxiv.org/abs/2208.13739v1](http://arxiv.org/abs/2208.13739v1)
+- 2022-08-29, **Open-Set Semi-Supervised Object Detection**, Yen-Cheng Liu et.al., Paper: [http://arxiv.org/abs/2208.13722v1](http://arxiv.org/abs/2208.13722v1)
 - 2022-08-26, **Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**, Florian Jüngermann et.al., Paper: [http://arxiv.org/abs/2208.12804v1](http://arxiv.org/abs/2208.12804v1)
 - 2022-08-26, **Mechanics of a ferromagnetic domain wall**, Se Kwon Kim et.al., Paper: [http://arxiv.org/abs/2208.12799v1](http://arxiv.org/abs/2208.12799v1)
 - 2022-08-26, **Additional complex conjugate feedback induced explosive death and multistabilities**, K. Sathiyadevi et.al., Paper: [http://arxiv.org/abs/2208.12794v1](http://arxiv.org/abs/2208.12794v1)

@@ -96,7 +96,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-08-29**|**PV-RCNN++: Semantical Point-Voxel Feature Interaction for 3D Object Detection**|Peng Wu et.al.|[2208.13414v1](http://arxiv.org/abs/2208.13414v1)|null|
-|**2022-08-26**|**The Foreseeable Future: Self-Supervised Learning to Predict Dynamic Scenes for Indoor Navigation**|Hugues Thomas et.al.|[2208.12602v1](http://arxiv.org/abs/2208.12602v1)|null|
+|**2022-08-26**|**The Foreseeable Future: Self-Supervised Learning to Predict Dynamic Scenes for Indoor Navigation**|Hugues Thomas et.al.|[2208.12602v1](http://arxiv.org/abs/2208.12602v1)|**[link](https://github.com/utiasasrl/crystal_ball_nav)**|
 |**2022-08-26**|**Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**|Ruixiang Xue et.al.|[2208.12573v1](http://arxiv.org/abs/2208.12573v1)|null|
 |**2022-08-25**|**Sensor trajectory estimation by triangulating lidar returns**|Charles F. F. Karney et.al.|[2208.12116v1](http://arxiv.org/abs/2208.12116v1)|null|
 |**2022-08-25**|**Autonomous social robot navigation in unknown urban environments using semantic segmentation**|Sophie Buckeridge et.al.|[2208.11903v1](http://arxiv.org/abs/2208.11903v1)|null|

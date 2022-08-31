@@ -95,6 +95,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-30**|**Verifiable Obstacle Detection**|Ayoosh Bansal et.al.|[2208.14403v1](http://arxiv.org/abs/2208.14403v1)|null|
+|**2022-08-30**|**Intelligent Perception System for Vehicle-Road Cooperation**|Songbin Chen et.al.|[2208.14052v1](http://arxiv.org/abs/2208.14052v1)|null|
+|**2022-08-30**|**Spacecraft depth completion based on the gray image and the sparse depth map**|Xiang Liu et.al.|[2208.14030v1](http://arxiv.org/abs/2208.14030v1)|null|
 |**2022-08-29**|**PV-RCNN++: Semantical Point-Voxel Feature Interaction for 3D Object Detection**|Peng Wu et.al.|[2208.13414v1](http://arxiv.org/abs/2208.13414v1)|null|
 |**2022-08-26**|**The Foreseeable Future: Self-Supervised Learning to Predict Dynamic Scenes for Indoor Navigation**|Hugues Thomas et.al.|[2208.12602v1](http://arxiv.org/abs/2208.12602v1)|**[link](https://github.com/utiasasrl/crystal_ball_nav)**|
 |**2022-08-26**|**Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**|Ruixiang Xue et.al.|[2208.12573v1](http://arxiv.org/abs/2208.12573v1)|null|
@@ -159,6 +162,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-30**|**Steady state correlations and induced trapping of an inertial AOUP particle**|N Arsha et.al.|[2208.14443v1](http://arxiv.org/abs/2208.14443v1)|null|
+|**2022-08-30**|**Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**|Cheng-Yen Hsieh et.al.|[2208.14439v1](http://arxiv.org/abs/2208.14439v1)|**[link](https://github.com/wesleyhsieh0806/ss-prl)**|
+|**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
+|**2022-08-30**|**Binary factors of shifts of finite type**|Ian F. Putnam et.al.|[2208.14427v1](http://arxiv.org/abs/2208.14427v1)|null|
+|**2022-08-30**|**Remarks on Different Notions on Output Stability for Nonlinear Delay Systems**|Hasala Gallolu Kankanamalage et.al.|[2208.14415v1](http://arxiv.org/abs/2208.14415v1)|null|
+|**2022-08-30**|**The Triangulated Auslander--Iyama Correspondence**|Gustavo Jasso et.al.|[2208.14413v1](http://arxiv.org/abs/2208.14413v1)|null|
+|**2022-08-30**|**Improving Datacenter Utilization through Containerized Service-Based Architecture**|Aos Mulahuwaish et.al.|[2208.14411v1](http://arxiv.org/abs/2208.14411v1)|null|
+|**2022-08-30**|**A study of Dipolar Signal in distant Quasars with various observables**|Rahul Kothari et.al.|[2208.14397v1](http://arxiv.org/abs/2208.14397v1)|null|
+|**2022-08-30**|**Evaporation of a sessile colloidal water-glycerol droplet: Marangoni ring formation**|Lijun Thayyil Raju et.al.|[2208.14396v1](http://arxiv.org/abs/2208.14396v1)|null|
+|**2022-08-30**|**Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN**|Fatemeh Lotfi et.al.|[2208.14394v1](http://arxiv.org/abs/2208.14394v1)|null|
 |**2022-08-29**|**Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA**|Theo J. O'Neill et.al.|[2208.13768v1](http://arxiv.org/abs/2208.13768v1)|null|
 |**2022-08-29**|**Pinpointing Feshbach Resonances and Testing Efimov Universalities in $^{39}$K**|Jiří Etrych et.al.|[2208.13766v1](http://arxiv.org/abs/2208.13766v1)|null|
 |**2022-08-29**|**Level dynamics and avoided level crossings in driven disordered quantum dots**|András Grabarits et.al.|[2208.13761v1](http://arxiv.org/abs/2208.13761v1)|null|

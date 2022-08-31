@@ -1,4 +1,4 @@
-## Updated on 2022.08.30
+## Updated on 2022.08.31
 
 ## SLAM
 
@@ -162,12 +162,12 @@
 |**2022-08-29**|**Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA**|Theo J. O'Neill et.al.|[2208.13768v1](http://arxiv.org/abs/2208.13768v1)|null|
 |**2022-08-29**|**Pinpointing Feshbach Resonances and Testing Efimov Universalities in $^{39}$K**|Jiří Etrych et.al.|[2208.13766v1](http://arxiv.org/abs/2208.13766v1)|null|
 |**2022-08-29**|**Level dynamics and avoided level crossings in driven disordered quantum dots**|András Grabarits et.al.|[2208.13761v1](http://arxiv.org/abs/2208.13761v1)|null|
-|**2022-08-29**|**Superfluidic nature of self-driven nanofluidics at liquid-gas interfaces**|Vinitha Johny et.al.|[2208.13759v1](http://arxiv.org/abs/2208.13759v1)|null|
+|**2022-08-30**|**Superfluidic nature of self-driven nanofluidics at liquid-gas interfaces**|Vinitha Johny et.al.|[2208.13759v2](http://arxiv.org/abs/2208.13759v2)|null|
 |**2022-08-29**|**Recovery of rapidly decaying source terms from dynamical samples in evolution equations**|Akram Aldroubi et.al.|[2208.13756v1](http://arxiv.org/abs/2208.13756v1)|null|
 |**2022-08-29**|**Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis**|Wan-Cyuan Fan et.al.|[2208.13753v1](http://arxiv.org/abs/2208.13753v1)|null|
 |**2022-08-29**|**Rapid Blue- and Red-shifted Excursions in H$α$ line profiles synthesized from realistic 3D MHD simulations**|S. Danilovic et.al.|[2208.13749v1](http://arxiv.org/abs/2208.13749v1)|null|
 |**2022-08-29**|**Transport of single nanoparticles through respirators and masks**|K. V. Chinmaya et.al.|[2208.13740v1](http://arxiv.org/abs/2208.13740v1)|null|
-|**2022-08-29**|**Effective Image Tampering Localization via Semantic Segmentation Network**|Haochen Zhu et.al.|[2208.13739v1](http://arxiv.org/abs/2208.13739v1)|null|
+|**2022-08-30**|**Effective Image Tampering Localization via Semantic Segmentation Network**|Haochen Zhu et.al.|[2208.13739v2](http://arxiv.org/abs/2208.13739v2)|null|
 |**2022-08-29**|**Open-Set Semi-Supervised Object Detection**|Yen-Cheng Liu et.al.|[2208.13722v1](http://arxiv.org/abs/2208.13722v1)|null|
 |**2022-08-26**|**Algebraically Explainable Controllers: Decision Trees and Support Vector Machines Join Forces**|Florian Jüngermann et.al.|[2208.12804v1](http://arxiv.org/abs/2208.12804v1)|null|
 |**2022-08-26**|**Mechanics of a ferromagnetic domain wall**|Se Kwon Kim et.al.|[2208.12799v1](http://arxiv.org/abs/2208.12799v1)|null|

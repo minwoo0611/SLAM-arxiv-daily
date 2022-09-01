@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
+|**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin et.al.|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
@@ -95,6 +97,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-31**|**A Realism Metric for Generated LiDAR Point Clouds**|Larissa T. Triess et.al.|[2208.14958v1](http://arxiv.org/abs/2208.14958v1)|null|
+|**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
+|**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin et.al.|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-30**|**Verifiable Obstacle Detection**|Ayoosh Bansal et.al.|[2208.14403v1](http://arxiv.org/abs/2208.14403v1)|null|
 |**2022-08-30**|**Intelligent Perception System for Vehicle-Road Cooperation**|Songbin Chen et.al.|[2208.14052v1](http://arxiv.org/abs/2208.14052v1)|null|
 |**2022-08-30**|**Spacecraft depth completion based on the gray image and the sparse depth map**|Xiang Liu et.al.|[2208.14030v1](http://arxiv.org/abs/2208.14030v1)|null|
@@ -162,6 +167,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-31**|**A comprehensive analysis of the compact phase space for Hu-Sawicki $f(R)$ dark energy models including spatial curvature**|Kelly MacDevette et.al.|[2208.15002v1](http://arxiv.org/abs/2208.15002v1)|null|
+|**2022-08-31**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001v1](http://arxiv.org/abs/2208.15001v1)|null|
+|**2022-08-31**|**A JWST/NIRCam Study of Key Contributors to Reionization: The Star-forming and Ionizing Properties of UV-faint $z\sim7-8$ Galaxies**|Ryan Endsley et.al.|[2208.14999v1](http://arxiv.org/abs/2208.14999v1)|null|
+|**2022-08-31**|**Discovering Conservation Laws using Optimal Transport and Manifold Learning**|Peter Y. Lu et.al.|[2208.14995v1](http://arxiv.org/abs/2208.14995v1)|null|
+|**2022-08-31**|**Stable motions of high energy particles interacting via a repelling potential**|V. Rom-Kedar et.al.|[2208.14993v1](http://arxiv.org/abs/2208.14993v1)|null|
+|**2022-08-31**|**CMB lensing with shear-only reconstruction on the full sky**|Frank J. Qu et.al.|[2208.14988v1](http://arxiv.org/abs/2208.14988v1)|null|
+|**2022-08-31**|**Effervescent waves in a binary mixture with non-reciprocal couplings**|Suropriya Saha et.al.|[2208.14985v1](http://arxiv.org/abs/2208.14985v1)|null|
+|**2022-08-31**|**Bifurcation in cellular evolution**|Diego Radillo-Ochoa et.al.|[2208.14973v1](http://arxiv.org/abs/2208.14973v1)|null|
+|**2022-08-31**|**Ultrafast photo-ion probing of the relaxation dynamics in 2-thiouracil**|Matthew S. Robinson et.al.|[2208.14968v1](http://arxiv.org/abs/2208.14968v1)|null|
+|**2022-08-31**|**Artificial non-Abelian lattice gauge fields for photons in the synthetic frequency dimension**|Dali Cheng et.al.|[2208.14967v1](http://arxiv.org/abs/2208.14967v1)|null|
 |**2022-08-30**|**Steady state correlations and induced trapping of an inertial AOUP particle**|N Arsha et.al.|[2208.14443v1](http://arxiv.org/abs/2208.14443v1)|null|
 |**2022-08-30**|**Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**|Cheng-Yen Hsieh et.al.|[2208.14439v1](http://arxiv.org/abs/2208.14439v1)|**[link](https://github.com/wesleyhsieh0806/ss-prl)**|
 |**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|

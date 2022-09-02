@@ -536,6 +536,16 @@
 
 ## Dynamic Object
 
+- 2022-09-01, **Visual Prompting via Image Inpainting**, Amir Bar et.al., Paper: [http://arxiv.org/abs/2209.00647v1](http://arxiv.org/abs/2209.00647v1)
+- 2022-09-01, **ACCESS: Tentative detection of H$_2$O in the ground-based optical transmission spectrum of the low-density hot Saturn HATS-5b**, Natalie H. Allen et.al., Paper: [http://arxiv.org/abs/2209.00637v1](http://arxiv.org/abs/2209.00637v1)
+- 2022-09-01, **The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b**, Brittany E. Miles et.al., Paper: [http://arxiv.org/abs/2209.00620v1](http://arxiv.org/abs/2209.00620v1)
+- 2022-09-01, **Fair mapping**, Sébastien Gambs et.al., Paper: [http://arxiv.org/abs/2209.00617v1](http://arxiv.org/abs/2209.00617v1)
+- 2022-09-01, **On stable flows and preflows**, Alexander Karzanov et.al., Paper: [http://arxiv.org/abs/2209.00614v1](http://arxiv.org/abs/2209.00614v1)
+- 2022-09-01, **ID and OOD Performance Are Sometimes Inversely Correlated on Real-world Datasets**, Damien Teney et.al., Paper: [http://arxiv.org/abs/2209.00613v1](http://arxiv.org/abs/2209.00613v1)
+- 2022-09-01, **Analytic Smoothing and Nekhoroshev estimates for Hölder steep Hamiltonians**, Santiago Barbieri et.al., Paper: [http://arxiv.org/abs/2209.00612v1](http://arxiv.org/abs/2209.00612v1)
+- 2022-09-01, **Gravitational Spin-Orbit Hamiltonian at NNNLO in the post-Newtonian framework**, Manoj K. Mandal et.al., Paper: [http://arxiv.org/abs/2209.00611v1](http://arxiv.org/abs/2209.00611v1)
+- 2022-09-01, **Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics**, Benjamin Pampel et.al., Paper: [http://arxiv.org/abs/2209.00607v1](http://arxiv.org/abs/2209.00607v1)
+- 2022-09-01, **Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation**, Amir Yazdanbakhsh et.al., Paper: [http://arxiv.org/abs/2209.00606v1](http://arxiv.org/abs/2209.00606v1)
 - 2022-08-31, **A comprehensive analysis of the compact phase space for Hu-Sawicki $f(R)$ dark energy models including spatial curvature**, Kelly MacDevette et.al., Paper: [http://arxiv.org/abs/2208.15002v1](http://arxiv.org/abs/2208.15002v1)
 - 2022-08-31, **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2208.15001v1](http://arxiv.org/abs/2208.15001v1)
 - 2022-08-31, **A JWST/NIRCam Study of Key Contributors to Reionization: The Star-forming and Ionizing Properties of UV-faint $z\sim7-8$ Galaxies**, Ryan Endsley et.al., Paper: [http://arxiv.org/abs/2208.14999v1](http://arxiv.org/abs/2208.14999v1)

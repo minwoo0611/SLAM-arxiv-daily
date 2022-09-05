@@ -468,6 +468,9 @@
 
 ## LiDAR
 
+- 2022-09-02, **CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**, Alexandra Carlson et.al., Paper: [http://arxiv.org/abs/2209.01194v1](http://arxiv.org/abs/2209.01194v1)
+- 2022-09-02, **Fiducial Marker Detection in Multi-Viewpoint Point Cloud**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2209.01072v1](http://arxiv.org/abs/2209.01072v1), Code: **[https://github.com/York-SDCNLab/Marker-Detection-General](https://github.com/York-SDCNLab/Marker-Detection-General)**
+- 2022-09-02, **Real-time 3D Single Object Tracking with Transformer**, Jiayao Shan et.al., Paper: [http://arxiv.org/abs/2209.00860v1](http://arxiv.org/abs/2209.00860v1), Code: **[https://github.com/shanjiayao/ptt](https://github.com/shanjiayao/ptt)**
 - 2022-08-31, **A Realism Metric for Generated LiDAR Point Clouds**, Larissa T. Triess et.al., Paper: [http://arxiv.org/abs/2208.14958v1](http://arxiv.org/abs/2208.14958v1)
 - 2022-08-31, **PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**, Yifan Duan et.al., Paper: [http://arxiv.org/abs/2208.14848v1](http://arxiv.org/abs/2208.14848v1)
 - 2022-08-30, **BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2208.14543v1](http://arxiv.org/abs/2208.14543v1)
@@ -536,6 +539,16 @@
 
 ## Dynamic Object
 
+- 2022-09-02, **GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**, Vivian U et.al., Paper: [http://arxiv.org/abs/2209.01210v1](http://arxiv.org/abs/2209.01210v1)
+- 2022-09-02, **Linear response quantum transport through interacting multi-orbital nanostructures**, Emma L. Minarelli et.al., Paper: [http://arxiv.org/abs/2209.01208v1](http://arxiv.org/abs/2209.01208v1)
+- 2022-09-02, **Role of electronic thermal transport in amorphous metal recrystallization: a molecular dynamics study**, Zachary D. McClure et.al., Paper: [http://arxiv.org/abs/2209.01203v1](http://arxiv.org/abs/2209.01203v1)
+- 2022-09-02, **Gravity theories with local energy-momentum exchange: a closer look at Rastall's theory**, Daniel A. T. Vanzella et.al., Paper: [http://arxiv.org/abs/2209.01186v1](http://arxiv.org/abs/2209.01186v1)
+- 2022-09-02, **No sensitivity to functional forms in the strongly forced, continuous-time stochastic Rosenzweig-MacArthur model**, Frédéric Barraquand et.al., Paper: [http://arxiv.org/abs/2209.01185v1](http://arxiv.org/abs/2209.01185v1)
+- 2022-09-02, **The distance backbone of directed networks**, Felipe Xavier Costa et.al., Paper: [http://arxiv.org/abs/2209.01181v1](http://arxiv.org/abs/2209.01181v1)
+- 2022-09-02, **Statistical analysis of initial state and final state response in heavy-ion collisions**, Nicolas Borghini et.al., Paper: [http://arxiv.org/abs/2209.01176v1](http://arxiv.org/abs/2209.01176v1)
+- 2022-09-02, **tqix.pis: A toolbox for large-scale quantum simulation platforms**, Nguyen Tan Viet et.al., Paper: [http://arxiv.org/abs/2209.01168v1](http://arxiv.org/abs/2209.01168v1)
+- 2022-09-02, **In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**, Alexander J McGhee et.al., Paper: [http://arxiv.org/abs/2209.01164v1](http://arxiv.org/abs/2209.01164v1)
+- 2022-09-02, **Noether Theorem and Nilpotency Property of the (Anti-)BRST Charges in the BRST Formalism: A Brief Review**, A. K. Rao et.al., Paper: [http://arxiv.org/abs/2209.01163v1](http://arxiv.org/abs/2209.01163v1)
 - 2022-09-01, **Visual Prompting via Image Inpainting**, Amir Bar et.al., Paper: [http://arxiv.org/abs/2209.00647v1](http://arxiv.org/abs/2209.00647v1)
 - 2022-09-01, **ACCESS: Tentative detection of H$_2$O in the ground-based optical transmission spectrum of the low-density hot Saturn HATS-5b**, Natalie H. Allen et.al., Paper: [http://arxiv.org/abs/2209.00637v1](http://arxiv.org/abs/2209.00637v1)
 - 2022-09-01, **The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b**, Brittany E. Miles et.al., Paper: [http://arxiv.org/abs/2209.00620v1](http://arxiv.org/abs/2209.00620v1)

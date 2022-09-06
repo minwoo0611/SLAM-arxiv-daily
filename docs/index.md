@@ -102,7 +102,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
-|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/York-SDCNLab/Marker-Detection-General)**|
+|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/york-sdcnlab/m_livox_mapping)**|
 |**2022-09-02**|**Real-time 3D Single Object Tracking with Transformer**|Jiayao Shan et.al.|[2209.00860v1](http://arxiv.org/abs/2209.00860v1)|**[link](https://github.com/shanjiayao/ptt)**|
 |**2022-08-31**|**A Realism Metric for Generated LiDAR Point Clouds**|Larissa T. Triess et.al.|[2208.14958v1](http://arxiv.org/abs/2208.14958v1)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|

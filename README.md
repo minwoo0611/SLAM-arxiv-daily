@@ -1,9 +1,14 @@
-## Updated on 2022.09.06
+## Updated on 2022.09.07
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|null|
+|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
+|**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu et.al.|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
 |**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin et.al.|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
@@ -97,7 +102,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
+|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
+|**2022-09-05**|**SEFormer: Structure Embedding Transformer for 3D Object Detection**|Xiaoyu Feng et.al.|[2209.01745v1](http://arxiv.org/abs/2209.01745v1)|null|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
+|**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
+|**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
 |**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/york-sdcnlab/m_livox_mapping)**|
 |**2022-09-02**|**Real-time 3D Single Object Tracking with Transformer**|Jiayao Shan et.al.|[2209.00860v1](http://arxiv.org/abs/2209.00860v1)|**[link](https://github.com/shanjiayao/ptt)**|
 |**2022-08-31**|**A Realism Metric for Generated LiDAR Point Clouds**|Larissa T. Triess et.al.|[2208.14958v1](http://arxiv.org/abs/2208.14958v1)|null|
@@ -170,6 +180,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-06**|**Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**|Zheng Jia et.al.|[2209.02692v1](http://arxiv.org/abs/2209.02692v1)|null|
+|**2022-09-06**|**Neural Networks Optimized by Genetic Algorithms in Cosmology**|Isidro Gómez-Vargas et.al.|[2209.02685v1](http://arxiv.org/abs/2209.02685v1)|null|
+|**2022-09-06**|**Reshaping and ejection processes on rubble-pile asteroids by impacts**|S. D. Raducan et.al.|[2209.02677v1](http://arxiv.org/abs/2209.02677v1)|null|
+|**2022-09-06**|**Hardware-Conscious Optimization of the Quantum Toffoli Gate**|Max Aksel Bowman et.al.|[2209.02669v1](http://arxiv.org/abs/2209.02669v1)|null|
+|**2022-09-06**|**Matching Consumer Fairness Objectives & Strategies for RecSys**|Michael D. Ekstrand et.al.|[2209.02662v1](http://arxiv.org/abs/2209.02662v1)|null|
+|**2022-09-06**|**The Coronavirus Tradeoff -- Life vs. Economy: Handling the Tradeoff Rationally and Optimally**|Ali Zeytoon-Nejad et.al.|[2209.02651v1](http://arxiv.org/abs/2209.02651v1)|null|
+|**2022-09-06**|**Personal Identity and Uncertainty in Everett's Multiverse**|Zhonghao Lu et.al.|[2209.02639v1](http://arxiv.org/abs/2209.02639v1)|null|
+|**2022-09-06**|**The quasi-geostrophic approximation of the rotating stratified Boussinesq equations**|Min Jun Jo et.al.|[2209.02634v1](http://arxiv.org/abs/2209.02634v1)|null|
+|**2022-09-06**|**Multi-agent Deep Reinforcement Learning for Charge-sustaining Control of Multi-mode Hybrid Vehicles**|Min Hua et.al.|[2209.02633v1](http://arxiv.org/abs/2209.02633v1)|null|
+|**2022-09-06**|**Learned practical guidelines for evaluating Conditional Entropy and Mutual Information in discovering major factors of response-vs-covariate dynamics**|Ting-Li Chen et.al.|[2209.02629v1](http://arxiv.org/abs/2209.02629v1)|null|
 |**2022-09-02**|**GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**|Vivian U et.al.|[2209.01210v1](http://arxiv.org/abs/2209.01210v1)|null|
 |**2022-09-02**|**Linear response quantum transport through interacting multi-orbital nanostructures**|Emma L. Minarelli et.al.|[2209.01208v1](http://arxiv.org/abs/2209.01208v1)|null|
 |**2022-09-02**|**Role of electronic thermal transport in amorphous metal recrystallization: a molecular dynamics study**|Zachary D. McClure et.al.|[2209.01203v1](http://arxiv.org/abs/2209.01203v1)|null|

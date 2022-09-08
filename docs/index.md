@@ -106,7 +106,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-07**|**Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**|Connor Henley et.al.|[2209.03336v1](http://arxiv.org/abs/2209.03336v1)|null|
+|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
+|**2022-09-07**|**On the Importance of Quantifying Visibility for Autonomous Vehicles under Extreme Precipitation**|Clément Courcelle et.al.|[2209.03226v1](http://arxiv.org/abs/2209.03226v1)|null|
+|**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|null|
+|**2022-09-07**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|
 |**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
 |**2022-09-05**|**SEFormer: Structure Embedding Transformer for 3D Object Detection**|Xiaoyu Feng et.al.|[2209.01745v1](http://arxiv.org/abs/2209.01745v1)|null|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
@@ -184,6 +188,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Dynamical Signatures of Symmetry Broken and Liquid Phases in an $S=1/2$ Heisenberg Antiferromagnet on the Triangular Lattice**|Markus Drescher et.al.|[2209.03344v1](http://arxiv.org/abs/2209.03344v1)|null|
+|**2022-09-07**|**Condensate formation in a dark state of a driven atom-cavity system**|Jim Skulte et.al.|[2209.03342v1](http://arxiv.org/abs/2209.03342v1)|null|
+|**2022-09-07**|**Twinkle -- a small satellite spectroscopy mission for the next phase of exoplanet science**|Ian Stotesbury et.al.|[2209.03337v1](http://arxiv.org/abs/2209.03337v1)|null|
+|**2022-09-07**|**Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**|Connor Henley et.al.|[2209.03336v1](http://arxiv.org/abs/2209.03336v1)|null|
+|**2022-09-07**|**A Self-Similar Sine-Cosine Fractal Architecture for Multiport Interferometers**|Jasvith Raj Basani et.al.|[2209.03335v1](http://arxiv.org/abs/2209.03335v1)|null|
+|**2022-09-07**|**Water dimer driven DNA base superstructure with mismatched hydrogen-bonding**|Shuning Cai et.al.|[2209.03330v1](http://arxiv.org/abs/2209.03330v1)|null|
+|**2022-09-07**|**Carrollian hydrodynamics from symmetries**|Laurent Freidel et.al.|[2209.03328v1](http://arxiv.org/abs/2209.03328v1)|null|
+|**2022-09-07**|**Quantum computing teaching with CoSpaces**|Francesco Sisini et.al.|[2209.03327v1](http://arxiv.org/abs/2209.03327v1)|null|
+|**2022-09-07**|**What does a platypus look like? Generating customized prompts for zero-shot image classification**|Sarah Pratt et.al.|[2209.03320v1](http://arxiv.org/abs/2209.03320v1)|null|
+|**2022-09-07**|**On the Wasserstein median of probability measures**|Kisung You et.al.|[2209.03318v1](http://arxiv.org/abs/2209.03318v1)|null|
 |**2022-09-06**|**Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**|Zheng Jia et.al.|[2209.02692v1](http://arxiv.org/abs/2209.02692v1)|null|
 |**2022-09-06**|**Neural Networks Optimized by Genetic Algorithms in Cosmology**|Isidro Gómez-Vargas et.al.|[2209.02685v1](http://arxiv.org/abs/2209.02685v1)|null|
 |**2022-09-06**|**Reshaping and ejection processes on rubble-pile asteroids by impacts**|S. D. Raducan et.al.|[2209.02677v1](http://arxiv.org/abs/2209.02677v1)|null|

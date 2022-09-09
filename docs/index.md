@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|null|
+|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|**[link](https://github.com/julioplaced/explorb-slam)**|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
@@ -110,9 +110,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-08**|**Learning to Generate Realistic LiDAR Point Clouds**|Vlas Zyrianov et.al.|[2209.03954v1](http://arxiv.org/abs/2209.03954v1)|null|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
-|**2022-09-08**|**Enabling Connectivity for Automated Mobility: A Novel MQTT-based Interface Evaluated in a 5G Case Study on Edge-Cloud Lidar Object Detection**|Lennart Reiher et.al.|[2209.03630v1](http://arxiv.org/abs/2209.03630v1)|null|
+|**2022-09-08**|**Enabling Connectivity for Automated Mobility: A Novel MQTT-based Interface Evaluated in a 5G Case Study on Edge-Cloud Lidar Object Detection**|Lennart Reiher et.al.|[2209.03630v1](http://arxiv.org/abs/2209.03630v1)|**[link](https://github.com/ika-rwth-aachen/ros-v2x-benchmarking-suite)**|
 |**2022-09-07**|**Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**|Connor Henley et.al.|[2209.03336v1](http://arxiv.org/abs/2209.03336v1)|null|
-|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|null|
+|**2022-09-07**|**Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**|Yuchen Wu et.al.|[2209.03304v1](http://arxiv.org/abs/2209.03304v1)|**[link](https://github.com/utiasasrl/steam_icp)**|
 |**2022-09-07**|**On the Importance of Quantifying Visibility for Autonomous Vehicles under Extreme Precipitation**|Clément Courcelle et.al.|[2209.03226v1](http://arxiv.org/abs/2209.03226v1)|null|
 |**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|**[link](https://github.com/sxjyjay/msmdfusion)**|
 |**2022-09-07**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|

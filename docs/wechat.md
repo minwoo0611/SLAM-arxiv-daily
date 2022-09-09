@@ -1,8 +1,10 @@
-> Updated on 2022.09.08
+> Updated on 2022.09.09
 
 ## SLAM
 
-- 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1)
+- 2022-09-08, **ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2209.03693v1](http://arxiv.org/abs/2209.03693v1)
+- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1)
+- 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
 - 2022-09-05, **Neuromorphic Visual Odometry with Resonator Networks**, Alpha Renner et.al., Paper: [http://arxiv.org/abs/2209.02000v1](http://arxiv.org/abs/2209.02000v1)
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
 - 2022-09-05, **ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2209.01774v1](http://arxiv.org/abs/2209.01774v1)
@@ -473,6 +475,9 @@
 
 ## LiDAR
 
+- 2022-09-08, **Learning to Generate Realistic LiDAR Point Clouds**, Vlas Zyrianov et.al., Paper: [http://arxiv.org/abs/2209.03954v1](http://arxiv.org/abs/2209.03954v1)
+- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1)
+- 2022-09-08, **Enabling Connectivity for Automated Mobility: A Novel MQTT-based Interface Evaluated in a 5G Case Study on Edge-Cloud Lidar Object Detection**, Lennart Reiher et.al., Paper: [http://arxiv.org/abs/2209.03630v1](http://arxiv.org/abs/2209.03630v1)
 - 2022-09-07, **Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**, Connor Henley et.al., Paper: [http://arxiv.org/abs/2209.03336v1](http://arxiv.org/abs/2209.03336v1)
 - 2022-09-07, **Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements**, Yuchen Wu et.al., Paper: [http://arxiv.org/abs/2209.03304v1](http://arxiv.org/abs/2209.03304v1)
 - 2022-09-07, **On the Importance of Quantifying Visibility for Autonomous Vehicles under Extreme Precipitation**, Clément Courcelle et.al., Paper: [http://arxiv.org/abs/2209.03226v1](http://arxiv.org/abs/2209.03226v1)
@@ -553,6 +558,16 @@
 
 ## Dynamic Object
 
+- 2022-09-08, **A direct N-body integrator for modelling the chaotic, tidal dynamics of multi-body extrasolar systems: TIDYMESS**, Tjarda C. N. Boekholt et.al., Paper: [http://arxiv.org/abs/2209.03955v1](http://arxiv.org/abs/2209.03955v1)
+- 2022-09-08, **TF-GridNet: Making Time-Frequency Domain Models Great Again for Monaural Speaker Separation**, Zhong-Qiu Wang et.al., Paper: [http://arxiv.org/abs/2209.03952v1](http://arxiv.org/abs/2209.03952v1)
+- 2022-09-08, **DQC1 as an Open Quantum System**, Jake Xuereb et.al., Paper: [http://arxiv.org/abs/2209.03947v1](http://arxiv.org/abs/2209.03947v1)
+- 2022-09-08, **Perspective: non-Hermitian physics in magnetic systems**, Hilary M. Hurst et.al., Paper: [http://arxiv.org/abs/2209.03946v1](http://arxiv.org/abs/2209.03946v1)
+- 2022-09-08, **Global well-posedness of the 1d compressible Navier-Stokes system with rough data**, Ke Chen et.al., Paper: [http://arxiv.org/abs/2209.03938v1](http://arxiv.org/abs/2209.03938v1)
+- 2022-09-08, **NeuralFMU: Presenting a workflow for integrating hybrid NeuralODEs into real world applications**, Tobias Thummerer et.al., Paper: [http://arxiv.org/abs/2209.03933v1](http://arxiv.org/abs/2209.03933v1)
+- 2022-09-08, **Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**, Lydia T. Liu et.al., Paper: [http://arxiv.org/abs/2209.03929v1](http://arxiv.org/abs/2209.03929v1)
+- 2022-09-08, **Topologies of continuity for Carathéodory parabolic PDEs from a dynamical perspective**, Iacopo P. Longo et.al., Paper: [http://arxiv.org/abs/2209.03926v1](http://arxiv.org/abs/2209.03926v1)
+- 2022-09-08, **Supernovae double-peaked light curves from double-nickel distribution**, Mariana Orellana et.al., Paper: [http://arxiv.org/abs/2209.03923v1](http://arxiv.org/abs/2209.03923v1)
+- 2022-09-08, **Exploring Target Representations for Masked Autoencoders**, Xingbin Liu et.al., Paper: [http://arxiv.org/abs/2209.03917v1](http://arxiv.org/abs/2209.03917v1)
 - 2022-09-07, **Dynamical Signatures of Symmetry Broken and Liquid Phases in an $S=1/2$ Heisenberg Antiferromagnet on the Triangular Lattice**, Markus Drescher et.al., Paper: [http://arxiv.org/abs/2209.03344v1](http://arxiv.org/abs/2209.03344v1)
 - 2022-09-07, **Condensate formation in a dark state of a driven atom-cavity system**, Jim Skulte et.al., Paper: [http://arxiv.org/abs/2209.03342v1](http://arxiv.org/abs/2209.03342v1)
 - 2022-09-07, **Twinkle -- a small satellite spectroscopy mission for the next phase of exoplanet science**, Ian Stotesbury et.al., Paper: [http://arxiv.org/abs/2209.03337v1](http://arxiv.org/abs/2209.03337v1)

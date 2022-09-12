@@ -195,7 +195,7 @@
 |**2022-09-09**|**Multifractal charactarization as a function of timescale in the light curves with planetary signal observed by the kepler mission**|F. J. S. Lima Filho et.al.|[2209.04408v1](http://arxiv.org/abs/2209.04408v1)|null|
 |**2022-09-09**|**WKB Approaches to Restore Time in Quantum Cosmology: Predictions and Shortcomings**|Giulia Maniccia et.al.|[2209.04403v1](http://arxiv.org/abs/2209.04403v1)|null|
 |**2022-09-09**|**GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**|Jiahao Pang et.al.|[2209.04401v1](http://arxiv.org/abs/2209.04401v1)|null|
-|**2022-09-09**|**Fast Re-Optimization of LeadingOnes with Frequent Changes**|Nina Bulanova et.al.|[2209.04391v1](http://arxiv.org/abs/2209.04391v1)|null|
+|**2022-09-09**|**Fast Re-Optimization of LeadingOnes with Frequent Changes**|Nina Bulanova et.al.|[2209.04391v1](http://arxiv.org/abs/2209.04391v1)|**[link](https://github.com/ninokfox/rea)**|
 |**2022-09-09**|**Energy-Aware JPEG Image Compression: A Multi-Objective Approach**|Seyed Jalaleddin Mousavirad et.al.|[2209.04374v1](http://arxiv.org/abs/2209.04374v1)|**[link](https://github.com/seyedjalaleddinmousavirad/multiobjectivejpegimagecompression)**|
 |**2022-09-09**|**Optimal $(0,1)$-Matrix Completion with Majorization Ordered Objectives (To the memory of Pravin Varaiya)**|Yanfang Mo et.al.|[2209.04373v1](http://arxiv.org/abs/2209.04373v1)|null|
 |**2022-09-09**|**Pre-training image-language transformers for open-vocabulary tasks**|AJ Piergiovanni et.al.|[2209.04372v1](http://arxiv.org/abs/2209.04372v1)|null|

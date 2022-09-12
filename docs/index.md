@@ -108,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Improving the Environmental Perception of Autonomous Vehicles using Deep Learning-based Audio Classification**|Finley Walden et.al.|[2209.04075v1](http://arxiv.org/abs/2209.04075v1)|null|
 |**2022-09-08**|**Learning to Generate Realistic LiDAR Point Clouds**|Vlas Zyrianov et.al.|[2209.03954v1](http://arxiv.org/abs/2209.03954v1)|null|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-08**|**Enabling Connectivity for Automated Mobility: A Novel MQTT-based Interface Evaluated in a 5G Case Study on Edge-Cloud Lidar Object Detection**|Lennart Reiher et.al.|[2209.03630v1](http://arxiv.org/abs/2209.03630v1)|**[link](https://github.com/ika-rwth-aachen/ros-v2x-benchmarking-suite)**|
@@ -193,6 +194,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|null|
+|**2022-09-09**|**Quasiclassical model of inhomogeneous cosmology**|Martin Bojowald et.al.|[2209.04429v1](http://arxiv.org/abs/2209.04429v1)|null|
+|**2022-09-09**|**Multifractal charactarization as a function of timescale in the light curves with planetary signal observed by the kepler mission**|F. J. S. Lima Filho et.al.|[2209.04408v1](http://arxiv.org/abs/2209.04408v1)|null|
+|**2022-09-09**|**WKB Approaches to Restore Time in Quantum Cosmology: Predictions and Shortcomings**|Giulia Maniccia et.al.|[2209.04403v1](http://arxiv.org/abs/2209.04403v1)|null|
+|**2022-09-09**|**GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**|Jiahao Pang et.al.|[2209.04401v1](http://arxiv.org/abs/2209.04401v1)|null|
+|**2022-09-09**|**Fast Re-Optimization of LeadingOnes with Frequent Changes**|Nina Bulanova et.al.|[2209.04391v1](http://arxiv.org/abs/2209.04391v1)|null|
+|**2022-09-09**|**Energy-Aware JPEG Image Compression: A Multi-Objective Approach**|Seyed Jalaleddin Mousavirad et.al.|[2209.04374v1](http://arxiv.org/abs/2209.04374v1)|**[link](https://github.com/seyedjalaleddinmousavirad/multiobjectivejpegimagecompression)**|
+|**2022-09-09**|**Optimal $(0,1)$-Matrix Completion with Majorization Ordered Objectives (To the memory of Pravin Varaiya)**|Yanfang Mo et.al.|[2209.04373v1](http://arxiv.org/abs/2209.04373v1)|null|
+|**2022-09-09**|**Pre-training image-language transformers for open-vocabulary tasks**|AJ Piergiovanni et.al.|[2209.04372v1](http://arxiv.org/abs/2209.04372v1)|null|
+|**2022-09-09**|**The combined effects of rotation and anisotropy on double diffusive bi-disperse convection**|Florinda Capone et.al.|[2209.04370v1](http://arxiv.org/abs/2209.04370v1)|null|
 |**2022-09-08**|**A direct N-body integrator for modelling the chaotic, tidal dynamics of multi-body extrasolar systems: TIDYMESS**|Tjarda C. N. Boekholt et.al.|[2209.03955v1](http://arxiv.org/abs/2209.03955v1)|null|
 |**2022-09-08**|**TF-GridNet: Making Time-Frequency Domain Models Great Again for Monaural Speaker Separation**|Zhong-Qiu Wang et.al.|[2209.03952v1](http://arxiv.org/abs/2209.03952v1)|null|
 |**2022-09-08**|**DQC1 as an Open Quantum System**|Jake Xuereb et.al.|[2209.03947v1](http://arxiv.org/abs/2209.03947v1)|null|

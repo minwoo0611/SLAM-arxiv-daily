@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
+|**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|null|
+|**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|null|
 |**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|**[link](https://github.com/julioplaced/explorb-slam)**|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
@@ -108,6 +111,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
+|**2022-09-09**|**Fast-Response Variable Frequency DC-DC Converters Using Switching Cycle Event-Driven Digital Control**|Xiaofan Cui et.al.|[2209.05272v1](http://arxiv.org/abs/2209.05272v1)|null|
+|**2022-09-12**|**Multi-modal Streaming 3D Object Detection**|Mazen Abdelfattah et.al.|[2209.04966v1](http://arxiv.org/abs/2209.04966v1)|null|
+|**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
+|**2022-09-11**|**Leading effect for wind turbine wake models**|I. Neunaber et.al.|[2209.04935v1](http://arxiv.org/abs/2209.04935v1)|null|
 |**2022-09-09**|**Improving the Environmental Perception of Autonomous Vehicles using Deep Learning-based Audio Classification**|Finley Walden et.al.|[2209.04075v1](http://arxiv.org/abs/2209.04075v1)|null|
 |**2022-09-08**|**Learning to Generate Realistic LiDAR Point Clouds**|Vlas Zyrianov et.al.|[2209.03954v1](http://arxiv.org/abs/2209.03954v1)|null|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
@@ -194,6 +202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Active particles with chirality: Application to pedestrian flows**|Anna S. Bodrova et.al.|[2209.05454v1](http://arxiv.org/abs/2209.05454v1)|null|
+|**2022-09-12**|**Self-force regularization of a point particle for generic orbits in Kerr spacetime: electromagnetic and gravitational cases**|Anna Heffernan et.al.|[2209.05450v1](http://arxiv.org/abs/2209.05450v1)|null|
+|**2022-09-12**|**Soft Diffusion: Score Matching for General Corruptions**|Giannis Daras et.al.|[2209.05442v1](http://arxiv.org/abs/2209.05442v1)|null|
+|**2022-09-12**|**Explicitly Controllable 3D-Aware Portrait Generation**|Junshu Tang et.al.|[2209.05434v1](http://arxiv.org/abs/2209.05434v1)|null|
+|**2022-09-12**|**FP8 Formats for Deep Learning**|Paulius Micikevicius et.al.|[2209.05433v1](http://arxiv.org/abs/2209.05433v1)|null|
+|**2022-09-12**|**Self-supervised Wide Baseline Visual Servoing via 3D Equivariance**|Jinwook Huh et.al.|[2209.05432v1](http://arxiv.org/abs/2209.05432v1)|null|
+|**2022-09-12**|**Critical charges for droplet collisions**|A. Dubey et.al.|[2209.05427v1](http://arxiv.org/abs/2209.05427v1)|null|
+|**2022-09-12**|**Effects of Radiative Diffusion on the Dynamical Corotation Torque in Three-Dimensional Protoplanetary Disks**|Han-Gyeol Yun et.al.|[2209.05417v1](http://arxiv.org/abs/2209.05417v1)|null|
+|**2022-09-12**|**Deterministic Sequencing of Exploration and Exploitation for Reinforcement Learning**|Piyush Gupta et.al.|[2209.05408v1](http://arxiv.org/abs/2209.05408v1)|null|
+|**2022-09-12**|**Holistic Segmentation**|Stefano Gasperini et.al.|[2209.05407v1](http://arxiv.org/abs/2209.05407v1)|null|
 |**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|null|
 |**2022-09-09**|**Quasiclassical model of inhomogeneous cosmology**|Martin Bojowald et.al.|[2209.04429v1](http://arxiv.org/abs/2209.04429v1)|null|
 |**2022-09-09**|**Multifractal charactarization as a function of timescale in the light curves with planetary signal observed by the kepler mission**|F. J. S. Lima Filho et.al.|[2209.04408v1](http://arxiv.org/abs/2209.04408v1)|null|

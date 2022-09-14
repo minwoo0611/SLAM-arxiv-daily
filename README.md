@@ -107,6 +107,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo et.al.|[2209.05996v1](http://arxiv.org/abs/2209.05996v1)|null|
+|**2022-09-13**|**A Many-ported and Shared Memory Architecture for High-Performance ADAS SoCs**|Hao Luan et.al.|[2209.05731v1](http://arxiv.org/abs/2209.05731v1)|null|
+|**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
+|**2022-09-13**|**InTEn-LOAM: Intensity and Temporal Enhanced LiDAR Odometry and Mapping**|Shuaixin Li et.al.|[2209.05708v1](http://arxiv.org/abs/2209.05708v1)|null|
+|**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 |**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
 |**2022-09-09**|**Fast-Response Variable Frequency DC-DC Converters Using Switching Cycle Event-Driven Digital Control**|Xiaofan Cui et.al.|[2209.05272v1](http://arxiv.org/abs/2209.05272v1)|null|
 |**2022-09-12**|**Multi-modal Streaming 3D Object Detection**|Mazen Abdelfattah et.al.|[2209.04966v1](http://arxiv.org/abs/2209.04966v1)|null|
@@ -198,6 +203,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**Electrical conductivity and NMR relaxation rate of Eliashberg superconductors in the weak-coupling limit**|Rufus Boyack et.al.|[2209.06206v1](http://arxiv.org/abs/2209.06206v1)|null|
+|**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|null|
+|**2022-09-13**|**Convective outgassing efficiency in planetary magma oceans: insights from computational fluid dynamics**|Arnaud Salvador et.al.|[2209.06199v1](http://arxiv.org/abs/2209.06199v1)|null|
+|**2022-09-13**|**Search for exotic Higgs boson decays H $\to$ $\mathcal{A}\mathcal{A}$ $\to$ 4$γ$ with events containing two merged diphotons in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2209.06197v1](http://arxiv.org/abs/2209.06197v1)|null|
+|**2022-09-13**|**Universal measurement-based quantum computation in a one-dimensional architecture enabled by dual-unitary circuits**|David T. Stephen et.al.|[2209.06191v1](http://arxiv.org/abs/2209.06191v1)|null|
+|**2022-09-13**|**Fast fitting of neural ordinary differential equations by Bayesian neural gradient matching to infer ecological interactions from time series data**|Willem Bonnaffé et.al.|[2209.06184v1](http://arxiv.org/abs/2209.06184v1)|null|
+|**2022-09-13**|**Integrable boundary conditions for staggered vertex models**|Holger Frahm et.al.|[2209.06182v1](http://arxiv.org/abs/2209.06182v1)|null|
+|**2022-09-13**|**A simulation experiment of a pipeline based on machine learning for neutral hydrogen intensity mapping surveys**|Lin-Cheng Li et.al.|[2209.06180v1](http://arxiv.org/abs/2209.06180v1)|null|
+|**2022-09-13**|**Gaussian-Based Quasiparticle Self-Consistent $GW$ for Periodic Systems**|Jincheng Lei et.al.|[2209.06179v1](http://arxiv.org/abs/2209.06179v1)|null|
+|**2022-09-13**|**Thermodynamic approach to liquid-to-glass transformation as an arrest transition in polydisperse solution**|Vladimir Belostotsky et.al.|[2209.06174v1](http://arxiv.org/abs/2209.06174v1)|null|
 |**2022-09-12**|**Active particles with chirality: Application to pedestrian flows**|Anna S. Bodrova et.al.|[2209.05454v1](http://arxiv.org/abs/2209.05454v1)|null|
 |**2022-09-12**|**Self-force regularization of a point particle for generic orbits in Kerr spacetime: electromagnetic and gravitational cases**|Anna Heffernan et.al.|[2209.05450v1](http://arxiv.org/abs/2209.05450v1)|null|
 |**2022-09-12**|**Soft Diffusion: Score Matching for General Corruptions**|Giannis Daras et.al.|[2209.05442v1](http://arxiv.org/abs/2209.05442v1)|null|

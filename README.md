@@ -1,9 +1,11 @@
-## Updated on 2022.09.14
+## Updated on 2022.09.15
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
+|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
@@ -107,6 +109,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-14**|**Online Whole-body Motion Planning for Quadrotor using Multi-resolution Search**|Yunfan Ren et.al.|[2209.06761v1](http://arxiv.org/abs/2209.06761v1)|null|
+|**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
+|**2022-09-14**|**CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**|Youngseok Kim et.al.|[2209.06535v1](http://arxiv.org/abs/2209.06535v1)|null|
+|**2022-09-14**|**Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsai et.al.|[2209.06407v1](http://arxiv.org/abs/2209.06407v1)|**[link](https://github.com/darrenjkt/SEE-VCN)**|
+|**2022-09-13**|**Towards Efficient Architecture and Algorithms for Sensor Fusion**|Zhendong Wang et.al.|[2209.06272v1](http://arxiv.org/abs/2209.06272v1)|null|
 |**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo et.al.|[2209.05996v1](http://arxiv.org/abs/2209.05996v1)|null|
 |**2022-09-13**|**A Many-ported and Shared Memory Architecture for High-Performance ADAS SoCs**|Hao Luan et.al.|[2209.05731v1](http://arxiv.org/abs/2209.05731v1)|null|
 |**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
@@ -203,6 +210,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-14**|**Global dynamics and architecture of the Kepler-444 system**|M. Stalport et.al.|[2209.06810v1](http://arxiv.org/abs/2209.06810v1)|null|
+|**2022-09-14**|**Coherence of linear and surface data: Methodological proposal from the example of road data**|A. Pavard et.al.|[2209.06803v1](http://arxiv.org/abs/2209.06803v1)|null|
+|**2022-09-14**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
+|**2022-09-14**|**Variable Metric Composite Proximal Alternating Linearized Minimization for Nonconvex Nonsmooth Optimization**|Maryam Yashtini et.al.|[2209.06799v1](http://arxiv.org/abs/2209.06799v1)|null|
+|**2022-09-14**|**vec2text with Round-Trip Translations**|Geoffrey Cideron et.al.|[2209.06792v1](http://arxiv.org/abs/2209.06792v1)|null|
+|**2022-09-14**|**Vibration Compensation of Delta 3D Printer with Position-varying Dynamics using Filtered B-Splines**|Nosakhare Edoimioya et.al.|[2209.06791v1](http://arxiv.org/abs/2209.06791v1)|null|
+|**2022-09-14**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v1](http://arxiv.org/abs/2209.06779v1)|null|
+|**2022-09-14**|**Measuring dilepton and heavy quark production at large $μ_{\rm B}$: the NA60+ experiment at the CERN SPS**|Enrico Scomparin et.al.|[2209.06778v1](http://arxiv.org/abs/2209.06778v1)|null|
+|**2022-09-14**|**Equidistribution of hyperbolic groups in homogeneous spaces**|Ilya Gekhtman et.al.|[2209.06776v1](http://arxiv.org/abs/2209.06776v1)|null|
+|**2022-09-14**|**Collision-Free 6-DoF Trajectory Generation for Omnidirectional Multi-rotor Aerial Vehicle**|Peiyan Liu et.al.|[2209.06764v1](http://arxiv.org/abs/2209.06764v1)|null|
 |**2022-09-13**|**Electrical conductivity and NMR relaxation rate of Eliashberg superconductors in the weak-coupling limit**|Rufus Boyack et.al.|[2209.06206v1](http://arxiv.org/abs/2209.06206v1)|null|
 |**2022-09-13**|**Normalizing Flows for Interventional Density Estimation**|Valentyn Melnychuk et.al.|[2209.06203v1](http://arxiv.org/abs/2209.06203v1)|null|
 |**2022-09-13**|**Convective outgassing efficiency in planetary magma oceans: insights from computational fluid dynamics**|Arnaud Salvador et.al.|[2209.06199v1](http://arxiv.org/abs/2209.06199v1)|null|

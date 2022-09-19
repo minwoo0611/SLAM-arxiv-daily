@@ -1,7 +1,10 @@
-> Updated on 2022.09.18
+> Updated on 2022.09.19
 
 ## SLAM
 
+- 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
+- 2022-09-16, **iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2209.07919v1](http://arxiv.org/abs/2209.07919v1)
+- 2022-09-16, **TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2209.07888v1](http://arxiv.org/abs/2209.07888v1)
 - 2022-09-15, **Landmark Management in the Application of Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2209.07199v1](http://arxiv.org/abs/2209.07199v1)
 - 2022-09-15, **PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**, Xianwei Meng et.al., Paper: [http://arxiv.org/abs/2209.07061v1](http://arxiv.org/abs/2209.07061v1)
 - 2022-09-14, **Semantic Visual Simultaneous Localization and Mapping: A Survey**, Kaiqi Chen et.al., Paper: [http://arxiv.org/abs/2209.06428v1](http://arxiv.org/abs/2209.06428v1)
@@ -482,6 +485,12 @@
 
 ## LiDAR
 
+- 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
+- 2022-09-16, **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2209.07951v1](http://arxiv.org/abs/2209.07951v1), Code: **[https://github.com/BIT-MJY/SeqOT](https://github.com/BIT-MJY/SeqOT)**
+- 2022-09-16, **TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2209.07888v1](http://arxiv.org/abs/2209.07888v1)
+- 2022-09-16, **PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition**, Qidong Huang et.al., Paper: [http://arxiv.org/abs/2209.07788v1](http://arxiv.org/abs/2209.07788v1)
+- 2022-09-16, **Image Understands Point Cloud: Weakly Supervised 3D Semantic Segmentation via Association Learning**, Tianfang Sun et.al., Paper: [http://arxiv.org/abs/2209.07774v1](http://arxiv.org/abs/2209.07774v1)
+- 2022-09-16, **An Extrinsic Calibration Method of a 3D-LiDAR and a Pose Sensor for Autonomous Driving**, Guohang Yan et.al., Paper: [http://arxiv.org/abs/2209.07694v1](http://arxiv.org/abs/2209.07694v1)
 - 2022-09-15, **Multi-Modal Beam Prediction Challenge 2022: Towards Generalization**, Gouranga Charan et.al., Paper: [http://arxiv.org/abs/2209.07519v1](http://arxiv.org/abs/2209.07519v1)
 - 2022-09-15, **FFPA-Net: Efficient Feature Fusion with Projection Awareness for 3D Object Detection**, Chaokang Jiang et.al., Paper: [http://arxiv.org/abs/2209.07419v1](http://arxiv.org/abs/2209.07419v1)
 - 2022-09-15, **Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing**, Matteo Nerini et.al., Paper: [http://arxiv.org/abs/2209.07350v1](http://arxiv.org/abs/2209.07350v1)
@@ -585,6 +594,16 @@
 
 ## Dynamic Object
 
+- 2022-09-16, **Fermi Arcs From Dynamical Variational Monte Carlo**, P. Rosenberg et.al., Paper: [http://arxiv.org/abs/2209.08092v1](http://arxiv.org/abs/2209.08092v1)
+- 2022-09-16, **Ample groupoids, topological full groups, algebraic K-theory spectra and infinite loop spaces**, Xin Li et.al., Paper: [http://arxiv.org/abs/2209.08087v1](http://arxiv.org/abs/2209.08087v1)
+- 2022-09-16, **Motion Detection in Diffraction Tomography by Common Circle Methods**, Michael Quellmalz et.al., Paper: [http://arxiv.org/abs/2209.08086v1](http://arxiv.org/abs/2209.08086v1)
+- 2022-09-16, **Detecting Majorana modes by readout of poisoning-induced parity flips**, Jens Schulenborg et.al., Paper: [http://arxiv.org/abs/2209.08082v1](http://arxiv.org/abs/2209.08082v1)
+- 2022-09-16, **Observation of universal relaxation dynamics in disordered quantum spin systems**, Titus Franz et.al., Paper: [http://arxiv.org/abs/2209.08080v1](http://arxiv.org/abs/2209.08080v1)
+- 2022-09-16, **Stochastic drift in discrete waves of non-locally interacting-particles**, Andrei Sontag et.al., Paper: [http://arxiv.org/abs/2209.08076v1](http://arxiv.org/abs/2209.08076v1)
+- 2022-09-16, **Stable Dynamic Predictive Clustering (SDPC) Protocol for Vehicular Ad hoc Network**, Mohammad Mukhtaruzzaman et.al., Paper: [http://arxiv.org/abs/2209.08075v1](http://arxiv.org/abs/2209.08075v1)
+- 2022-09-16, **Case Studies for Computing Density of Reachable States for Safe Autonomous Motion Planning**, Yue Meng et.al., Paper: [http://arxiv.org/abs/2209.08073v1](http://arxiv.org/abs/2209.08073v1)
+- 2022-09-16, **Shape relaxation of epitaxial mesa for finite-size strain-engineering**, Kennet D. R. Hannikainen et.al., Paper: [http://arxiv.org/abs/2209.08070v1](http://arxiv.org/abs/2209.08070v1)
+- 2022-09-16, **Web Application Weakness Ontology Based on Vulnerability Data**, Onyeka Ezenwoye et.al., Paper: [http://arxiv.org/abs/2209.08067v1](http://arxiv.org/abs/2209.08067v1)
 - 2022-09-15, **Multi-Modal Beam Prediction Challenge 2022: Towards Generalization**, Gouranga Charan et.al., Paper: [http://arxiv.org/abs/2209.07519v1](http://arxiv.org/abs/2209.07519v1)
 - 2022-09-15, **Propagation of a realistic magnetar jet through binary neutron star merger environment and implications for short gamma-ray bursts**, Gustavo Soares et.al., Paper: [http://arxiv.org/abs/2209.07514v1](http://arxiv.org/abs/2209.07514v1)
 - 2022-09-15, **Information Theoretic Measures of Causal Influences during Transient Neural Events**, Kaidi Shao et.al., Paper: [http://arxiv.org/abs/2209.07508v1](http://arxiv.org/abs/2209.07508v1)

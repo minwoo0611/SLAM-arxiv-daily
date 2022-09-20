@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
+|**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
+|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|null|
+|**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen et.al.|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|null|
+|**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins et.al.|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
 |**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
@@ -114,6 +120,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Efficient and Consistent Bundle Adjustment on Lidar Point Clouds**|Zheng Liu et.al.|[2209.08854v1](http://arxiv.org/abs/2209.08854v1)|null|
+|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
+|**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
+|**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian et.al.|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
+|**2022-09-16**|**Lossless SIMD Compression of LiDAR Range and Attribute Scan Sequences**|Jeff Ford et.al.|[2209.08196v1](http://arxiv.org/abs/2209.08196v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**|Junyi Ma et.al.|[2209.07951v1](http://arxiv.org/abs/2209.07951v1)|**[link](https://github.com/BIT-MJY/SeqOT)**|
 |**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
@@ -225,6 +237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Real-time Online Video Detection with Temporal Smoothing Transformers**|Yue Zhao et.al.|[2209.09236v1](http://arxiv.org/abs/2209.09236v1)|null|
+|**2022-09-19**|**N$^3$LO Quadratic-in-Spin Interactions for Generic Compact Binaries**|Jung-Wook Kim et.al.|[2209.09235v1](http://arxiv.org/abs/2209.09235v1)|null|
+|**2022-09-19**|**Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments**|Mingyo Seo et.al.|[2209.09233v1](http://arxiv.org/abs/2209.09233v1)|null|
+|**2022-09-19**|**A Zero-Shot Adaptive Quadcopter Controller**|Dingqi Zhang et.al.|[2209.09232v1](http://arxiv.org/abs/2209.09232v1)|null|
+|**2022-09-19**|**Existence of effective burning velocity in cellular flow for curvature G-equation**|Hongwei Gao et.al.|[2209.09228v1](http://arxiv.org/abs/2209.09228v1)|null|
+|**2022-09-19**|**Digital quantum simulation of the BCS model with a central-spin-like quantum processor**|Jannis Ruh et.al.|[2209.09225v1](http://arxiv.org/abs/2209.09225v1)|null|
+|**2022-09-19**|**WiForceSticker: Batteryless, Thin Sticker-like Flexible Force Sensor**|Agrim Gupta et.al.|[2209.09217v1](http://arxiv.org/abs/2209.09217v1)|null|
+|**2022-09-19**|**Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data**|Rihuan Ke et.al.|[2209.09214v1](http://arxiv.org/abs/2209.09214v1)|null|
+|**2022-09-19**|**Bethe ansatz diagonalization of the Heun-Racah operator**|Pierre-Antoine Bernard et.al.|[2209.09213v1](http://arxiv.org/abs/2209.09213v1)|null|
+|**2022-09-19**|**Bonded straight and helical flagellar filaments form ultra-low-density glasses**|Sevim Yardimci et.al.|[2209.09196v1](http://arxiv.org/abs/2209.09196v1)|null|
 |**2022-09-16**|**Fermi Arcs From Dynamical Variational Monte Carlo**|P. Rosenberg et.al.|[2209.08092v1](http://arxiv.org/abs/2209.08092v1)|null|
 |**2022-09-16**|**Ample groupoids, topological full groups, algebraic K-theory spectra and infinite loop spaces**|Xin Li et.al.|[2209.08087v1](http://arxiv.org/abs/2209.08087v1)|null|
 |**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|

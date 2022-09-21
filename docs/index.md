@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
@@ -124,6 +127,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-20**|**Quantum and Non-local Effects Offer LiDAR over 40dB Advantage**|Phillip S. Blakey et.al.|[2209.09799v1](http://arxiv.org/abs/2209.09799v1)|null|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-20**|**Self-supervised 3D Object Detection from Monocular Pseudo-LiDAR**|Curie Kim et.al.|[2209.09486v1](http://arxiv.org/abs/2209.09486v1)|null|
+|**2022-09-19**|**LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception**|Dongqiangzi Ye et.al.|[2209.09385v1](http://arxiv.org/abs/2209.09385v1)|null|
 |**2022-09-19**|**Efficient and Consistent Bundle Adjustment on Lidar Point Clouds**|Zheng Liu et.al.|[2209.08854v1](http://arxiv.org/abs/2209.08854v1)|null|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
@@ -241,6 +249,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-20**|**Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**|Zhaoxi Chen et.al.|[2209.09898v1](http://arxiv.org/abs/2209.09898v1)|**[link](https://github.com/frozenburning/text2light)**|
+|**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
+|**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|
+|**2022-09-20**|**Exactly self-similar blow-up of the generalized De Gregorio equation**|Fan Zheng et.al.|[2209.09886v1](http://arxiv.org/abs/2209.09886v1)|null|
+|**2022-09-20**|**Leveraging Local Patch Differences in Multi-Object Scenes for Generative Adversarial Attacks**|Abhishek Aich et.al.|[2209.09883v1](http://arxiv.org/abs/2209.09883v1)|null|
+|**2022-09-20**|**Diabetic foot ulcers monitoring by employing super resolution and noise reduction deep learning techniques**|Agapi Davradou et.al.|[2209.09880v1](http://arxiv.org/abs/2209.09880v1)|null|
+|**2022-09-20**|**Revealing high-z Fermi-LAT BL Lacs using Swift and SARA data with photometric analysis**|Y. Sheng et.al.|[2209.09877v1](http://arxiv.org/abs/2209.09877v1)|null|
+|**2022-09-20**|**Open-vocabulary Queryable Scene Representations for Real World Planning**|Boyuan Chen et.al.|[2209.09874v1](http://arxiv.org/abs/2209.09874v1)|null|
+|**2022-09-20**|**A Hierarchy of Nondeterminism**|Bader Abu Radi et.al.|[2209.09866v1](http://arxiv.org/abs/2209.09866v1)|null|
+|**2022-09-20**|**Modified Macdonald polynomials and the multispecies zero range process: II**|Arvind Ayyer et.al.|[2209.09859v1](http://arxiv.org/abs/2209.09859v1)|null|
 |**2022-09-19**|**Real-time Online Video Detection with Temporal Smoothing Transformers**|Yue Zhao et.al.|[2209.09236v1](http://arxiv.org/abs/2209.09236v1)|**[link](https://github.com/zhaoyue-zephyrus/testra)**|
 |**2022-09-19**|**N$^3$LO Quadratic-in-Spin Interactions for Generic Compact Binaries**|Jung-Wook Kim et.al.|[2209.09235v1](http://arxiv.org/abs/2209.09235v1)|null|
 |**2022-09-19**|**Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments**|Mingyo Seo et.al.|[2209.09233v1](http://arxiv.org/abs/2209.09233v1)|null|

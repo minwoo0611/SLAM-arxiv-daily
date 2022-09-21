@@ -4,7 +4,7 @@
 
 - 2022-09-19, **LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**, Letian Zhang et.al., Paper: [http://arxiv.org/abs/2209.08810v1](http://arxiv.org/abs/2209.08810v1)
 - 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
-- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1)
+- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-09-17, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v1](http://arxiv.org/abs/2209.08430v1), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-17, **OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2209.08338v1](http://arxiv.org/abs/2209.08338v1)
 - 2022-09-17, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v1](http://arxiv.org/abs/2209.08248v1)

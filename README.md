@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain et.al.|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov et.al.|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
@@ -123,6 +124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
 |**2022-09-20**|**Quantum and Non-local Effects Offer LiDAR over 40dB Advantage**|Phillip S. Blakey et.al.|[2209.09799v1](http://arxiv.org/abs/2209.09799v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
@@ -245,6 +247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
+|**2022-09-21**|**Coevolution of Supermassive Black Holes and their Host Galaxies with Galaxy Mergers**|Chi-Hong Lin et.al.|[2209.10535v1](http://arxiv.org/abs/2209.10535v1)|null|
+|**2022-09-21**|**Conformal removability of SLE$_4$**|Konstantinos Kavvadias et.al.|[2209.10532v1](http://arxiv.org/abs/2209.10532v1)|null|
+|**2022-09-21**|**Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces**|Saeed Vahidian et.al.|[2209.10526v1](http://arxiv.org/abs/2209.10526v1)|**[link](https://github.com/mmorafah/pacfl)**|
+|**2022-09-21**|**Takasaki's rational fourth Painlevé-Calogero system and geometric regularisability of algebro-Painlevé equations**|Galina Filipuk et.al.|[2209.10515v1](http://arxiv.org/abs/2209.10515v1)|null|
+|**2022-09-21**|**Complex dynamics in adaptive phase oscillator networks**|Benjamin Jüttner et.al.|[2209.10514v1](http://arxiv.org/abs/2209.10514v1)|null|
+|**2022-09-21**|**Consensus-based Fast and Energy-Efficient Multi-Robot Task Allocation**|Prabhat Mahato et.al.|[2209.10513v1](http://arxiv.org/abs/2209.10513v1)|null|
+|**2022-09-21**|**Improved Marginal Unbiased Score Expansion (MUSE) via Implicit Differentiation**|Marius Millea et.al.|[2209.10512v1](http://arxiv.org/abs/2209.10512v1)|**[link](https://github.com/marius311/muse-implicit-paper)**|
+|**2022-09-21**|**Exact Coherent Structures in Fully Developed Two-Dimensional Turbulence**|Dmitriy Zhigunov et.al.|[2209.10511v1](http://arxiv.org/abs/2209.10511v1)|null|
+|**2022-09-21**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v1](http://arxiv.org/abs/2209.10503v1)|null|
 |**2022-09-20**|**Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**|Zhaoxi Chen et.al.|[2209.09898v1](http://arxiv.org/abs/2209.09898v1)|**[link](https://github.com/frozenburning/text2light)**|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|

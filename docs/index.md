@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
+|**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
+|**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
 |**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain et.al.|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce et.al.|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
@@ -128,6 +131,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v1](http://arxiv.org/abs/2209.11133v1)|null|
+|**2022-09-21**|**Deep Learning on Home Drone: Searching for the Optimal Architecture**|Alaa Maalouf et.al.|[2209.11064v1](http://arxiv.org/abs/2209.11064v1)|null|
+|**2022-09-22**|**Learning to Simulate Realistic LiDARs**|Benoit Guillard et.al.|[2209.10986v1](http://arxiv.org/abs/2209.10986v1)|null|
+|**2022-09-22**|**MUI-TARE: Multi-Agent Cooperative Exploration with Unknown Initial Position**|Jingtian Yan et.al.|[2209.10775v1](http://arxiv.org/abs/2209.10775v1)|null|
+|**2022-09-22**|**FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection**|Xinli Xu et.al.|[2209.10733v1](http://arxiv.org/abs/2209.10733v1)|null|
+|**2022-09-21**|**Convolutional Bayesian Kernel Inference for 3D Semantic Mapping**|Joey Wilson et.al.|[2209.10663v1](http://arxiv.org/abs/2209.10663v1)|null|
 |**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
 |**2022-09-20**|**Quantum and Non-local Effects Offer LiDAR over 40dB Advantage**|Phillip S. Blakey et.al.|[2209.09799v1](http://arxiv.org/abs/2209.09799v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son et.al.|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
@@ -251,6 +260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**NamedMask: Distilling Segmenters from Complementary Foundation Models**|Gyungin Shin et.al.|[2209.11228v1](http://arxiv.org/abs/2209.11228v1)|**[link](https://github.com/noelshin/namedmask)**|
+|**2022-09-22**|**Holographic BCFT Spectra from Brane Mergers**|Shovon Biswas et.al.|[2209.11227v1](http://arxiv.org/abs/2209.11227v1)|null|
+|**2022-09-22**|**Quantum theory in finite dimension cannot explain every general process with finite memory**|Marco Fanizza et.al.|[2209.11225v1](http://arxiv.org/abs/2209.11225v1)|null|
+|**2022-09-22**|**Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps**|Sudeep Dasari et.al.|[2209.11221v1](http://arxiv.org/abs/2209.11221v1)|null|
+|**2022-09-22**|**Simple vs non-simple loops on random regular graphs**|Benjamin Dozier et.al.|[2209.11218v1](http://arxiv.org/abs/2209.11218v1)|null|
+|**2022-09-22**|**A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases**|James Harrison et.al.|[2209.11208v1](http://arxiv.org/abs/2209.11208v1)|null|
+|**2022-09-22**|**Stable singularity formation for the Keller-Segel system in three dimensions**|Irfan Glogić et.al.|[2209.11206v1](http://arxiv.org/abs/2209.11206v1)|null|
+|**2022-09-22**|**Open quantum system dynamics of $X$-states: Entanglement sudden death and sudden birth**|Nikhitha Nunavath et.al.|[2209.11190v1](http://arxiv.org/abs/2209.11190v1)|null|
+|**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|null|
+|**2022-09-22**|**Giant electroviscous effects in a ferroelectric nematic liquid crystal**|M. Praveen Kumar et.al.|[2209.11154v1](http://arxiv.org/abs/2209.11154v1)|null|
 |**2022-09-21**|**FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization**|Junjiao Tian et.al.|[2209.10537v1](http://arxiv.org/abs/2209.10537v1)|**[link](https://github.com/gt-ripl/fedfor)**|
 |**2022-09-21**|**Coevolution of Supermassive Black Holes and their Host Galaxies with Galaxy Mergers**|Chi-Hong Lin et.al.|[2209.10535v1](http://arxiv.org/abs/2209.10535v1)|null|
 |**2022-09-21**|**Conformal removability of SLE$_4$**|Konstantinos Kavvadias et.al.|[2209.10532v1](http://arxiv.org/abs/2209.10532v1)|null|

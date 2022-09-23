@@ -1,4 +1,4 @@
-## Updated on 2022.09.22
+## Updated on 2022.09.23
 
 ## SLAM
 
@@ -256,7 +256,7 @@
 |**2022-09-21**|**Consensus-based Fast and Energy-Efficient Multi-Robot Task Allocation**|Prabhat Mahato et.al.|[2209.10513v1](http://arxiv.org/abs/2209.10513v1)|null|
 |**2022-09-21**|**Improved Marginal Unbiased Score Expansion (MUSE) via Implicit Differentiation**|Marius Millea et.al.|[2209.10512v1](http://arxiv.org/abs/2209.10512v1)|**[link](https://github.com/marius311/muse-implicit-paper)**|
 |**2022-09-21**|**Exact Coherent Structures in Fully Developed Two-Dimensional Turbulence**|Dmitriy Zhigunov et.al.|[2209.10511v1](http://arxiv.org/abs/2209.10511v1)|null|
-|**2022-09-21**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v1](http://arxiv.org/abs/2209.10503v1)|null|
+|**2022-09-22**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v2](http://arxiv.org/abs/2209.10503v2)|null|
 |**2022-09-20**|**Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**|Zhaoxi Chen et.al.|[2209.09898v1](http://arxiv.org/abs/2209.09898v1)|**[link](https://github.com/frozenburning/text2light)**|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**Deep Generalized Schrödinger Bridge**|Guan-Horng Liu et.al.|[2209.09893v1](http://arxiv.org/abs/2209.09893v1)|null|

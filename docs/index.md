@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman et.al.|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
+|**2022-09-23**|**Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**|David Balaban et.al.|[2209.11432v1](http://arxiv.org/abs/2209.11432v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
 |**2022-09-22**|**Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**|Wenhao Qiu et.al.|[2209.10726v1](http://arxiv.org/abs/2209.10726v1)|null|
 |**2022-09-21**|**Visual Localization and Mapping in Dynamic and Changing Environments**|João Carlos Virgolino Soares et.al.|[2209.10710v1](http://arxiv.org/abs/2209.10710v1)|null|
@@ -131,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
 |**2022-09-22**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v1](http://arxiv.org/abs/2209.11133v1)|null|
 |**2022-09-21**|**Deep Learning on Home Drone: Searching for the Optimal Architecture**|Alaa Maalouf et.al.|[2209.11064v1](http://arxiv.org/abs/2209.11064v1)|null|
 |**2022-09-22**|**Learning to Simulate Realistic LiDARs**|Benoit Guillard et.al.|[2209.10986v1](http://arxiv.org/abs/2209.10986v1)|null|
@@ -260,6 +263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-23**|**Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping**|Tianxiang Lin et.al.|[2209.11757v1](http://arxiv.org/abs/2209.11757v1)|null|
+|**2022-09-23**|**Bullseye focusing of cylindrical waves at a liquid-solid interface**|Ulisses J. Gutiérrez-Hernández et.al.|[2209.11756v1](http://arxiv.org/abs/2209.11756v1)|null|
+|**2022-09-23**|**Universal behavior of highly-confined heat flow in semiconductor nanosystems: from nanomeshes to metalattices**|Brendan McBennett et.al.|[2209.11743v1](http://arxiv.org/abs/2209.11743v1)|null|
+|**2022-09-23**|**Semantic scene descriptions as an objective of human vision**|Adrien Doerig et.al.|[2209.11737v1](http://arxiv.org/abs/2209.11737v1)|null|
+|**2022-09-23**|**Self-assembly Through Programmable Folding**|Angus McMullen et.al.|[2209.11736v1](http://arxiv.org/abs/2209.11736v1)|null|
+|**2022-09-23**|**Conditioned Weiner Processes as Nonlinearities: A Rigorous Probabilistic Analysis of Dynamics**|Konstantin Mischaikow et.al.|[2209.11725v1](http://arxiv.org/abs/2209.11725v1)|null|
+|**2022-09-23**|**Superconductivity in the twisted bilayer transition metal dichalcogenide WSe${}_2$ : a quantum cluster study**|Mathieu Bélanger et.al.|[2209.11724v1](http://arxiv.org/abs/2209.11724v1)|null|
+|**2022-09-23**|**Absolutely Periodic Billiard Orbits of Arbitrarily High Order**|Keagan G. Callis et.al.|[2209.11721v1](http://arxiv.org/abs/2209.11721v1)|null|
+|**2022-09-23**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v1](http://arxiv.org/abs/2209.11715v1)|null|
+|**2022-09-23**|**Robust adaptive MPC using control contraction metrics**|András Sasfi et.al.|[2209.11713v1](http://arxiv.org/abs/2209.11713v1)|null|
 |**2022-09-22**|**NamedMask: Distilling Segmenters from Complementary Foundation Models**|Gyungin Shin et.al.|[2209.11228v1](http://arxiv.org/abs/2209.11228v1)|**[link](https://github.com/noelshin/namedmask)**|
 |**2022-09-22**|**Holographic BCFT Spectra from Brane Mergers**|Shovon Biswas et.al.|[2209.11227v1](http://arxiv.org/abs/2209.11227v1)|null|
 |**2022-09-22**|**Quantum theory in finite dimension cannot explain every general process with finite memory**|Marco Fanizza et.al.|[2209.11225v1](http://arxiv.org/abs/2209.11225v1)|null|

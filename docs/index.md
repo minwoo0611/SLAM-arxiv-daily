@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-24**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes et.al.|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
+|**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
 |**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman et.al.|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
 |**2022-09-23**|**Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**|David Balaban et.al.|[2209.11432v1](http://arxiv.org/abs/2209.11432v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
@@ -133,6 +135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-26**|**Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**|Philip Jacobson et.al.|[2209.12880v1](http://arxiv.org/abs/2209.12880v1)|null|
+|**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
+|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v1](http://arxiv.org/abs/2209.12729v1)|null|
+|**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|null|
+|**2022-09-26**|**Multiscale Latent-Guided Entropy Model for LiDAR Point Cloud Compression**|Tingyu Fan et.al.|[2209.12512v1](http://arxiv.org/abs/2209.12512v1)|null|
+|**2022-09-26**|**STD: Stable Triangle Descriptor for 3D place recognition**|Chongjian Yuan et.al.|[2209.12435v1](http://arxiv.org/abs/2209.12435v1)|null|
+|**2022-09-26**|**Feature-based model selection for object detection from point cloud data**|Kairi Tokuda et.al.|[2209.12419v1](http://arxiv.org/abs/2209.12419v1)|null|
+|**2022-09-26**|**An optimization-based IMU/Lidar/Camera Co-calibration method**|Hou lanhua et.al.|[2209.12355v1](http://arxiv.org/abs/2209.12355v1)|null|
+|**2022-09-25**|**From One to Many: Dynamic Cross Attention Networks for LiDAR and Camera Fusion**|Rui Wan et.al.|[2209.12254v1](http://arxiv.org/abs/2209.12254v1)|null|
+|**2022-09-25**|**A Tightly Coupled LiDAR-IMU Odometry through Iterated Point-Level Undistortion**|Keke Liu et.al.|[2209.12249v1](http://arxiv.org/abs/2209.12249v1)|null|
 |**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
 |**2022-09-23**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v2](http://arxiv.org/abs/2209.11133v2)|null|
 |**2022-09-21**|**Deep Learning on Home Drone: Searching for the Optimal Architecture**|Alaa Maalouf et.al.|[2209.11064v1](http://arxiv.org/abs/2209.11064v1)|null|
@@ -263,6 +275,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-26**|**Automorphisms of Groups and a Higher Rank JSJ Decomposition II: The single ended case**|Z. Sela et.al.|[2209.12891v1](http://arxiv.org/abs/2209.12891v1)|null|
+|**2022-09-26**|**Characterizing a non-equilibrium phase transition on a quantum computer**|Eli Chertkov et.al.|[2209.12889v1](http://arxiv.org/abs/2209.12889v1)|null|
+|**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|
+|**2022-09-26**|**Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**|Philip Jacobson et.al.|[2209.12880v1](http://arxiv.org/abs/2209.12880v1)|null|
+|**2022-09-26**|**Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization**|Luigi Campanaro et.al.|[2209.12878v1](http://arxiv.org/abs/2209.12878v1)|null|
+|**2022-09-26**|**Dissipation properties of transport noise in the two-layer quasi-geostrophic model**|Giulia Carigi et.al.|[2209.12874v1](http://arxiv.org/abs/2209.12874v1)|null|
+|**2022-09-26**|**On Efficient Online Imitation Learning via Classification**|Yichen Li et.al.|[2209.12868v1](http://arxiv.org/abs/2209.12868v1)|null|
+|**2022-09-26**|**SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**|Hao Lu et.al.|[2209.12866v1](http://arxiv.org/abs/2209.12866v1)|**[link](https://github.com/poppinace/sapa)**|
+|**2022-09-26**|**Relativistic Liquids: GENERIC or EIT?**|Lorenzo Gavassino et.al.|[2209.12865v1](http://arxiv.org/abs/2209.12865v1)|null|
+|**2022-09-26**|**Edge-assisted Collaborative Digital Twin for Safety-Critical Robotics in Industrial IoT**|Sumit K. Das et.al.|[2209.12854v1](http://arxiv.org/abs/2209.12854v1)|null|
 |**2022-09-23**|**Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping**|Tianxiang Lin et.al.|[2209.11757v1](http://arxiv.org/abs/2209.11757v1)|null|
 |**2022-09-23**|**Bullseye focusing of cylindrical waves at a liquid-solid interface**|Ulisses J. Gutiérrez-Hernández et.al.|[2209.11756v1](http://arxiv.org/abs/2209.11756v1)|null|
 |**2022-09-23**|**Universal behavior of highly-confined heat flow in semiconductor nanosystems: from nanomeshes to metalattices**|Brendan McBennett et.al.|[2209.11743v1](http://arxiv.org/abs/2209.11743v1)|null|

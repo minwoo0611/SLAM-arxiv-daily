@@ -636,7 +636,7 @@
 - 2022-09-23, **Conditioned Weiner Processes as Nonlinearities: A Rigorous Probabilistic Analysis of Dynamics**, Konstantin Mischaikow et.al., Paper: [http://arxiv.org/abs/2209.11725v1](http://arxiv.org/abs/2209.11725v1)
 - 2022-09-23, **Superconductivity in the twisted bilayer transition metal dichalcogenide WSe${}_2$ : a quantum cluster study**, Mathieu Bélanger et.al., Paper: [http://arxiv.org/abs/2209.11724v1](http://arxiv.org/abs/2209.11724v1)
 - 2022-09-23, **Absolutely Periodic Billiard Orbits of Arbitrarily High Order**, Keagan G. Callis et.al., Paper: [http://arxiv.org/abs/2209.11721v1](http://arxiv.org/abs/2209.11721v1)
-- 2022-09-23, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v1](http://arxiv.org/abs/2209.11715v1)
+- 2022-09-26, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v2](http://arxiv.org/abs/2209.11715v2), Code: **[https://github.com/wanlunsec/beatrix](https://github.com/wanlunsec/beatrix)**
 - 2022-09-23, **Robust adaptive MPC using control contraction metrics**, András Sasfi et.al., Paper: [http://arxiv.org/abs/2209.11713v1](http://arxiv.org/abs/2209.11713v1)
 - 2022-09-22, **NamedMask: Distilling Segmenters from Complementary Foundation Models**, Gyungin Shin et.al., Paper: [http://arxiv.org/abs/2209.11228v1](http://arxiv.org/abs/2209.11228v1), Code: **[https://github.com/noelshin/namedmask](https://github.com/noelshin/namedmask)**
 - 2022-09-22, **Holographic BCFT Spectra from Brane Mergers**, Shovon Biswas et.al., Paper: [http://arxiv.org/abs/2209.11227v1](http://arxiv.org/abs/2209.11227v1)

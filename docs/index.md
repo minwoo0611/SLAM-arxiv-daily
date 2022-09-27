@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.26
+## Updated on 2022.09.27
 
 ## SLAM
 
@@ -134,7 +134,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-23**|**Robot Localization using Situational Graphs and Building Architectural Plans**|Muhammad Shaheer et.al.|[2209.11575v1](http://arxiv.org/abs/2209.11575v1)|null|
-|**2022-09-22**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v1](http://arxiv.org/abs/2209.11133v1)|null|
+|**2022-09-23**|**PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**|Rogerio Bonatti et.al.|[2209.11133v2](http://arxiv.org/abs/2209.11133v2)|null|
 |**2022-09-21**|**Deep Learning on Home Drone: Searching for the Optimal Architecture**|Alaa Maalouf et.al.|[2209.11064v1](http://arxiv.org/abs/2209.11064v1)|null|
 |**2022-09-22**|**Learning to Simulate Realistic LiDARs**|Benoit Guillard et.al.|[2209.10986v1](http://arxiv.org/abs/2209.10986v1)|null|
 |**2022-09-22**|**MUI-TARE: Multi-Agent Cooperative Exploration with Unknown Initial Position**|Jingtian Yan et.al.|[2209.10775v1](http://arxiv.org/abs/2209.10775v1)|null|

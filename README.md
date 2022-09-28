@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-24**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes et.al.|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
 |**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
 |**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman et.al.|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
@@ -131,6 +132,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents**|Yao-Hung Hubert Tsai et.al.|[2209.13156v1](http://arxiv.org/abs/2209.13156v1)|null|
+|**2022-09-27**|**3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion**|Chaokang Jiang et.al.|[2209.13130v1](http://arxiv.org/abs/2209.13130v1)|null|
 |**2022-09-26**|**Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**|Philip Jacobson et.al.|[2209.12880v1](http://arxiv.org/abs/2209.12880v1)|null|
 |**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
 |**2022-09-27**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v2](http://arxiv.org/abs/2209.12729v2)|null|
@@ -271,6 +274,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**|Juan Miguel Valverde et.al.|[2209.13590v1](http://arxiv.org/abs/2209.13590v1)|null|
+|**2022-09-27**|**Universal Scaling of the Dynamic BKT Transition in Quenched 2D Bose Gases**|Shinichi Sunami et.al.|[2209.13587v1](http://arxiv.org/abs/2209.13587v1)|null|
+|**2022-09-27**|**Learning State-Aware Visual Representations from Audible Interactions**|Himangi Mittal et.al.|[2209.13583v1](http://arxiv.org/abs/2209.13583v1)|**[link](https://github.com/HimangiM/RepLAI)**|
+|**2022-09-27**|**Forecasting Vehicle Pitch of a Lightweight Underwater Vehicle Manipulator System with Recurrent Neural Networks**|Hannah Kolano et.al.|[2209.13577v1](http://arxiv.org/abs/2209.13577v1)|null|
+|**2022-09-27**|**Uniformly Expanding Coupled Maps: Self-Consistent Transfer Operators and Propagation of Chaos**|Matteo Tanzi et.al.|[2209.13571v1](http://arxiv.org/abs/2209.13571v1)|null|
+|**2022-09-27**|**Exploring Low Rank Training of Deep Neural Networks**|Siddhartha Rao Kamalakara et.al.|[2209.13569v1](http://arxiv.org/abs/2209.13569v1)|null|
+|**2022-09-27**|**Characterising small objects in the regime between the eddy current model and wave propagation**|P. D. Ledger et.al.|[2209.13550v1](http://arxiv.org/abs/2209.13550v1)|null|
+|**2022-09-27**|**Dynamical friction of a massive black hole in a turbulent gaseous medium**|Sandrine Lescaudron et.al.|[2209.13548v1](http://arxiv.org/abs/2209.13548v1)|null|
+|**2022-09-27**|**Interactivism in Spoken Dialogue Systems**|T. Rodríguez Muñoz et.al.|[2209.13547v1](http://arxiv.org/abs/2209.13547v1)|null|
+|**2022-09-27**|**DBGSL: Dynamic Brain Graph Structure Learning**|Alexander Campbell et.al.|[2209.13513v1](http://arxiv.org/abs/2209.13513v1)|null|
 |**2022-09-26**|**Automorphisms of Groups and a Higher Rank JSJ Decomposition II: The single ended case**|Z. Sela et.al.|[2209.12891v1](http://arxiv.org/abs/2209.12891v1)|null|
 |**2022-09-26**|**Characterizing a non-equilibrium phase transition on a quantum computer**|Eli Chertkov et.al.|[2209.12889v1](http://arxiv.org/abs/2209.12889v1)|null|
 |**2022-09-26**|**Turbulence via intermolecular potential: A weakly compressible model of gas flow at low Mach number**|Rafail V. Abramov et.al.|[2209.12886v1](http://arxiv.org/abs/2209.12886v1)|null|

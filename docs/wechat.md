@@ -643,7 +643,7 @@
 
 ## Dynamic Object
 
-- 2022-09-27, **Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**, Juan Miguel Valverde et.al., Paper: [http://arxiv.org/abs/2209.13590v1](http://arxiv.org/abs/2209.13590v1)
+- 2022-09-27, **Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**, Juan Miguel Valverde et.al., Paper: [http://arxiv.org/abs/2209.13590v1](http://arxiv.org/abs/2209.13590v1), Code: **[https://github.com/jmlipman/sauronunet](https://github.com/jmlipman/sauronunet)**
 - 2022-09-27, **Universal Scaling of the Dynamic BKT Transition in Quenched 2D Bose Gases**, Shinichi Sunami et.al., Paper: [http://arxiv.org/abs/2209.13587v1](http://arxiv.org/abs/2209.13587v1)
 - 2022-09-27, **Learning State-Aware Visual Representations from Audible Interactions**, Himangi Mittal et.al., Paper: [http://arxiv.org/abs/2209.13583v1](http://arxiv.org/abs/2209.13583v1), Code: **[https://github.com/HimangiM/RepLAI](https://github.com/HimangiM/RepLAI)**
 - 2022-09-27, **Forecasting Vehicle Pitch of a Lightweight Underwater Vehicle Manipulator System with Recurrent Neural Networks**, Hannah Kolano et.al., Paper: [http://arxiv.org/abs/2209.13577v1](http://arxiv.org/abs/2209.13577v1)

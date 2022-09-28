@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.27
+## Updated on 2022.09.28
 
 ## SLAM
 
@@ -137,7 +137,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-26**|**Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**|Philip Jacobson et.al.|[2209.12880v1](http://arxiv.org/abs/2209.12880v1)|null|
 |**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
-|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v1](http://arxiv.org/abs/2209.12729v1)|null|
+|**2022-09-27**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v2](http://arxiv.org/abs/2209.12729v2)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
 |**2022-09-26**|**Multiscale Latent-Guided Entropy Model for LiDAR Point Cloud Compression**|Tingyu Fan et.al.|[2209.12512v1](http://arxiv.org/abs/2209.12512v1)|null|
 |**2022-09-26**|**STD: Stable Triangle Descriptor for 3D place recognition**|Chongjian Yuan et.al.|[2209.12435v1](http://arxiv.org/abs/2209.12435v1)|**[link](https://github.com/hku-mars/std)**|

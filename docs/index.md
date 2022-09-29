@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## SLAM
 
@@ -286,7 +286,7 @@ layout: default
 |**2022-09-27**|**Exploring Low Rank Training of Deep Neural Networks**|Siddhartha Rao Kamalakara et.al.|[2209.13569v1](http://arxiv.org/abs/2209.13569v1)|null|
 |**2022-09-27**|**Characterising small objects in the regime between the eddy current model and wave propagation**|P. D. Ledger et.al.|[2209.13550v1](http://arxiv.org/abs/2209.13550v1)|null|
 |**2022-09-27**|**Dynamical friction of a massive black hole in a turbulent gaseous medium**|Sandrine Lescaudron et.al.|[2209.13548v1](http://arxiv.org/abs/2209.13548v1)|null|
-|**2022-09-27**|**Interactivism in Spoken Dialogue Systems**|T. Rodríguez Muñoz et.al.|[2209.13547v1](http://arxiv.org/abs/2209.13547v1)|null|
+|**2022-09-28**|**Interactivism in Spoken Dialogue Systems**|T. Rodríguez Muñoz et.al.|[2209.13547v2](http://arxiv.org/abs/2209.13547v2)|null|
 |**2022-09-27**|**DBGSL: Dynamic Brain Graph Structure Learning**|Alexander Campbell et.al.|[2209.13513v1](http://arxiv.org/abs/2209.13513v1)|null|
 |**2022-09-26**|**Automorphisms of Groups and a Higher Rank JSJ Decomposition II: The single ended case**|Z. Sela et.al.|[2209.12891v1](http://arxiv.org/abs/2209.12891v1)|null|
 |**2022-09-26**|**Characterizing a non-equilibrium phase transition on a quantum computer**|Eli Chertkov et.al.|[2209.12889v1](http://arxiv.org/abs/2209.12889v1)|null|

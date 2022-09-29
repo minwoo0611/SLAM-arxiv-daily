@@ -503,6 +503,10 @@
 
 ## LiDAR
 
+- 2022-09-28, **On the Generalization of Deep Reinforcement Learning Methods in the Problem of Local Navigation**, Victor R. F. Miranda et.al., Paper: [http://arxiv.org/abs/2209.14271v1](http://arxiv.org/abs/2209.14271v1)
+- 2022-09-28, **City-scale Incremental Neural Mapping with Three-layer Sampling and Panoptic Representation**, Yongliang Shi et.al., Paper: [http://arxiv.org/abs/2209.14072v1](http://arxiv.org/abs/2209.14072v1)
+- 2022-09-28, **PCB-RandNet: Rethinking Random Sampling for LIDAR Semantic Segmentation in Autonomous Driving Scene**, Huixian Cheng et.al., Paper: [http://arxiv.org/abs/2209.13797v1](http://arxiv.org/abs/2209.13797v1)
+- 2022-09-27, **V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception**, Hao Xiang et.al., Paper: [http://arxiv.org/abs/2209.13679v1](http://arxiv.org/abs/2209.13679v1)
 - 2022-09-27, **Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents**, Yao-Hung Hubert Tsai et.al., Paper: [http://arxiv.org/abs/2209.13156v1](http://arxiv.org/abs/2209.13156v1)
 - 2022-09-27, **3D Scene Flow Estimation on Pseudo-LiDAR: Bridging the Gap on Estimating Point Motion**, Chaokang Jiang et.al., Paper: [http://arxiv.org/abs/2209.13130v1](http://arxiv.org/abs/2209.13130v1)
 - 2022-09-26, **Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2209.12880v1](http://arxiv.org/abs/2209.12880v1)
@@ -643,6 +647,16 @@
 
 ## Dynamic Object
 
+- 2022-09-28, **Global Speed Limit for Finite-Time Dynamical Phase Transition in Nonequilibrium Relaxation**, Kristian Blom et.al., Paper: [http://arxiv.org/abs/2209.14287v1](http://arxiv.org/abs/2209.14287v1)
+- 2022-09-28, **DexTransfer: Real World Multi-fingered Dexterous Grasping with Minimal Human Demonstrations**, Zoey Qiuyu Chen et.al., Paper: [http://arxiv.org/abs/2209.14284v1](http://arxiv.org/abs/2209.14284v1)
+- 2022-09-28, **Vector causal inference between two groups of variables**, Jonas Wahl et.al., Paper: [http://arxiv.org/abs/2209.14283v1](http://arxiv.org/abs/2209.14283v1)
+- 2022-09-28, **Audio Retrieval with WavText5K and CLAP Training**, Soham Deshmukh et.al., Paper: [http://arxiv.org/abs/2209.14275v1](http://arxiv.org/abs/2209.14275v1)
+- 2022-09-28, **A Survey on Physical Adversarial Attack in Computer Vision**, Donghua Wang et.al., Paper: [http://arxiv.org/abs/2209.14262v1](http://arxiv.org/abs/2209.14262v1)
+- 2022-09-28, **Focused Adaptation of Dynamics Models for Deformable Object Manipulation**, Peter Mitrano et.al., Paper: [http://arxiv.org/abs/2209.14261v1](http://arxiv.org/abs/2209.14261v1)
+- 2022-09-28, **Spiral instabilities: Mode saturation and decay**, J A Sellwood et.al., Paper: [http://arxiv.org/abs/2209.14256v1](http://arxiv.org/abs/2209.14256v1)
+- 2022-09-28, **Discrete Mechanics and Optimal Control for Passive Walking with Foot Slippage**, Alexandre Anahory Simoes et.al., Paper: [http://arxiv.org/abs/2209.14255v1](http://arxiv.org/abs/2209.14255v1)
+- 2022-09-28, **Preempting to Minimize Age of Incorrect Information under Random Delay**, Yutao Chen et.al., Paper: [http://arxiv.org/abs/2209.14254v1](http://arxiv.org/abs/2209.14254v1)
+- 2022-09-28, **B2B Advertising: Joint Dynamic Scoring of Account and Users**, Atanu R. Sinha et.al., Paper: [http://arxiv.org/abs/2209.14250v1](http://arxiv.org/abs/2209.14250v1)
 - 2022-09-27, **Sauron U-Net: Simple automated redundancy elimination in medical image segmentation via filter pruning**, Juan Miguel Valverde et.al., Paper: [http://arxiv.org/abs/2209.13590v1](http://arxiv.org/abs/2209.13590v1), Code: **[https://github.com/jmlipman/sauronunet](https://github.com/jmlipman/sauronunet)**
 - 2022-09-27, **Universal Scaling of the Dynamic BKT Transition in Quenched 2D Bose Gases**, Shinichi Sunami et.al., Paper: [http://arxiv.org/abs/2209.13587v1](http://arxiv.org/abs/2209.13587v1)
 - 2022-09-27, **Learning State-Aware Visual Representations from Audible Interactions**, Himangi Mittal et.al., Paper: [http://arxiv.org/abs/2209.13583v1](http://arxiv.org/abs/2209.13583v1), Code: **[https://github.com/HimangiM/RepLAI](https://github.com/HimangiM/RepLAI)**

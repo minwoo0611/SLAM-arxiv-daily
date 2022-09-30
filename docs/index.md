@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
+|**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-24**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes et.al.|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
 |**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
@@ -136,6 +138,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-29**|**4D-StOP: Panoptic Segmentation of 4D LiDAR using Spatio-temporal Object Proposal Generation and Aggregation**|Lars Kreuzberg et.al.|[2209.14858v1](http://arxiv.org/abs/2209.14858v1)|**[link](https://github.com/larskreuzberg/4d-stop)**|
+|**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|null|
+|**2022-09-28**|**Out-of-Distribution Detection for LiDAR-based 3D Object Detection**|Chengjie Huang et.al.|[2209.14435v1](http://arxiv.org/abs/2209.14435v1)|null|
+|**2022-09-28**|**View-Invariant Localization using Semantic Objects in Changing Environments**|Jacqueline Ankenbauer et.al.|[2209.14426v1](http://arxiv.org/abs/2209.14426v1)|null|
 |**2022-09-28**|**On the Generalization of Deep Reinforcement Learning Methods in the Problem of Local Navigation**|Victor R. F. Miranda et.al.|[2209.14271v1](http://arxiv.org/abs/2209.14271v1)|null|
 |**2022-09-28**|**City-scale Incremental Neural Mapping with Three-layer Sampling and Panoptic Representation**|Yongliang Shi et.al.|[2209.14072v1](http://arxiv.org/abs/2209.14072v1)|null|
 |**2022-09-28**|**PCB-RandNet: Rethinking Random Sampling for LIDAR Semantic Segmentation in Autonomous Driving Scene**|Huixian Cheng et.al.|[2209.13797v1](http://arxiv.org/abs/2209.13797v1)|null|
@@ -282,6 +288,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|**[link](https://github.com/alexlioralexli/noncontrastive-ssl)**|
+|**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
+|**2022-09-29**|**Non-Gaussian Fluctuation Dynamics**|Xin An et.al.|[2209.15005v1](http://arxiv.org/abs/2209.15005v1)|null|
+|**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
+|**2022-09-29**|**Mapping the Thermal Condensation of Diffuse H I in the North Celestial Pole Loop**|Mukesh Taank et.al.|[2209.14998v1](http://arxiv.org/abs/2209.14998v1)|null|
+|**2022-09-29**|**Robust Bayesian Non-segmental Detection of Multiple Change-points**|Chong Zhong et.al.|[2209.14995v1](http://arxiv.org/abs/2209.14995v1)|null|
+|**2022-09-29**|**CompF5: End User Analysis Topical Group Report**|Gavin S. Davies et.al.|[2209.14984v1](http://arxiv.org/abs/2209.14984v1)|null|
+|**2022-09-29**|**Molecular dynamics approaches for determination of elastic parameters of lipid membranes**|Konstantin V. Pinigin et.al.|[2209.14983v1](http://arxiv.org/abs/2209.14983v1)|null|
+|**2022-09-29**|**Parameter-Conditioned Reachable Sets for Updating Safety Assurances Online**|Javier Borquez et.al.|[2209.14976v1](http://arxiv.org/abs/2209.14976v1)|null|
+|**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Global Speed Limit for Finite-Time Dynamical Phase Transition in Nonequilibrium Relaxation**|Kristian Blom et.al.|[2209.14287v1](http://arxiv.org/abs/2209.14287v1)|null|
 |**2022-09-28**|**DexTransfer: Real World Multi-fingered Dexterous Grasping with Minimal Human Demonstrations**|Zoey Qiuyu Chen et.al.|[2209.14284v1](http://arxiv.org/abs/2209.14284v1)|null|
 |**2022-09-28**|**Vector causal inference between two groups of variables**|Jonas Wahl et.al.|[2209.14283v1](http://arxiv.org/abs/2209.14283v1)|null|

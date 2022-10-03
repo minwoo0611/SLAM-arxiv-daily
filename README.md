@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang et.al.|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann et.al.|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
@@ -134,6 +135,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|null|
+|**2022-09-30**|**Transformers for Object Detection in Large Point Clouds**|Felicia Ruppel et.al.|[2209.15258v1](http://arxiv.org/abs/2209.15258v1)|null|
+|**2022-09-30**|**PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**|Konrad Lis et.al.|[2209.15252v1](http://arxiv.org/abs/2209.15252v1)|null|
+|**2022-09-30**|**Hyperspectral and LiDAR data for the prediction via machine learning of tree species, volume and biomass: a possible contribution for updating forest management plans**|Daniele Michelini et.al.|[2209.15248v1](http://arxiv.org/abs/2209.15248v1)|null|
+|**2022-09-29**|**Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot**|Damian Sójka et.al.|[2209.15135v1](http://arxiv.org/abs/2209.15135v1)|null|
 |**2022-09-29**|**4D-StOP: Panoptic Segmentation of 4D LiDAR using Spatio-temporal Object Proposal Generation and Aggregation**|Lars Kreuzberg et.al.|[2209.14858v1](http://arxiv.org/abs/2209.14858v1)|**[link](https://github.com/larskreuzberg/4d-stop)**|
 |**2022-09-29**|**Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station**|Jonas Beuchert et.al.|[2209.14649v1](http://arxiv.org/abs/2209.14649v1)|**[link](https://github.com/jonasbchrt/raw-gnss-fusion)**|
 |**2022-09-28**|**Out-of-Distribution Detection for LiDAR-based 3D Object Detection**|Chengjie Huang et.al.|[2209.14435v1](http://arxiv.org/abs/2209.14435v1)|null|
@@ -284,6 +290,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
+|**2022-09-30**|**Generation and transfer of entangled states between two connected microtoroidal cavities: analysis of different types of coupling**|Emilio H. S. Sousa et.al.|[2209.15638v1](http://arxiv.org/abs/2209.15638v1)|null|
+|**2022-09-30**|**Creating hyperbolic-regular singularities in the presence of an $\mathbb{S}^1$-symmetry**|Yannick Gullentops et.al.|[2209.15631v1](http://arxiv.org/abs/2209.15631v1)|null|
+|**2022-09-30**|**Indecomposable pure-injective objects in stable categories of Gorenstein-projective modules over Gorenstein orders**|Tsutomu Nakamura et.al.|[2209.15630v1](http://arxiv.org/abs/2209.15630v1)|null|
+|**2022-09-30**|**Towards Multi-spatiotemporal-scale Generalized PDE Modeling**|Jayesh K. Gupta et.al.|[2209.15616v1](http://arxiv.org/abs/2209.15616v1)|null|
+|**2022-09-30**|**How to increase the physics output per MW.h for FCC-ee?**|Dmitry Shatilov et.al.|[2209.15612v1](http://arxiv.org/abs/2209.15612v1)|null|
+|**2022-09-30**|**$Φ$-DVAE: Learning Physically Interpretable Representations with Nonlinear Filtering**|Alex Glyn-Davies et.al.|[2209.15609v1](http://arxiv.org/abs/2209.15609v1)|null|
+|**2022-09-30**|**Shuffled linear regression through graduated convex relaxation**|Efe Onaran et.al.|[2209.15608v1](http://arxiv.org/abs/2209.15608v1)|null|
+|**2022-09-30**|**Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability**|Alex Damian et.al.|[2209.15594v1](http://arxiv.org/abs/2209.15594v1)|null|
+|**2022-09-30**|**A simple analytical expression of quantum Fisher and Skew information and their dynamics under decoherence channels**|N. Abouelkhir et.al.|[2209.15593v1](http://arxiv.org/abs/2209.15593v1)|null|
 |**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|**[link](https://github.com/alexlioralexli/noncontrastive-ssl)**|
 |**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
 |**2022-09-29**|**Non-Gaussian Fluctuation Dynamics**|Xin An et.al.|[2209.15005v1](http://arxiv.org/abs/2209.15005v1)|null|

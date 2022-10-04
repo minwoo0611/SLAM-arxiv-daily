@@ -664,7 +664,7 @@
 
 ## Dynamic Object
 
-- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1)
+- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1), Code: **[https://github.com/abitha-thankaraj/audio-robot-learning](https://github.com/abitha-thankaraj/audio-robot-learning)**
 - 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
 - 2022-10-03, **Dual control of coupled oscillator networks**, Per Sebastian Skardal et.al., Paper: [http://arxiv.org/abs/2210.01103v1](http://arxiv.org/abs/2210.01103v1)
 - 2022-10-03, **Deep diving off the `Cosmic Cliffs': previously hidden outflows in NGC 3324 revealed by JWST**, Megan Reiter et.al., Paper: [http://arxiv.org/abs/2210.01101v1](http://arxiv.org/abs/2210.01101v1)

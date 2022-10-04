@@ -299,7 +299,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-03**|**That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**|Abitha Thankaraj et.al.|[2210.01116v1](http://arxiv.org/abs/2210.01116v1)|null|
+|**2022-10-03**|**That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**|Abitha Thankaraj et.al.|[2210.01116v1](http://arxiv.org/abs/2210.01116v1)|**[link](https://github.com/abitha-thankaraj/audio-robot-learning)**|
 |**2022-10-03**|**Generative Category-Level Shape and Pose Estimation with Semantic Primitives**|Guanglin Li et.al.|[2210.01112v1](http://arxiv.org/abs/2210.01112v1)|null|
 |**2022-10-03**|**Dual control of coupled oscillator networks**|Per Sebastian Skardal et.al.|[2210.01103v1](http://arxiv.org/abs/2210.01103v1)|null|
 |**2022-10-03**|**Deep diving off the `Cosmic Cliffs': previously hidden outflows in NGC 3324 revealed by JWST**|Megan Reiter et.al.|[2210.01101v1](http://arxiv.org/abs/2210.01101v1)|null|

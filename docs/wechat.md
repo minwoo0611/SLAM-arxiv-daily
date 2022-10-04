@@ -2,6 +2,9 @@
 
 ## SLAM
 
+- 2022-10-03, **DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**, John McConnell et.al., Paper: [http://arxiv.org/abs/2210.00867v1](http://arxiv.org/abs/2210.00867v1)
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-10-01, **Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**, Ali Eslamian et.al., Paper: [http://arxiv.org/abs/2210.00278v1](http://arxiv.org/abs/2210.00278v1)
 - 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
@@ -506,9 +509,11 @@
 
 ## LiDAR
 
-- 2022-09-30, **KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**, Ignacio Vizzo et.al., Paper: [http://arxiv.org/abs/2209.15397v1](http://arxiv.org/abs/2209.15397v1)
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-09-30, **D-Align: Dual Query Co-attention Network for 3D Object Detection Based on Multi-frame Point Cloud Sequence**, Junhyung Lee et.al., Paper: [http://arxiv.org/abs/2210.00087v1](http://arxiv.org/abs/2210.00087v1)
+- 2022-09-30, **KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**, Ignacio Vizzo et.al., Paper: [http://arxiv.org/abs/2209.15397v1](http://arxiv.org/abs/2209.15397v1), Code: **[https://github.com/prbonn/kissicp](https://github.com/prbonn/kissicp)**
 - 2022-09-30, **Transformers for Object Detection in Large Point Clouds**, Felicia Ruppel et.al., Paper: [http://arxiv.org/abs/2209.15258v1](http://arxiv.org/abs/2209.15258v1)
-- 2022-09-30, **PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**, Konrad Lis et.al., Paper: [http://arxiv.org/abs/2209.15252v1](http://arxiv.org/abs/2209.15252v1)
+- 2022-09-30, **PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**, Konrad Lis et.al., Paper: [http://arxiv.org/abs/2209.15252v1](http://arxiv.org/abs/2209.15252v1), Code: **[https://github.com/vision-agh/pointpillars_backbone](https://github.com/vision-agh/pointpillars_backbone)**
 - 2022-09-30, **Hyperspectral and LiDAR data for the prediction via machine learning of tree species, volume and biomass: a possible contribution for updating forest management plans**, Daniele Michelini et.al., Paper: [http://arxiv.org/abs/2209.15248v1](http://arxiv.org/abs/2209.15248v1)
 - 2022-09-29, **Learning an Efficient Terrain Representation for Haptic Localization of a Legged Robot**, Damian Sójka et.al., Paper: [http://arxiv.org/abs/2209.15135v1](http://arxiv.org/abs/2209.15135v1)
 - 2022-09-29, **4D-StOP: Panoptic Segmentation of 4D LiDAR using Spatio-temporal Object Proposal Generation and Aggregation**, Lars Kreuzberg et.al., Paper: [http://arxiv.org/abs/2209.14858v1](http://arxiv.org/abs/2209.14858v1), Code: **[https://github.com/larskreuzberg/4d-stop](https://github.com/larskreuzberg/4d-stop)**
@@ -659,6 +664,16 @@
 
 ## Dynamic Object
 
+- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1)
+- 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
+- 2022-10-03, **Dual control of coupled oscillator networks**, Per Sebastian Skardal et.al., Paper: [http://arxiv.org/abs/2210.01103v1](http://arxiv.org/abs/2210.01103v1)
+- 2022-10-03, **Deep diving off the `Cosmic Cliffs': previously hidden outflows in NGC 3324 revealed by JWST**, Megan Reiter et.al., Paper: [http://arxiv.org/abs/2210.01101v1](http://arxiv.org/abs/2210.01101v1)
+- 2022-10-03, **Slow semiclassical dynamics of a two-dimensional Hubbard model in disorder-free potentials**, Aleksander Kaczmarek et.al., Paper: [http://arxiv.org/abs/2210.01082v1](http://arxiv.org/abs/2210.01082v1)
+- 2022-10-03, **Improving Convolutional Neural Networks for Fault Diagnosis by Assimilating Global Features**, Saif S. S. Al-Wahaibi et.al., Paper: [http://arxiv.org/abs/2210.01077v1](http://arxiv.org/abs/2210.01077v1)
+- 2022-10-03, **Decompiling x86 Deep Neural Network Executables**, Zhibo Liu et.al., Paper: [http://arxiv.org/abs/2210.01075v1](http://arxiv.org/abs/2210.01075v1)
+- 2022-10-03, **Geometry of generalized virtual polyhedra**, Askol dKhovanskii et.al., Paper: [http://arxiv.org/abs/2210.01070v1](http://arxiv.org/abs/2210.01070v1)
+- 2022-10-03, **Minimal entropy production in anisotropic temperature fields**, Olga Movilla Miangolarra et.al., Paper: [http://arxiv.org/abs/2210.01062v1](http://arxiv.org/abs/2210.01062v1)
+- 2022-10-03, **Optimality of Zeno Executions in Hybrid Systems**, William Clark et.al., Paper: [http://arxiv.org/abs/2210.01056v1](http://arxiv.org/abs/2210.01056v1)
 - 2022-09-30, **F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**, Weicheng Kuo et.al., Paper: [http://arxiv.org/abs/2209.15639v1](http://arxiv.org/abs/2209.15639v1)
 - 2022-09-30, **Generation and transfer of entangled states between two connected microtoroidal cavities: analysis of different types of coupling**, Emilio H. S. Sousa et.al., Paper: [http://arxiv.org/abs/2209.15638v1](http://arxiv.org/abs/2209.15638v1)
 - 2022-09-30, **Creating hyperbolic-regular singularities in the presence of an $\mathbb{S}^1$-symmetry**, Yannick Gullentops et.al., Paper: [http://arxiv.org/abs/2209.15631v1](http://arxiv.org/abs/2209.15631v1)

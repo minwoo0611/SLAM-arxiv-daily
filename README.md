@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
+|**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
+|**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol et.al.|[2210.01276v1](http://arxiv.org/abs/2210.01276v1)|null|
 |**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell et.al.|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|null|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
@@ -138,6 +141,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
+|**2022-10-04**|**Non-learning Stereo-aided Depth Completion under Mis-projection via Selective Stereo Matching**|Yasuhiro Yao et.al.|[2210.01436v1](http://arxiv.org/abs/2210.01436v1)|null|
+|**2022-10-04**|**Uncertainty-Aware Lidar Place Recognition in Novel Environments**|Keita Mason et.al.|[2210.01361v1](http://arxiv.org/abs/2210.01361v1)|null|
+|**2022-10-04**|**ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**|Anjun Chen et.al.|[2210.01346v1](http://arxiv.org/abs/2210.01346v1)|null|
+|**2022-10-03**|**M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**|Sandipan Das et.al.|[2210.01154v1](http://arxiv.org/abs/2210.01154v1)|null|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
 |**2022-09-30**|**D-Align: Dual Query Co-attention Network for 3D Object Detection Based on Multi-frame Point Cloud Sequence**|Junhyung Lee et.al.|[2210.00087v1](http://arxiv.org/abs/2210.00087v1)|null|
 |**2022-09-30**|**KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the Right Way**|Ignacio Vizzo et.al.|[2209.15397v1](http://arxiv.org/abs/2209.15397v1)|**[link](https://github.com/prbonn/kissicp)**|
@@ -295,6 +303,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|null|
+|**2022-10-04**|**Robust self-healing prediction model for high dimensional data**|Anirudha Rayasam et.al.|[2210.01788v1](http://arxiv.org/abs/2210.01788v1)|null|
+|**2022-10-04**|**Coordinate Interleaved Faster-than-Nyquist Signaling**|Adem Cicek et.al.|[2210.01786v1](http://arxiv.org/abs/2210.01786v1)|null|
+|**2022-10-04**|**Modeling the Transition between Localized and Extended Deposition in Flow Networks through Packings of Glass Beads**|Gess Kelly et.al.|[2210.01780v1](http://arxiv.org/abs/2210.01780v1)|null|
+|**2022-10-04**|**Perspective Aware Road Obstacle Detection**|Krzysztof Lis et.al.|[2210.01779v1](http://arxiv.org/abs/2210.01779v1)|null|
+|**2022-10-04**|**High-Redshift Galaxy Candidates at $z = 9-13$ as Revealed by JWST Observations of WHL0137-08**|Larry D. Bradley et.al.|[2210.01777v1](http://arxiv.org/abs/2210.01777v1)|null|
+|**2022-10-04**|**Atomic Level Strain Induced by Static and Dynamic Oxygen Vacancies on Reducible Oxide Surfaces**|Piyush Haluai et.al.|[2210.01764v1](http://arxiv.org/abs/2210.01764v1)|null|
+|**2022-10-04**|**Electronic states of a disordered 2D quasiperiodic tiling: from critical states to Anderson localization**|Anuradha Jagannathan et.al.|[2210.01762v1](http://arxiv.org/abs/2210.01762v1)|null|
+|**2022-10-04**|**A Framework for Web Services Retrieval Using Bio Inspired Clustering**|Anirudha Rayasam et.al.|[2210.01761v1](http://arxiv.org/abs/2210.01761v1)|null|
+|**2022-10-04**|**Evaluating Disentanglement in Generative Models Without Knowledge of Latent Factors**|Chester Holtz et.al.|[2210.01760v1](http://arxiv.org/abs/2210.01760v1)|null|
 |**2022-10-03**|**That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**|Abitha Thankaraj et.al.|[2210.01116v1](http://arxiv.org/abs/2210.01116v1)|**[link](https://github.com/abitha-thankaraj/audio-robot-learning)**|
 |**2022-10-03**|**Generative Category-Level Shape and Pose Estimation with Semantic Primitives**|Guanglin Li et.al.|[2210.01112v1](http://arxiv.org/abs/2210.01112v1)|null|
 |**2022-10-03**|**Dual control of coupled oscillator networks**|Per Sebastian Skardal et.al.|[2210.01103v1](http://arxiv.org/abs/2210.01103v1)|null|

@@ -142,8 +142,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-05**|**SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**|Xingguang Zhong et.al.|[2210.02299v1](http://arxiv.org/abs/2210.02299v1)|null|
-|**2022-10-04**|**Dfferentiable Raycasting for Self-supervised Occupancy Forecasting**|Tarasha Khurana et.al.|[2210.01917v1](http://arxiv.org/abs/2210.01917v1)|null|
+|**2022-10-05**|**SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**|Xingguang Zhong et.al.|[2210.02299v1](http://arxiv.org/abs/2210.02299v1)|**[link](https://github.com/prbonn/shine_mapping)**|
+|**2022-10-04**|**Dfferentiable Raycasting for Self-supervised Occupancy Forecasting**|Tarasha Khurana et.al.|[2210.01917v1](http://arxiv.org/abs/2210.01917v1)|**[link](https://github.com/tarashakhurana/emergent-occ-forecasting)**|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
 |**2022-10-04**|**Non-learning Stereo-aided Depth Completion under Mis-projection via Selective Stereo Matching**|Yasuhiro Yao et.al.|[2210.01436v1](http://arxiv.org/abs/2210.01436v1)|null|
 |**2022-10-04**|**Uncertainty-Aware Lidar Place Recognition in Novel Environments**|Keita Mason et.al.|[2210.01361v1](http://arxiv.org/abs/2210.01361v1)|null|

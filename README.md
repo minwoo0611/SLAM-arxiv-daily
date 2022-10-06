@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
 |**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol et.al.|[2210.01276v1](http://arxiv.org/abs/2210.01276v1)|null|
@@ -141,6 +142,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**|Xingguang Zhong et.al.|[2210.02299v1](http://arxiv.org/abs/2210.02299v1)|null|
+|**2022-10-04**|**Dfferentiable Raycasting for Self-supervised Occupancy Forecasting**|Tarasha Khurana et.al.|[2210.01917v1](http://arxiv.org/abs/2210.01917v1)|null|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
 |**2022-10-04**|**Non-learning Stereo-aided Depth Completion under Mis-projection via Selective Stereo Matching**|Yasuhiro Yao et.al.|[2210.01436v1](http://arxiv.org/abs/2210.01436v1)|null|
 |**2022-10-04**|**Uncertainty-Aware Lidar Place Recognition in Novel Environments**|Keita Mason et.al.|[2210.01361v1](http://arxiv.org/abs/2210.01361v1)|null|
@@ -303,6 +306,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
+|**2022-10-05**|**Coherent super- and subradiant dynamics between distant optical quantum emitters**|Alexey Tiranov et.al.|[2210.02439v1](http://arxiv.org/abs/2210.02439v1)|null|
+|**2022-10-05**|**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**|Ivan Kapelyukh et.al.|[2210.02438v1](http://arxiv.org/abs/2210.02438v1)|null|
+|**2022-10-05**|**A flow-based formulation for parallel machine scheduling using decision diagrams**|Daniel Kowalczyk et.al.|[2210.02434v1](http://arxiv.org/abs/2210.02434v1)|null|
+|**2022-10-05**|**The detection of magnetic chemically peculiar stars using Gaia BP/RP spectra**|E. Paunzen et.al.|[2210.02433v1](http://arxiv.org/abs/2210.02433v1)|null|
+|**2022-10-05**|**Gradual C0: Symbolic Execution for Efficient Gradual Verification**|Jenna DiVincenzo et.al.|[2210.02428v1](http://arxiv.org/abs/2210.02428v1)|null|
+|**2022-10-05**|**Absence of Operator Growth in the Sachdev--Ye--Kitaev Model for Average Equal-Time Observables**|Alessio Paviglianiti et.al.|[2210.02427v1](http://arxiv.org/abs/2210.02427v1)|null|
+|**2022-10-05**|**Halide Perovskite Light Emitting Photodetector**|A. A. Marunchenko et.al.|[2210.02424v1](http://arxiv.org/abs/2210.02424v1)|null|
+|**2022-10-05**|**Densities and momentum distributions in A <=12 nuclei from chiral effective field theory interactions**|M. Piarulli et.al.|[2210.02421v1](http://arxiv.org/abs/2210.02421v1)|null|
+|**2022-10-05**|**Gradient Descent in the Absence of Global Lipschitz Continuity of the Gradients: Convergence, Divergence and Limitations of its Continuous Approximation**|Vivak Patel et.al.|[2210.02418v1](http://arxiv.org/abs/2210.02418v1)|null|
 |**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|null|
 |**2022-10-04**|**Robust self-healing prediction model for high dimensional data**|Anirudha Rayasam et.al.|[2210.01788v1](http://arxiv.org/abs/2210.01788v1)|null|
 |**2022-10-04**|**Coordinate Interleaved Faster-than-Nyquist Signaling**|Adem Cicek et.al.|[2210.01786v1](http://arxiv.org/abs/2210.01786v1)|null|

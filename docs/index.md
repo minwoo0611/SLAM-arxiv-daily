@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
+|**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
@@ -146,6 +148,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Unsupervised confidence for LiDAR depth maps and applications**|Andrea Conti et.al.|[2210.03118v1](http://arxiv.org/abs/2210.03118v1)|null|
+|**2022-10-06**|**IR-MCL: Implicit Representation-Based Online Global Localization**|Haofei Kuang et.al.|[2210.03113v1](http://arxiv.org/abs/2210.03113v1)|null|
+|**2022-10-05**|**Towards Semi-automatic Detection and Localization of Indoor Accessibility Issues using Mobile Depth Scanning and Computer Vision**|Xia Su et.al.|[2210.02533v1](http://arxiv.org/abs/2210.02533v1)|null|
+|**2022-10-05**|**Depth Is All You Need for Monocular 3D Detection**|Dennis Park et.al.|[2210.02493v1](http://arxiv.org/abs/2210.02493v1)|null|
 |**2022-10-05**|**SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**|Xingguang Zhong et.al.|[2210.02299v1](http://arxiv.org/abs/2210.02299v1)|**[link](https://github.com/prbonn/shine_mapping)**|
 |**2022-10-04**|**Dfferentiable Raycasting for Self-supervised Occupancy Forecasting**|Tarasha Khurana et.al.|[2210.01917v1](http://arxiv.org/abs/2210.01917v1)|**[link](https://github.com/tarashakhurana/emergent-occ-forecasting)**|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
@@ -310,6 +316,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**MaPLe: Multi-modal Prompt Learning**|Muhammad Uzair Khattak et.al.|[2210.03117v1](http://arxiv.org/abs/2210.03117v1)|null|
+|**2022-10-06**|**CLIP model is an Efficient Continual Learner**|Vishal Thengane et.al.|[2210.03114v1](http://arxiv.org/abs/2210.03114v1)|null|
+|**2022-10-06**|**Jump Starting the Dark Sector with a Phase Transition**|Michele Redi et.al.|[2210.03108v1](http://arxiv.org/abs/2210.03108v1)|null|
+|**2022-10-06**|**Galaxy kinematics and mass estimates at z~1 from ionised gas and stars**|Hannah Übler et.al.|[2210.03106v1](http://arxiv.org/abs/2210.03106v1)|null|
+|**2022-10-06**|**Mask3D for 3D Semantic Instance Segmentation**|Jonas Schult et.al.|[2210.03105v1](http://arxiv.org/abs/2210.03105v1)|null|
+|**2022-10-06**|**Distributionally Adaptive Meta Reinforcement Learning**|Anurag Ajay et.al.|[2210.03104v1](http://arxiv.org/abs/2210.03104v1)|null|
+|**2022-10-06**|**Kazhdan-Laumon Category O, Braverman-Kazhdan Schwartz space, and the semiinfinite flag variety**|Calder Morton-Ferguson et.al.|[2210.03101v1](http://arxiv.org/abs/2210.03101v1)|null|
+|**2022-10-06**|**Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**|Hui Liu et.al.|[2210.03097v1](http://arxiv.org/abs/2210.03097v1)|null|
+|**2022-10-06**|**Dynamical masses of the primary Be star and the secondary sdB star in the single-lined binary kappa Dra (B6 IIIe)**|R. Klement et.al.|[2210.03090v1](http://arxiv.org/abs/2210.03090v1)|null|
+|**2022-10-06**|**Quantum computation of dynamical quantum phase transitions and entanglement tomography in a lattice gauge theory**|Niklas Mueller et.al.|[2210.03089v1](http://arxiv.org/abs/2210.03089v1)|null|
 |**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
 |**2022-10-05**|**Coherent super- and subradiant dynamics between distant optical quantum emitters**|Alexey Tiranov et.al.|[2210.02439v1](http://arxiv.org/abs/2210.02439v1)|null|
 |**2022-10-05**|**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**|Ivan Kapelyukh et.al.|[2210.02438v1](http://arxiv.org/abs/2210.02438v1)|null|

@@ -515,8 +515,8 @@
 
 ## LiDAR
 
-- 2022-10-06, **Unsupervised confidence for LiDAR depth maps and applications**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2210.03118v1](http://arxiv.org/abs/2210.03118v1)
-- 2022-10-06, **IR-MCL: Implicit Representation-Based Online Global Localization**, Haofei Kuang et.al., Paper: [http://arxiv.org/abs/2210.03113v1](http://arxiv.org/abs/2210.03113v1)
+- 2022-10-06, **Unsupervised confidence for LiDAR depth maps and applications**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2210.03118v1](http://arxiv.org/abs/2210.03118v1), Code: **[https://github.com/andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence)**
+- 2022-10-06, **IR-MCL: Implicit Representation-Based Online Global Localization**, Haofei Kuang et.al., Paper: [http://arxiv.org/abs/2210.03113v1](http://arxiv.org/abs/2210.03113v1), Code: **[https://github.com/prbonn/ir-mcl](https://github.com/prbonn/ir-mcl)**
 - 2022-10-05, **Towards Semi-automatic Detection and Localization of Indoor Accessibility Issues using Mobile Depth Scanning and Computer Vision**, Xia Su et.al., Paper: [http://arxiv.org/abs/2210.02533v1](http://arxiv.org/abs/2210.02533v1)
 - 2022-10-05, **Depth Is All You Need for Monocular 3D Detection**, Dennis Park et.al., Paper: [http://arxiv.org/abs/2210.02493v1](http://arxiv.org/abs/2210.02493v1)
 - 2022-10-05, **SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations**, Xingguang Zhong et.al., Paper: [http://arxiv.org/abs/2210.02299v1](http://arxiv.org/abs/2210.02299v1), Code: **[https://github.com/prbonn/shine_mapping](https://github.com/prbonn/shine_mapping)**
@@ -682,7 +682,7 @@
 ## Dynamic Object
 
 - 2022-10-06, **MaPLe: Multi-modal Prompt Learning**, Muhammad Uzair Khattak et.al., Paper: [http://arxiv.org/abs/2210.03117v1](http://arxiv.org/abs/2210.03117v1)
-- 2022-10-06, **CLIP model is an Efficient Continual Learner**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2210.03114v1](http://arxiv.org/abs/2210.03114v1)
+- 2022-10-06, **CLIP model is an Efficient Continual Learner**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2210.03114v1](http://arxiv.org/abs/2210.03114v1), Code: **[https://github.com/vgthengane/continual-clip](https://github.com/vgthengane/continual-clip)**
 - 2022-10-06, **Jump Starting the Dark Sector with a Phase Transition**, Michele Redi et.al., Paper: [http://arxiv.org/abs/2210.03108v1](http://arxiv.org/abs/2210.03108v1)
 - 2022-10-06, **Galaxy kinematics and mass estimates at z~1 from ionised gas and stars**, Hannah Übler et.al., Paper: [http://arxiv.org/abs/2210.03106v1](http://arxiv.org/abs/2210.03106v1)
 - 2022-10-06, **Mask3D for 3D Semantic Instance Segmentation**, Jonas Schult et.al., Paper: [http://arxiv.org/abs/2210.03105v1](http://arxiv.org/abs/2210.03105v1)

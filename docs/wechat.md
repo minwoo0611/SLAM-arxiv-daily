@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-10-06, **SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**, Alan Papalia et.al., Paper: [http://arxiv.org/abs/2210.03177v1](http://arxiv.org/abs/2210.03177v1)
 - 2022-10-06, **Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**, Kirill Mazur et.al., Paper: [http://arxiv.org/abs/2210.03043v1](http://arxiv.org/abs/2210.03043v1)
 - 2022-10-06, **Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**, Osian Morgan et.al., Paper: [http://arxiv.org/abs/2210.02642v1](http://arxiv.org/abs/2210.02642v1)
 - 2022-10-05, **MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**, Hanwei Zhang et.al., Paper: [http://arxiv.org/abs/2210.02038v1](http://arxiv.org/abs/2210.02038v1)
@@ -515,6 +516,8 @@
 
 ## LiDAR
 
+- 2022-10-07, **High Resolution Spatio-Temporal Model for Room-Level Airborne Pandemic Spread**, Teddy Lazebnik et.al., Paper: [http://arxiv.org/abs/2210.03431v1](http://arxiv.org/abs/2210.03431v1)
+- 2022-10-07, **Resolving Class Imbalance for LiDAR-based Object Detector by Dynamic Weight Average and Contextual Ground Truth Sampling**, Daeun Lee et.al., Paper: [http://arxiv.org/abs/2210.03331v1](http://arxiv.org/abs/2210.03331v1)
 - 2022-10-06, **Unsupervised confidence for LiDAR depth maps and applications**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2210.03118v1](http://arxiv.org/abs/2210.03118v1), Code: **[https://github.com/andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence)**
 - 2022-10-06, **IR-MCL: Implicit Representation-Based Online Global Localization**, Haofei Kuang et.al., Paper: [http://arxiv.org/abs/2210.03113v1](http://arxiv.org/abs/2210.03113v1), Code: **[https://github.com/prbonn/ir-mcl](https://github.com/prbonn/ir-mcl)**
 - 2022-10-05, **Towards Semi-automatic Detection and Localization of Indoor Accessibility Issues using Mobile Depth Scanning and Computer Vision**, Xia Su et.al., Paper: [http://arxiv.org/abs/2210.02533v1](http://arxiv.org/abs/2210.02533v1)
@@ -681,6 +684,16 @@
 
 ## Dynamic Object
 
+- 2022-10-07, **Randomized channel-state duality**, Bin Yan et.al., Paper: [http://arxiv.org/abs/2210.03723v1](http://arxiv.org/abs/2210.03723v1)
+- 2022-10-07, **An integrated assignment, routing, and speed model for roadway mobility and transportation with environmental, efficiency, and service goals**, Tommaso Giovannelli et.al., Paper: [http://arxiv.org/abs/2210.03717v1](http://arxiv.org/abs/2210.03717v1)
+- 2022-10-07, **The quantum commuting model (Ia): The CHSH game and other examples: Uniqueness of optimal states**, Alexander Frei et.al., Paper: [http://arxiv.org/abs/2210.03716v1](http://arxiv.org/abs/2210.03716v1)
+- 2022-10-07, **Supercell low-level mesocyclones: Origins of inflow and vorticity**, Brice Coffer et.al., Paper: [http://arxiv.org/abs/2210.03715v1](http://arxiv.org/abs/2210.03715v1)
+- 2022-10-07, **Integration of Riemannian Motion Policy and Whole-Body Control for Dynamic Legged Locomotion**, Daniel Marew et.al., Paper: [http://arxiv.org/abs/2210.03713v1](http://arxiv.org/abs/2210.03713v1)
+- 2022-10-07, **Gain-Scheduling Controller Synthesis for Networked Systems with Full Block Scalings**, Christian A. Rösinger et.al., Paper: [http://arxiv.org/abs/2210.03712v1](http://arxiv.org/abs/2210.03712v1)
+- 2022-10-07, **Safe Path Planning for Polynomial Shape Obstacles via Control Barrier Functions and Logistic Regression**, Chengyang Peng et.al., Paper: [http://arxiv.org/abs/2210.03704v1](http://arxiv.org/abs/2210.03704v1)
+- 2022-10-07, **VIRDO++: Real-World, Visuo-tactile Dynamics and Perception of Deformable Objects**, Youngsun Wi et.al., Paper: [http://arxiv.org/abs/2210.03701v1](http://arxiv.org/abs/2210.03701v1)
+- 2022-10-07, **The incomplete Analytic Hierarchy Process and Bradley-Terry model: (in)consistency and information retrieval**, László Gyarmati et.al., Paper: [http://arxiv.org/abs/2210.03700v1](http://arxiv.org/abs/2210.03700v1)
+- 2022-10-07, **Reconstructing parton collisions with machine learning techniques**, German F. R. Sborlini et.al., Paper: [http://arxiv.org/abs/2210.03698v1](http://arxiv.org/abs/2210.03698v1)
 - 2022-10-06, **MaPLe: Multi-modal Prompt Learning**, Muhammad Uzair Khattak et.al., Paper: [http://arxiv.org/abs/2210.03117v1](http://arxiv.org/abs/2210.03117v1)
 - 2022-10-06, **CLIP model is an Efficient Continual Learner**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2210.03114v1](http://arxiv.org/abs/2210.03114v1), Code: **[https://github.com/vgthengane/continual-clip](https://github.com/vgthengane/continual-clip)**
 - 2022-10-06, **Jump Starting the Dark Sector with a Phase Transition**, Michele Redi et.al., Paper: [http://arxiv.org/abs/2210.03108v1](http://arxiv.org/abs/2210.03108v1)

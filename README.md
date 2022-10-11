@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen et.al.|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
+|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
@@ -145,6 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Uncertainty-aware LiDAR Panoptic Segmentation**|Kshitij Sirohi et.al.|[2210.04472v1](http://arxiv.org/abs/2210.04472v1)|**[link](https://github.com/kshitij3112/evlpsnet)**|
 |**2022-10-07**|**High Resolution Spatio-Temporal Model for Room-Level Airborne Pandemic Spread**|Teddy Lazebnik et.al.|[2210.03431v1](http://arxiv.org/abs/2210.03431v1)|null|
 |**2022-10-07**|**Resolving Class Imbalance for LiDAR-based Object Detector by Dynamic Weight Average and Contextual Ground Truth Sampling**|Daeun Lee et.al.|[2210.03331v1](http://arxiv.org/abs/2210.03331v1)|null|
 |**2022-10-06**|**Unsupervised confidence for LiDAR depth maps and applications**|Andrea Conti et.al.|[2210.03118v1](http://arxiv.org/abs/2210.03118v1)|**[link](https://github.com/andreaconti/lidar-confidence)**|
@@ -315,6 +318,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Turbo Training with Token Dropout**|Tengda Han et.al.|[2210.04889v1](http://arxiv.org/abs/2210.04889v1)|null|
+|**2022-10-10**|**EVA3D: Compositional 3D Human Generation from 2D Image Collections**|Fangzhou Hong et.al.|[2210.04888v1](http://arxiv.org/abs/2210.04888v1)|null|
+|**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|null|
+|**2022-10-10**|**Examining the Role of Chloride Ligands on Defect Removal in Imperfectly Attached Semiconductor Nanocrystals for 1D and 2D Attachment Cases**|Amy S. McKeown-Green et.al.|[2210.04884v1](http://arxiv.org/abs/2210.04884v1)|null|
+|**2022-10-10**|**Parametric Simulation of Dynamic Glazing System with Changeable NIR Response**|Laura Hinkle et.al.|[2210.04876v1](http://arxiv.org/abs/2210.04876v1)|null|
+|**2022-10-10**|**Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models**|Louis Sharrock et.al.|[2210.04872v1](http://arxiv.org/abs/2210.04872v1)|null|
+|**2022-10-10**|**A copula-based boosting model for time-to-event prediction with dependent censoring**|Alise Danielle Midtfjord et.al.|[2210.04869v1](http://arxiv.org/abs/2210.04869v1)|null|
+|**2022-10-10**|**Deep object detection for waterbird monitoring using aerial imagery**|Krish Kabra et.al.|[2210.04868v1](http://arxiv.org/abs/2210.04868v1)|null|
+|**2022-10-10**|**Deep and fast Solar System flybys: The controversial case of WD 0810-353**|R. de la Fuente Marcos et.al.|[2210.04863v1](http://arxiv.org/abs/2210.04863v1)|null|
+|**2022-10-10**|**Associated $φ$ and $J/Ψ$ photoproduction in ultraperipheral $PbPb$ collisions at the Large Hadron Collider and Future Circular Collider**|Celsina N. Azevedo et.al.|[2210.04861v1](http://arxiv.org/abs/2210.04861v1)|null|
 |**2022-10-07**|**Randomized channel-state duality**|Bin Yan et.al.|[2210.03723v1](http://arxiv.org/abs/2210.03723v1)|null|
 |**2022-10-07**|**An integrated assignment, routing, and speed model for roadway mobility and transportation with environmental, efficiency, and service goals**|Tommaso Giovannelli et.al.|[2210.03717v1](http://arxiv.org/abs/2210.03717v1)|null|
 |**2022-10-07**|**The quantum commuting model (Ia): The CHSH game and other examples: Uniqueness of optimal states**|Alexander Frei et.al.|[2210.03716v1](http://arxiv.org/abs/2210.03716v1)|null|

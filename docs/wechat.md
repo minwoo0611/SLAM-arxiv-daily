@@ -694,7 +694,7 @@
 - 2022-10-10, **Parametric Simulation of Dynamic Glazing System with Changeable NIR Response**, Laura Hinkle et.al., Paper: [http://arxiv.org/abs/2210.04876v1](http://arxiv.org/abs/2210.04876v1)
 - 2022-10-10, **Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models**, Louis Sharrock et.al., Paper: [http://arxiv.org/abs/2210.04872v1](http://arxiv.org/abs/2210.04872v1)
 - 2022-10-10, **A copula-based boosting model for time-to-event prediction with dependent censoring**, Alise Danielle Midtfjord et.al., Paper: [http://arxiv.org/abs/2210.04869v1](http://arxiv.org/abs/2210.04869v1)
-- 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1)
+- 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
 - 2022-10-10, **Deep and fast Solar System flybys: The controversial case of WD 0810-353**, R. de la Fuente Marcos et.al., Paper: [http://arxiv.org/abs/2210.04863v1](http://arxiv.org/abs/2210.04863v1)
 - 2022-10-10, **Associated $φ$ and $J/Ψ$ photoproduction in ultraperipheral $PbPb$ collisions at the Large Hadron Collider and Future Circular Collider**, Celsina N. Azevedo et.al., Paper: [http://arxiv.org/abs/2210.04861v1](http://arxiv.org/abs/2210.04861v1)
 - 2022-10-07, **Randomized channel-state duality**, Bin Yan et.al., Paper: [http://arxiv.org/abs/2210.03723v1](http://arxiv.org/abs/2210.03723v1)

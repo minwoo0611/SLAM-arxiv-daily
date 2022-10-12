@@ -2,6 +2,11 @@
 
 ## SLAM
 
+- 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
+- 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
+- 2022-10-11, **DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2210.05517v1](http://arxiv.org/abs/2210.05517v1)
+- 2022-10-11, **Multi-Object Navigation with dynamically learned neural implicit representations**, Pierre Marza et.al., Paper: [http://arxiv.org/abs/2210.05129v1](http://arxiv.org/abs/2210.05129v1)
+- 2022-10-10, **Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2210.05020v1](http://arxiv.org/abs/2210.05020v1)
 - 2022-10-10, **Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**, Xingyu Chen et.al., Paper: [http://arxiv.org/abs/2210.04562v1](http://arxiv.org/abs/2210.04562v1)
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-06, **SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**, Alan Papalia et.al., Paper: [http://arxiv.org/abs/2210.03177v1](http://arxiv.org/abs/2210.03177v1)
@@ -518,6 +523,7 @@
 
 ## LiDAR
 
+- 2022-10-11, **Optimization of laser stabilization via self-injection locking to a whispering-gallery-mode microresonator: experimental study**, Artem E. Shitikov et.al., Paper: [http://arxiv.org/abs/2210.05309v1](http://arxiv.org/abs/2210.05309v1)
 - 2022-10-10, **Uncertainty-aware LiDAR Panoptic Segmentation**, Kshitij Sirohi et.al., Paper: [http://arxiv.org/abs/2210.04472v1](http://arxiv.org/abs/2210.04472v1), Code: **[https://github.com/kshitij3112/evlpsnet](https://github.com/kshitij3112/evlpsnet)**
 - 2022-10-07, **High Resolution Spatio-Temporal Model for Room-Level Airborne Pandemic Spread**, Teddy Lazebnik et.al., Paper: [http://arxiv.org/abs/2210.03431v1](http://arxiv.org/abs/2210.03431v1)
 - 2022-10-07, **Resolving Class Imbalance for LiDAR-based Object Detector by Dynamic Weight Average and Contextual Ground Truth Sampling**, Daeun Lee et.al., Paper: [http://arxiv.org/abs/2210.03331v1](http://arxiv.org/abs/2210.03331v1)
@@ -687,6 +693,16 @@
 
 ## Dynamic Object
 
+- 2022-10-11, **Understanding Embodied Reference with Touch-Line Transformer**, Yang Li et.al., Paper: [http://arxiv.org/abs/2210.05668v1](http://arxiv.org/abs/2210.05668v1)
+- 2022-10-11, **HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**, Yue Jiang et.al., Paper: [http://arxiv.org/abs/2210.05665v1](http://arxiv.org/abs/2210.05665v1)
+- 2022-10-11, **Regret Bounds for Risk-Sensitive Reinforcement Learning**, O. Bastani et.al., Paper: [http://arxiv.org/abs/2210.05650v1](http://arxiv.org/abs/2210.05650v1)
+- 2022-10-11, **Decoding the double trouble: A mathematical modelling of co-infection dynamics of SARS-CoV-2 and influenza-like illness**, Suman Bhowmick et.al., Paper: [http://arxiv.org/abs/2210.05649v1](http://arxiv.org/abs/2210.05649v1)
+- 2022-10-11, **A Kernel-Based View of Language Model Fine-Tuning**, Sadhika Malladi et.al., Paper: [http://arxiv.org/abs/2210.05643v1](http://arxiv.org/abs/2210.05643v1)
+- 2022-10-11, **A Kirby color for Khovanov homology**, Matthew Hogancamp et.al., Paper: [http://arxiv.org/abs/2210.05640v1](http://arxiv.org/abs/2210.05640v1)
+- 2022-10-11, **The IID Prophet Inequality with Limited Flexibility**, Sebastian Perez-Salazar et.al., Paper: [http://arxiv.org/abs/2210.05634v1](http://arxiv.org/abs/2210.05634v1)
+- 2022-10-11, **Habitat-Matterport 3D Semantics Dataset**, Karmesh Yadav et.al., Paper: [http://arxiv.org/abs/2210.05633v1](http://arxiv.org/abs/2210.05633v1)
+- 2022-10-11, **Multilingual BERT has an accent: Evaluating English influences on fluency in multilingual models**, Isabel Papadimitriou et.al., Paper: [http://arxiv.org/abs/2210.05619v1](http://arxiv.org/abs/2210.05619v1)
+- 2022-10-11, **Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**, Elissa Mhanna et.al., Paper: [http://arxiv.org/abs/2210.05618v1](http://arxiv.org/abs/2210.05618v1)
 - 2022-10-10, **Turbo Training with Token Dropout**, Tengda Han et.al., Paper: [http://arxiv.org/abs/2210.04889v1](http://arxiv.org/abs/2210.04889v1)
 - 2022-10-10, **EVA3D: Compositional 3D Human Generation from 2D Image Collections**, Fangzhou Hong et.al., Paper: [http://arxiv.org/abs/2210.04888v1](http://arxiv.org/abs/2210.04888v1)
 - 2022-10-10, **In-Hand Object Rotation via Rapid Motor Adaptation**, Haozhi Qi et.al., Paper: [http://arxiv.org/abs/2210.04887v1](http://arxiv.org/abs/2210.04887v1)

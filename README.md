@@ -330,13 +330,13 @@
 |**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|null|
 |**2022-10-12**|**Self-Guided Diffusion Models**|Vincent Tao Hu et.al.|[2210.06462v1](http://arxiv.org/abs/2210.06462v1)|null|
 |**2022-10-12**|**Asymptotics for the least trimmed squares estimator**|Yijun Zuo et.al.|[2210.06460v1](http://arxiv.org/abs/2210.06460v1)|null|
-|**2022-10-12**|**Concentration of the exponential mechanism and differentially private multivariate medians**|Kelly Ramsay et.al.|[2210.06459v1](http://arxiv.org/abs/2210.06459v1)|null|
-|**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|null|
+|**2022-10-12**|**Concentration of the exponential mechanism and differentially private multivariate medians**|Kelly Ramsay et.al.|[2210.06459v1](http://arxiv.org/abs/2210.06459v1)|**[link](https://github.com/12ramsake/dp-mvt-medians)**|
+|**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
 |**2022-10-12**|**Emergent scale-free networks**|Christopher W. Lynn et.al.|[2210.06453v1](http://arxiv.org/abs/2210.06453v1)|null|
 |**2022-10-12**|**Linear Response, Hamiltonian and Radiative Spinning Two-Body Dynamics**|Gustav Uhre Jakobsen et.al.|[2210.06451v1](http://arxiv.org/abs/2210.06451v1)|null|
 |**2022-10-12**|**Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**|Ruqi Zhang et.al.|[2210.06447v1](http://arxiv.org/abs/2210.06447v1)|null|
 |**2022-10-12**|**Hydrodynamic Entropy and Emergence of Order in Two-dimensional Euler Turbulence**|Mahendra K. Verma et.al.|[2210.06445v1](http://arxiv.org/abs/2210.06445v1)|null|
-|**2022-10-12**|**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**|Lorenzo Bonicelli et.al.|[2210.06443v1](http://arxiv.org/abs/2210.06443v1)|null|
+|**2022-10-12**|**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**|Lorenzo Bonicelli et.al.|[2210.06443v1](http://arxiv.org/abs/2210.06443v1)|**[link](https://github.com/aimagelab/lider)**|
 |**2022-10-11**|**Understanding Embodied Reference with Touch-Line Transformer**|Yang Li et.al.|[2210.05668v1](http://arxiv.org/abs/2210.05668v1)|**[link](https://github.com/yang-li-2000/understanding-embodied-reference-with-touch-line-transformer)**|
 |**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
 |**2022-10-11**|**Regret Bounds for Risk-Sensitive Reinforcement Learning**|O. Bastani et.al.|[2210.05650v1](http://arxiv.org/abs/2210.05650v1)|null|

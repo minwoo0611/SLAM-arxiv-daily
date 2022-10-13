@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|null|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
@@ -152,6 +153,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|null|
+|**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|null|
 |**2022-10-11**|**Optimization of laser stabilization via self-injection locking to a whispering-gallery-mode microresonator: experimental study**|Artem E. Shitikov et.al.|[2210.05309v1](http://arxiv.org/abs/2210.05309v1)|null|
 |**2022-10-10**|**Uncertainty-aware LiDAR Panoptic Segmentation**|Kshitij Sirohi et.al.|[2210.04472v1](http://arxiv.org/abs/2210.04472v1)|**[link](https://github.com/kshitij3112/evlpsnet)**|
 |**2022-10-07**|**High Resolution Spatio-Temporal Model for Room-Level Airborne Pandemic Spread**|Teddy Lazebnik et.al.|[2210.03431v1](http://arxiv.org/abs/2210.03431v1)|null|
@@ -324,6 +327,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|null|
+|**2022-10-12**|**Self-Guided Diffusion Models**|Vincent Tao Hu et.al.|[2210.06462v1](http://arxiv.org/abs/2210.06462v1)|null|
+|**2022-10-12**|**Asymptotics for the least trimmed squares estimator**|Yijun Zuo et.al.|[2210.06460v1](http://arxiv.org/abs/2210.06460v1)|null|
+|**2022-10-12**|**Concentration of the exponential mechanism and differentially private multivariate medians**|Kelly Ramsay et.al.|[2210.06459v1](http://arxiv.org/abs/2210.06459v1)|null|
+|**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|null|
+|**2022-10-12**|**Emergent scale-free networks**|Christopher W. Lynn et.al.|[2210.06453v1](http://arxiv.org/abs/2210.06453v1)|null|
+|**2022-10-12**|**Linear Response, Hamiltonian and Radiative Spinning Two-Body Dynamics**|Gustav Uhre Jakobsen et.al.|[2210.06451v1](http://arxiv.org/abs/2210.06451v1)|null|
+|**2022-10-12**|**Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent**|Ruqi Zhang et.al.|[2210.06447v1](http://arxiv.org/abs/2210.06447v1)|null|
+|**2022-10-12**|**Hydrodynamic Entropy and Emergence of Order in Two-dimensional Euler Turbulence**|Mahendra K. Verma et.al.|[2210.06445v1](http://arxiv.org/abs/2210.06445v1)|null|
+|**2022-10-12**|**On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning**|Lorenzo Bonicelli et.al.|[2210.06443v1](http://arxiv.org/abs/2210.06443v1)|null|
 |**2022-10-11**|**Understanding Embodied Reference with Touch-Line Transformer**|Yang Li et.al.|[2210.05668v1](http://arxiv.org/abs/2210.05668v1)|**[link](https://github.com/yang-li-2000/understanding-embodied-reference-with-touch-line-transformer)**|
 |**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
 |**2022-10-11**|**Regret Bounds for Risk-Sensitive Reinforcement Learning**|O. Bastani et.al.|[2210.05650v1](http://arxiv.org/abs/2210.05650v1)|null|

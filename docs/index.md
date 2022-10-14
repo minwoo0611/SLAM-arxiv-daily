@@ -13,7 +13,7 @@ layout: default
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-11**|**Multi-Object Navigation with dynamically learned neural implicit representations**|Pierre Marza et.al.|[2210.05129v1](http://arxiv.org/abs/2210.05129v1)|null|
-|**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v1](http://arxiv.org/abs/2210.05020v1)|null|
+|**2022-10-12**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian et.al.|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
 |**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen et.al.|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
@@ -157,6 +157,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-09**|**Linear Optical Modulators for Prospective Communications at the 2 μm Waveband**|Jia Xu Brian Sia et.al.|[2210.06994v1](http://arxiv.org/abs/2210.06994v1)|null|
+|**2022-10-13**|**On the calibration of underrepresented classes in LiDAR-based semantic segmentation**|Mariella Dreissig et.al.|[2210.06811v1](http://arxiv.org/abs/2210.06811v1)|null|
+|**2022-10-13**|**X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation**|Shubhankar Borse et.al.|[2210.06778v1](http://arxiv.org/abs/2210.06778v1)|null|
 |**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|null|
 |**2022-10-11**|**Optimization of laser stabilization via self-injection locking to a whispering-gallery-mode microresonator: experimental study**|Artem E. Shitikov et.al.|[2210.05309v1](http://arxiv.org/abs/2210.05309v1)|null|
@@ -331,6 +334,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
+|**2022-10-13**|**Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations**|Xiang Fu et.al.|[2210.07237v1](http://arxiv.org/abs/2210.07237v1)|null|
+|**2022-10-13**|**Exploring Long-Sequence Masked Autoencoders**|Ronghang Hu et.al.|[2210.07224v1](http://arxiv.org/abs/2210.07224v1)|**[link](https://github.com/facebookresearch/long_seq_mae)**|
+|**2022-10-13**|**Haptic Teleoperation goes Wireless: Evaluation and Benchmarking of a High-Performance Low-Power Wireless Control Technology**|Joseph Bolarinwa et.al.|[2210.07212v1](http://arxiv.org/abs/2210.07212v1)|null|
+|**2022-10-13**|**Computer-Aided Multi-Objective Optimization in Small Molecule Discovery**|Jenna C. Fromer et.al.|[2210.07209v1](http://arxiv.org/abs/2210.07209v1)|null|
+|**2022-10-13**|**A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics**|Wei Guo et.al.|[2210.07208v1](http://arxiv.org/abs/2210.07208v1)|null|
+|**2022-10-13**|**Non-uniform Berry-Esseen theorem and Edgeworth expansions with applications to transport distances for weakly dependent random variables**|Yeor Hafouta et.al.|[2210.07204v1](http://arxiv.org/abs/2210.07204v1)|null|
+|**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
+|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|null|
+|**2022-10-13**|**Dynamics of hot galactic winds launched from non-uniform starburst cores**|Dustin D. Nguyen et.al.|[2210.07193v1](http://arxiv.org/abs/2210.07193v1)|null|
 |**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|null|
 |**2022-10-12**|**Self-Guided Diffusion Models**|Vincent Tao Hu et.al.|[2210.06462v1](http://arxiv.org/abs/2210.06462v1)|null|
 |**2022-10-12**|**Asymptotics for the least trimmed squares estimator**|Yijun Zuo et.al.|[2210.06460v1](http://arxiv.org/abs/2210.06460v1)|null|

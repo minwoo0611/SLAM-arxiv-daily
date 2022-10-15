@@ -1,4 +1,4 @@
-## Updated on 2022.10.14
+## Updated on 2022.10.15
 
 ## SLAM
 
@@ -331,14 +331,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
-|**2022-10-13**|**Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations**|Xiang Fu et.al.|[2210.07237v1](http://arxiv.org/abs/2210.07237v1)|null|
+|**2022-10-13**|**Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations**|Xiang Fu et.al.|[2210.07237v1](http://arxiv.org/abs/2210.07237v1)|**[link](https://github.com/kyonofx/mdsim)**|
 |**2022-10-13**|**Exploring Long-Sequence Masked Autoencoders**|Ronghang Hu et.al.|[2210.07224v1](http://arxiv.org/abs/2210.07224v1)|**[link](https://github.com/facebookresearch/long_seq_mae)**|
 |**2022-10-13**|**Haptic Teleoperation goes Wireless: Evaluation and Benchmarking of a High-Performance Low-Power Wireless Control Technology**|Joseph Bolarinwa et.al.|[2210.07212v1](http://arxiv.org/abs/2210.07212v1)|null|
 |**2022-10-13**|**Computer-Aided Multi-Objective Optimization in Small Molecule Discovery**|Jenna C. Fromer et.al.|[2210.07209v1](http://arxiv.org/abs/2210.07209v1)|null|
 |**2022-10-13**|**A Local Macroscopic Conservative (LoMaC) low rank tensor method with the discontinuous Galerkin method for the Vlasov dynamics**|Wei Guo et.al.|[2210.07208v1](http://arxiv.org/abs/2210.07208v1)|null|
 |**2022-10-13**|**Non-uniform Berry-Esseen theorem and Edgeworth expansions with applications to transport distances for weakly dependent random variables**|Yeor Hafouta et.al.|[2210.07204v1](http://arxiv.org/abs/2210.07204v1)|null|
 |**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
-|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|null|
+|**2022-10-13**|**Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning**|Arsene Fansi Tchango et.al.|[2210.07198v1](http://arxiv.org/abs/2210.07198v1)|**[link](https://github.com/mila-iqia/casande-rl)**|
 |**2022-10-13**|**Dynamics of hot galactic winds launched from non-uniform starburst cores**|Dustin D. Nguyen et.al.|[2210.07193v1](http://arxiv.org/abs/2210.07193v1)|null|
 |**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|null|
 |**2022-10-12**|**Self-Guided Diffusion Models**|Vincent Tao Hu et.al.|[2210.06462v1](http://arxiv.org/abs/2210.06462v1)|null|

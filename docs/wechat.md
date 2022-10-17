@@ -1,7 +1,8 @@
-> Updated on 2022.10.16
+> Updated on 2022.10.17
 
 ## SLAM
 
+- 2022-10-13, **Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2210.07315v1](http://arxiv.org/abs/2210.07315v1)
 - 2022-10-12, **RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2210.05984v1](http://arxiv.org/abs/2210.05984v1), Code: **[https://github.com/MaverickPeter/MR_SLAM](https://github.com/MaverickPeter/MR_SLAM)**
 - 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
 - 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
@@ -524,6 +525,9 @@
 
 ## LiDAR
 
+- 2022-10-14, **SAILOR: Scaling Anchors via Insights into Latent Object**, Dušan Malić et.al., Paper: [http://arxiv.org/abs/2210.07811v1](http://arxiv.org/abs/2210.07811v1)
+- 2022-10-13, **Spline Sketches: An Efficient Approach for Photon Counting Lidar**, Michael Patrick Sheehan et.al., Paper: [http://arxiv.org/abs/2210.07314v1](http://arxiv.org/abs/2210.07314v1)
+- 2022-10-13, **3DEG: Data-Driven Descriptor Extraction for Global re-localization in subterranean environments**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2210.07285v1](http://arxiv.org/abs/2210.07285v1)
 - 2022-10-09, **Linear Optical Modulators for Prospective Communications at the 2 μm Waveband**, Jia Xu Brian Sia et.al., Paper: [http://arxiv.org/abs/2210.06994v1](http://arxiv.org/abs/2210.06994v1)
 - 2022-10-13, **On the calibration of underrepresented classes in LiDAR-based semantic segmentation**, Mariella Dreissig et.al., Paper: [http://arxiv.org/abs/2210.06811v1](http://arxiv.org/abs/2210.06811v1)
 - 2022-10-13, **X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation**, Shubhankar Borse et.al., Paper: [http://arxiv.org/abs/2210.06778v1](http://arxiv.org/abs/2210.06778v1)
@@ -699,6 +703,16 @@
 
 ## Dynamic Object
 
+- 2022-10-14, **A Variational Perspective on Generative Flow Networks**, Heiko Zimmermann et.al., Paper: [http://arxiv.org/abs/2210.07992v1](http://arxiv.org/abs/2210.07992v1)
+- 2022-10-14, **Bayesian Regularization on Function Spaces via Q-Exponential Process**, Shiwei Lan et.al., Paper: [http://arxiv.org/abs/2210.07987v1](http://arxiv.org/abs/2210.07987v1)
+- 2022-10-14, **The unsteady overtopping of barriers by gravity currents and dam-break flows**, Edward W. G. Skevington et.al., Paper: [http://arxiv.org/abs/2210.07981v1](http://arxiv.org/abs/2210.07981v1)
+- 2022-10-14, **Non-Brownian diffusion and chaotic rheology of autophoretic disks**, R. Kailasham et.al., Paper: [http://arxiv.org/abs/2210.07977v1](http://arxiv.org/abs/2210.07977v1)
+- 2022-10-14, **Wide Range MRI Artifact Removal with Transformers**, Lennart Alexander Van der Goten et.al., Paper: [http://arxiv.org/abs/2210.07976v1](http://arxiv.org/abs/2210.07976v1)
+- 2022-10-14, **Time crystals for exciton polaritons in a TMDC nanoribbon embedded in an optical microcavity**, Gabriel P. Martins et.al., Paper: [http://arxiv.org/abs/2210.07969v1](http://arxiv.org/abs/2210.07969v1)
+- 2022-10-14, **Spectral and steady-state properties of fermionic random quadratic Liouvillians**, João Costa et.al., Paper: [http://arxiv.org/abs/2210.07959v1](http://arxiv.org/abs/2210.07959v1)
+- 2022-10-14, **Properties of packings and dispersions of superellipse sector particles**, John Colt et.al., Paper: [http://arxiv.org/abs/2210.07949v1](http://arxiv.org/abs/2210.07949v1)
+- 2022-10-14, **TOI-179: a young system with a transiting compact Neptune-mass planet and a low-mass companion in outer orbit**, S. Desidera et.al., Paper: [http://arxiv.org/abs/2210.07933v1](http://arxiv.org/abs/2210.07933v1)
+- 2022-10-14, **Neural Routing in Meta Learning**, Jicang Cai et.al., Paper: [http://arxiv.org/abs/2210.07932v1](http://arxiv.org/abs/2210.07932v1), Code: **[https://github.com/damedollaforthree/nrml](https://github.com/damedollaforthree/nrml)**
 - 2022-10-13, **Visual Reinforcement Learning with Self-Supervised 3D Representations**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2210.07241v1](http://arxiv.org/abs/2210.07241v1)
 - 2022-10-13, **Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations**, Xiang Fu et.al., Paper: [http://arxiv.org/abs/2210.07237v1](http://arxiv.org/abs/2210.07237v1), Code: **[https://github.com/kyonofx/mdsim](https://github.com/kyonofx/mdsim)**
 - 2022-10-13, **Exploring Long-Sequence Masked Autoencoders**, Ronghang Hu et.al., Paper: [http://arxiv.org/abs/2210.07224v1](http://arxiv.org/abs/2210.07224v1), Code: **[https://github.com/facebookresearch/long_seq_mae](https://github.com/facebookresearch/long_seq_mae)**

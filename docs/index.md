@@ -158,8 +158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-14**|**SAILOR: Scaling Anchors via Insights into Latent Object**|Dušan Malić et.al.|[2210.07811v1](http://arxiv.org/abs/2210.07811v1)|null|
-|**2022-10-13**|**Spline Sketches: An Efficient Approach for Photon Counting Lidar**|Michael Patrick Sheehan et.al.|[2210.07314v1](http://arxiv.org/abs/2210.07314v1)|null|
+|**2022-10-14**|**SAILOR: Scaling Anchors via Insights into Latent Object**|Dušan Malić et.al.|[2210.07811v1](http://arxiv.org/abs/2210.07811v1)|**[link](https://github.com/malicd/sailor)**|
+|**2022-10-13**|**Spline Sketches: An Efficient Approach for Photon Counting Lidar**|Michael Patrick Sheehan et.al.|[2210.07314v1](http://arxiv.org/abs/2210.07314v1)|**[link](https://gitlab.com/mpsheehan1995/spline-sketch-lidar)**|
 |**2022-10-13**|**3DEG: Data-Driven Descriptor Extraction for Global re-localization in subterranean environments**|Nikolaos Stathoulopoulos et.al.|[2210.07285v1](http://arxiv.org/abs/2210.07285v1)|null|
 |**2022-10-09**|**Linear Optical Modulators for Prospective Communications at the 2 μm Waveband**|Jia Xu Brian Sia et.al.|[2210.06994v1](http://arxiv.org/abs/2210.06994v1)|null|
 |**2022-10-13**|**On the calibration of underrepresented classes in LiDAR-based semantic segmentation**|Mariella Dreissig et.al.|[2210.06811v1](http://arxiv.org/abs/2210.06811v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.17
+## Updated on 2022.10.18
 
 ## SLAM
 
@@ -158,7 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-14**|**SAILOR: Scaling Anchors via Insights into Latent Object**|Dušan Malić et.al.|[2210.07811v1](http://arxiv.org/abs/2210.07811v1)|**[link](https://github.com/malicd/sailor)**|
+|**2022-10-17**|**SAILOR: Scaling Anchors via Insights into Latent Object Representation**|Dušan Malić et.al.|[2210.07811v2](http://arxiv.org/abs/2210.07811v2)|**[link](https://github.com/malicd/sailor)**|
 |**2022-10-13**|**Spline Sketches: An Efficient Approach for Photon Counting Lidar**|Michael Patrick Sheehan et.al.|[2210.07314v1](http://arxiv.org/abs/2210.07314v1)|**[link](https://gitlab.com/mpsheehan1995/spline-sketch-lidar)**|
 |**2022-10-13**|**3DEG: Data-Driven Descriptor Extraction for Global re-localization in subterranean environments**|Nikolaos Stathoulopoulos et.al.|[2210.07285v1](http://arxiv.org/abs/2210.07285v1)|null|
 |**2022-10-09**|**Linear Optical Modulators for Prospective Communications at the 2 μm Waveband**|Jia Xu Brian Sia et.al.|[2210.06994v1](http://arxiv.org/abs/2210.06994v1)|null|
@@ -342,7 +342,7 @@ layout: default
 |**2022-10-14**|**Bayesian Regularization on Function Spaces via Q-Exponential Process**|Shiwei Lan et.al.|[2210.07987v1](http://arxiv.org/abs/2210.07987v1)|null|
 |**2022-10-14**|**The unsteady overtopping of barriers by gravity currents and dam-break flows**|Edward W. G. Skevington et.al.|[2210.07981v1](http://arxiv.org/abs/2210.07981v1)|null|
 |**2022-10-14**|**Non-Brownian diffusion and chaotic rheology of autophoretic disks**|R. Kailasham et.al.|[2210.07977v1](http://arxiv.org/abs/2210.07977v1)|null|
-|**2022-10-14**|**Wide Range MRI Artifact Removal with Transformers**|Lennart Alexander Van der Goten et.al.|[2210.07976v1](http://arxiv.org/abs/2210.07976v1)|null|
+|**2022-10-17**|**Wide Range MRI Artifact Removal with Transformers**|Lennart Alexander Van der Goten et.al.|[2210.07976v2](http://arxiv.org/abs/2210.07976v2)|null|
 |**2022-10-14**|**Time crystals for exciton polaritons in a TMDC nanoribbon embedded in an optical microcavity**|Gabriel P. Martins et.al.|[2210.07969v1](http://arxiv.org/abs/2210.07969v1)|null|
 |**2022-10-14**|**Spectral and steady-state properties of fermionic random quadratic Liouvillians**|João Costa et.al.|[2210.07959v1](http://arxiv.org/abs/2210.07959v1)|null|
 |**2022-10-14**|**Properties of packings and dispersions of superellipse sector particles**|John Colt et.al.|[2210.07949v1](http://arxiv.org/abs/2210.07949v1)|null|

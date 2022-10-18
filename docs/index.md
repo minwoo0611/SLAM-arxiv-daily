@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
+|**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
+|**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko et.al.|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
 |**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti et.al.|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
 |**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
@@ -158,6 +161,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-14**|**Segmentation-guided Domain Adaptation for Efficient Depth Completion**|Fabian Märkert et.al.|[2210.09213v1](http://arxiv.org/abs/2210.09213v1)|null|
+|**2022-10-17**|**Row-wise LiDAR Lane Detection Network with Lane Correlation Refinement**|Dong-Hee Paek et.al.|[2210.08745v1](http://arxiv.org/abs/2210.08745v1)|null|
+|**2022-10-17**|**PCGen: Point Cloud Generator for LiDAR Simulation**|Chenqi Li et.al.|[2210.08738v1](http://arxiv.org/abs/2210.08738v1)|null|
+|**2022-10-16**|**OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds**|Xiantong Zhao et.al.|[2210.08518v1](http://arxiv.org/abs/2210.08518v1)|null|
+|**2022-10-14**|**Instance Segmentation with Cross-Modal Consistency**|Alex Zihao Zhu et.al.|[2210.08113v1](http://arxiv.org/abs/2210.08113v1)|null|
+|**2022-10-14**|**LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds**|Minghua Liu et.al.|[2210.08064v1](http://arxiv.org/abs/2210.08064v1)|null|
 |**2022-10-17**|**SAILOR: Scaling Anchors via Insights into Latent Object Representation**|Dušan Malić et.al.|[2210.07811v2](http://arxiv.org/abs/2210.07811v2)|**[link](https://github.com/malicd/sailor)**|
 |**2022-10-13**|**Spline Sketches: An Efficient Approach for Photon Counting Lidar**|Michael Patrick Sheehan et.al.|[2210.07314v1](http://arxiv.org/abs/2210.07314v1)|**[link](https://gitlab.com/mpsheehan1995/spline-sketch-lidar)**|
 |**2022-10-13**|**3DEG: Data-Driven Descriptor Extraction for Global re-localization in subterranean environments**|Nikolaos Stathoulopoulos et.al.|[2210.07285v1](http://arxiv.org/abs/2210.07285v1)|null|
@@ -338,6 +347,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-17**|**Non-Contrastive Learning Meets Language-Image Pre-Training**|Jinghao Zhou et.al.|[2210.09304v1](http://arxiv.org/abs/2210.09304v1)|null|
+|**2022-10-17**|**A dichotomy phenomenon for Bad minus normed Dirichlet**|Dmitry Kleinbock et.al.|[2210.09299v1](http://arxiv.org/abs/2210.09299v1)|null|
+|**2022-10-17**|**Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing**|Carolina Higuera et.al.|[2210.09297v1](http://arxiv.org/abs/2210.09297v1)|**[link](https://github.com/carolinahiguera/ncf)**|
+|**2022-10-17**|**A comparison between $SL_n$ spider categories**|Anup Poudel et.al.|[2210.09289v1](http://arxiv.org/abs/2210.09289v1)|null|
+|**2022-10-17**|**An interacting particle system for the front of an epidemic advancing through a susceptible population**|Eliana Fausti et.al.|[2210.09286v1](http://arxiv.org/abs/2210.09286v1)|null|
+|**2022-10-17**|**Continuity of the Lyapunov exponent for analytic multi-frequency quasiperiodic cocycles**|Matthew Powell et.al.|[2210.09285v1](http://arxiv.org/abs/2210.09285v1)|null|
+|**2022-10-17**|**TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain**|Fei Dai et.al.|[2210.09283v1](http://arxiv.org/abs/2210.09283v1)|null|
+|**2022-10-17**|**Graph gauge theory of mobile non-Abelian anyons in a qubit stabilizer code**|Yuri D. Lensky et.al.|[2210.09282v1](http://arxiv.org/abs/2210.09282v1)|null|
+|**2022-10-17**|**Uniform a priori bounds for neutral renormalization**|Dzmitry Dudko et.al.|[2210.09280v1](http://arxiv.org/abs/2210.09280v1)|null|
+|**2022-10-17**|**Imagic: Text-Based Real Image Editing with Diffusion Models**|Bahjat Kawar et.al.|[2210.09276v1](http://arxiv.org/abs/2210.09276v1)|null|
 |**2022-10-14**|**A Variational Perspective on Generative Flow Networks**|Heiko Zimmermann et.al.|[2210.07992v1](http://arxiv.org/abs/2210.07992v1)|null|
 |**2022-10-14**|**Bayesian Regularization on Function Spaces via Q-Exponential Process**|Shiwei Lan et.al.|[2210.07987v1](http://arxiv.org/abs/2210.07987v1)|null|
 |**2022-10-14**|**The unsteady overtopping of barriers by gravity currents and dam-break flows**|Edward W. G. Skevington et.al.|[2210.07981v1](http://arxiv.org/abs/2210.07981v1)|null|

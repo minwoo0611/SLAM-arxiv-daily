@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
 - 2022-10-16, **Indoor Smartphone SLAM with Learned Echoic Location Features**, Wenjie Luo et.al., Paper: [http://arxiv.org/abs/2210.08493v1](http://arxiv.org/abs/2210.08493v1)
 - 2022-10-15, **Self-Improving SLAM in Dynamic Environments: Learning When to Mask**, Adrian Bojko et.al., Paper: [http://arxiv.org/abs/2210.08350v1](http://arxiv.org/abs/2210.08350v1)
@@ -528,6 +529,10 @@
 
 ## LiDAR
 
+- 2022-10-18, **Real-Time Multi-Modal Semantic Fusion on Unmanned Aerial Vehicles with Label Propagation for Cross-Domain Adaptation**, Simon Bultmann et.al., Paper: [http://arxiv.org/abs/2210.09739v1](http://arxiv.org/abs/2210.09739v1)
+- 2022-10-18, **Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**, Jongseok Lee et.al., Paper: [http://arxiv.org/abs/2210.09678v1](http://arxiv.org/abs/2210.09678v1)
+- 2022-10-18, **Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection**, Xin Li et.al., Paper: [http://arxiv.org/abs/2210.09615v1](http://arxiv.org/abs/2210.09615v1)
+- 2022-10-18, **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks**, Yulong Cao et.al., Paper: [http://arxiv.org/abs/2210.09482v1](http://arxiv.org/abs/2210.09482v1)
 - 2022-10-14, **Segmentation-guided Domain Adaptation for Efficient Depth Completion**, Fabian Märkert et.al., Paper: [http://arxiv.org/abs/2210.09213v1](http://arxiv.org/abs/2210.09213v1)
 - 2022-10-17, **Row-wise LiDAR Lane Detection Network with Lane Correlation Refinement**, Dong-Hee Paek et.al., Paper: [http://arxiv.org/abs/2210.08745v1](http://arxiv.org/abs/2210.08745v1)
 - 2022-10-17, **PCGen: Point Cloud Generator for LiDAR Simulation**, Chenqi Li et.al., Paper: [http://arxiv.org/abs/2210.08738v1](http://arxiv.org/abs/2210.08738v1)
@@ -712,6 +717,16 @@
 
 ## Dynamic Object
 
+- 2022-10-18, **A Tri-Layer Plugin to Improve Occluded Detection**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2210.10046v1](http://arxiv.org/abs/2210.10046v1)
+- 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1)
+- 2022-10-18, **The Anisotropic Circumgalactic Medium of Massive Early-Type Galaxies**, Huanian Zhang et.al., Paper: [http://arxiv.org/abs/2210.10043v1](http://arxiv.org/abs/2210.10043v1)
+- 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1)
+- 2022-10-18, **Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2210.10033v1](http://arxiv.org/abs/2210.10033v1)
+- 2022-10-18, **Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**, Juniper Lovato et.al., Paper: [http://arxiv.org/abs/2210.10026v1](http://arxiv.org/abs/2210.10026v1)
+- 2022-10-18, **An extended [CII] halo around a massive star-forming galaxy at z = 5.3**, T. S. Lambert et.al., Paper: [http://arxiv.org/abs/2210.10023v1](http://arxiv.org/abs/2210.10023v1)
+- 2022-10-18, **Time Evolution of Typical Pure States from a Macroscopic Hilbert Subspace**, Stefan Teufel et.al., Paper: [http://arxiv.org/abs/2210.10018v1](http://arxiv.org/abs/2210.10018v1)
+- 2022-10-18, **Contribution to the initialization of linear non-commensurate fractional-order systems for the joint estimation of parameters and fractional differentiation orders**, Mohamed A. Bahloul et.al., Paper: [http://arxiv.org/abs/2210.10016v1](http://arxiv.org/abs/2210.10016v1)
+- 2022-10-18, **Aerodynamic Optimization of the Angle of Attack of the Wing Design of a MQ-9 Reaper UAV**, Ryan Kim et.al., Paper: [http://arxiv.org/abs/2210.10013v1](http://arxiv.org/abs/2210.10013v1)
 - 2022-10-17, **Non-Contrastive Learning Meets Language-Image Pre-Training**, Jinghao Zhou et.al., Paper: [http://arxiv.org/abs/2210.09304v1](http://arxiv.org/abs/2210.09304v1)
 - 2022-10-17, **A dichotomy phenomenon for Bad minus normed Dirichlet**, Dmitry Kleinbock et.al., Paper: [http://arxiv.org/abs/2210.09299v1](http://arxiv.org/abs/2210.09299v1)
 - 2022-10-17, **Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing**, Carolina Higuera et.al., Paper: [http://arxiv.org/abs/2210.09297v1](http://arxiv.org/abs/2210.09297v1), Code: **[https://github.com/carolinahiguera/ncf](https://github.com/carolinahiguera/ncf)**

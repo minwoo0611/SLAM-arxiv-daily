@@ -720,7 +720,7 @@
 - 2022-10-18, **A Tri-Layer Plugin to Improve Occluded Detection**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2210.10046v1](http://arxiv.org/abs/2210.10046v1)
 - 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1)
 - 2022-10-18, **The Anisotropic Circumgalactic Medium of Massive Early-Type Galaxies**, Huanian Zhang et.al., Paper: [http://arxiv.org/abs/2210.10043v1](http://arxiv.org/abs/2210.10043v1)
-- 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1)
+- 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1), Code: **[https://github.com/hendrycks/emodiversity](https://github.com/hendrycks/emodiversity)**
 - 2022-10-18, **Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2210.10033v1](http://arxiv.org/abs/2210.10033v1)
 - 2022-10-18, **Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**, Juniper Lovato et.al., Paper: [http://arxiv.org/abs/2210.10026v1](http://arxiv.org/abs/2210.10026v1)
 - 2022-10-18, **An extended [CII] halo around a massive star-forming galaxy at z = 5.3**, T. S. Lambert et.al., Paper: [http://arxiv.org/abs/2210.10023v1](http://arxiv.org/abs/2210.10023v1)

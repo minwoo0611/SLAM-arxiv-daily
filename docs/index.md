@@ -361,13 +361,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|null|
+|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|**[link](https://github.com/air-discover/vibus)**|
 |**2022-10-20**|**G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**|Rabab Abdelfattah et.al.|[2210.11469v1](http://arxiv.org/abs/2210.11469v1)|null|
 |**2022-10-20**|**ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**|Alex Gu et.al.|[2210.11468v1](http://arxiv.org/abs/2210.11468v1)|null|
-|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|null|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
 |**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|null|
 |**2022-10-20**|**Measured proton electromagnetic structure deviates from theoretical predictions**|R. Li et.al.|[2210.11461v1](http://arxiv.org/abs/2210.11461v1)|null|
-|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|null|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
 |**2022-10-20**|**Investigation and discussion of machine learning techniques for surrogate modeling of radio-frequency quadrupole particle accelerators**|Joshua Villarreal et.al.|[2210.11451v1](http://arxiv.org/abs/2210.11451v1)|null|
 |**2022-10-20**|**Robust Quantum Memory in a Trapped-Ion Quantum Network Node**|P. Drmota et.al.|[2210.11447v1](http://arxiv.org/abs/2210.11447v1)|null|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|

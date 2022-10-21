@@ -163,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
+|**2022-10-20**|**The Software Stack That Won the Formula Student Driverless Competition**|Andres Alvarez et.al.|[2210.10933v1](http://arxiv.org/abs/2210.10933v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|**[link](https://github.com/opencalib/lidar2camera_self-check)**|
 |**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
 |**2022-10-19**|**Video super-resolution for single-photon LIDAR**|Germán Mora Martín et.al.|[2210.10474v1](http://arxiv.org/abs/2210.10474v1)|null|
@@ -359,6 +361,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**|Beiwen Tian et.al.|[2210.11472v1](http://arxiv.org/abs/2210.11472v1)|null|
+|**2022-10-20**|**G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**|Rabab Abdelfattah et.al.|[2210.11469v1](http://arxiv.org/abs/2210.11469v1)|null|
+|**2022-10-20**|**ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**|Alex Gu et.al.|[2210.11468v1](http://arxiv.org/abs/2210.11468v1)|null|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|null|
+|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|null|
+|**2022-10-20**|**Measured proton electromagnetic structure deviates from theoretical predictions**|R. Li et.al.|[2210.11461v1](http://arxiv.org/abs/2210.11461v1)|null|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|null|
+|**2022-10-20**|**Investigation and discussion of machine learning techniques for surrogate modeling of radio-frequency quadrupole particle accelerators**|Joshua Villarreal et.al.|[2210.11451v1](http://arxiv.org/abs/2210.11451v1)|null|
+|**2022-10-20**|**Robust Quantum Memory in a Trapped-Ion Quantum Network Node**|P. Drmota et.al.|[2210.11447v1](http://arxiv.org/abs/2210.11447v1)|null|
+|**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|null|
 |**2022-10-19**|**TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**|Pengfei Li et.al.|[2210.10775v1](http://arxiv.org/abs/2210.10775v1)|**[link](https://github.com/air-discover/toist)**|
 |**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|**[link](https://github.com/vlfom/rncdl)**|
 |**2022-10-19**|**When to Ask for Help: Proactive Interventions in Autonomous Reinforcement Learning**|Annie Xie et.al.|[2210.10765v1](http://arxiv.org/abs/2210.10765v1)|**[link](https://github.com/tajwarfahim/proactive_interventions)**|

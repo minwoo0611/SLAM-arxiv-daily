@@ -169,7 +169,7 @@ layout: default
 |**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
 |**2022-10-19**|**Video super-resolution for single-photon LIDAR**|Germán Mora Martín et.al.|[2210.10474v1](http://arxiv.org/abs/2210.10474v1)|null|
 |**2022-10-19**|**SR-LIO: LiDAR-Inertial Odometry with Sweep Reconstruction**|Zikang Yuan et.al.|[2210.10424v1](http://arxiv.org/abs/2210.10424v1)|**[link](https://github.com/ZikangYuan/sr_lio)**|
-|**2022-10-19**|**A sensor-to-pattern calibration framework for multi-modal industrial collaborative cells**|Daniela Rato et.al.|[2210.10365v1](http://arxiv.org/abs/2210.10365v1)|null|
+|**2022-10-19**|**A sensor-to-pattern calibration framework for multi-modal industrial collaborative cells**|Daniela Rato et.al.|[2210.10365v1](http://arxiv.org/abs/2210.10365v1)|**[link](https://github.com/lardemua/atom)**|
 |**2022-10-18**|**Domain Adaptation in 3D Object Detection with Gradual Batch Alternation Training**|Mrigank Rochan et.al.|[2210.10180v1](http://arxiv.org/abs/2210.10180v1)|null|
 |**2022-10-18**|**Real-Time Multi-Modal Semantic Fusion on Unmanned Aerial Vehicles with Label Propagation for Cross-Domain Adaptation**|Simon Bultmann et.al.|[2210.09739v1](http://arxiv.org/abs/2210.09739v1)|null|
 |**2022-10-18**|**Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v1](http://arxiv.org/abs/2210.09678v1)|null|
@@ -365,9 +365,9 @@ layout: default
 |**2022-10-20**|**G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**|Rabab Abdelfattah et.al.|[2210.11469v1](http://arxiv.org/abs/2210.11469v1)|null|
 |**2022-10-20**|**ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**|Alex Gu et.al.|[2210.11468v1](http://arxiv.org/abs/2210.11468v1)|null|
 |**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
-|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|null|
+|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|**[link](https://github.com/wuziyi616/multi_part_assembly)**|
 |**2022-10-20**|**Measured proton electromagnetic structure deviates from theoretical predictions**|R. Li et.al.|[2210.11461v1](http://arxiv.org/abs/2210.11461v1)|null|
-|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|null|
 |**2022-10-20**|**Investigation and discussion of machine learning techniques for surrogate modeling of radio-frequency quadrupole particle accelerators**|Joshua Villarreal et.al.|[2210.11451v1](http://arxiv.org/abs/2210.11451v1)|null|
 |**2022-10-20**|**Robust Quantum Memory in a Trapped-Ion Quantum Network Node**|P. Drmota et.al.|[2210.11447v1](http://arxiv.org/abs/2210.11447v1)|null|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|

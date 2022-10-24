@@ -1,7 +1,9 @@
-> Updated on 2022.10.23
+> Updated on 2022.10.24
 
 ## SLAM
 
+- 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
+- 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-19, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v1](http://arxiv.org/abs/2210.10491v1)
 - 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
@@ -530,6 +532,11 @@
 
 ## LiDAR
 
+- 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
+- 2022-10-21, **Generative Range Imaging for Learning Scene Priors of 3D LiDAR Data**, Kazuto Nakashima et.al., Paper: [http://arxiv.org/abs/2210.11750v1](http://arxiv.org/abs/2210.11750v1), Code: **[https://github.com/kazuto1011/dusty-gan-v2](https://github.com/kazuto1011/dusty-gan-v2)**
+- 2022-10-21, **Optimal Pose Estimation and Covariance Analysis with Simultaneous Localization and Mapping Applications**, Saeed Maleki et.al., Paper: [http://arxiv.org/abs/2210.11697v1](http://arxiv.org/abs/2210.11697v1)
+- 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
+- 2022-10-20, **XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection**, Sunsheng Gu et.al., Paper: [http://arxiv.org/abs/2210.11590v1](http://arxiv.org/abs/2210.11590v1)
 - 2022-10-20, **DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**, Sha Lu et.al., Paper: [http://arxiv.org/abs/2210.11029v1](http://arxiv.org/abs/2210.11029v1)
 - 2022-10-20, **The Software Stack That Won the Formula Student Driverless Competition**, Andres Alvarez et.al., Paper: [http://arxiv.org/abs/2210.10933v1](http://arxiv.org/abs/2210.10933v1)
 - 2022-10-19, **Online LiDAR-Camera Extrinsic Parameters Self-checking**, Pengjin Wei et.al., Paper: [http://arxiv.org/abs/2210.10537v1](http://arxiv.org/abs/2210.10537v1), Code: **[https://github.com/opencalib/lidar2camera_self-check](https://github.com/opencalib/lidar2camera_self-check)**
@@ -726,6 +733,16 @@
 
 ## Dynamic Object
 
+- 2022-10-21, **Quantum Gauge Networks: A New Kind of Tensor Network**, Kevin Slagle et.al., Paper: [http://arxiv.org/abs/2210.12151v1](http://arxiv.org/abs/2210.12151v1)
+- 2022-10-21, **Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**, Laurynas Karazija et.al., Paper: [http://arxiv.org/abs/2210.12148v1](http://arxiv.org/abs/2210.12148v1)
+- 2022-10-21, **Experimental realization of a topologically protected Hadamard gate via braiding Fibonacci anyons**, Yu-ang Fan et.al., Paper: [http://arxiv.org/abs/2210.12145v1](http://arxiv.org/abs/2210.12145v1)
+- 2022-10-21, **Target Aware Poisson-Gaussian Noise Parameters Estimation from Noisy Images**, Étienne Objois et.al., Paper: [http://arxiv.org/abs/2210.12142v1](http://arxiv.org/abs/2210.12142v1)
+- 2022-10-21, **A quantum algorithm for solving open quantum system dynamics on quantum computers using noise**, Juha Leppäkangas et.al., Paper: [http://arxiv.org/abs/2210.12138v1](http://arxiv.org/abs/2210.12138v1)
+- 2022-10-21, **Geometric Sparse Coding in Wasserstein Space**, Marshall Mueller et.al., Paper: [http://arxiv.org/abs/2210.12135v1](http://arxiv.org/abs/2210.12135v1)
+- 2022-10-21, **Linear and fractional response for nonlinear dissipative SPDEs**, Giulia Carigi et.al., Paper: [http://arxiv.org/abs/2210.12129v1](http://arxiv.org/abs/2210.12129v1)
+- 2022-10-21, **Neural Fields for Robotic Object Manipulation from a Single Image**, Valts Blukis et.al., Paper: [http://arxiv.org/abs/2210.12126v1](http://arxiv.org/abs/2210.12126v1)
+- 2022-10-21, **Uniform upper bound for the number of limit cycles of planar piecewise linear differential systems with two zones separated by a straight line**, Victoriano Carmona et.al., Paper: [http://arxiv.org/abs/2210.12125v1](http://arxiv.org/abs/2210.12125v1)
+- 2022-10-21, **Planet Engulfment Detections are Rare According to Observations and Stellar Modeling**, Aida Behmard et.al., Paper: [http://arxiv.org/abs/2210.12121v1](http://arxiv.org/abs/2210.12121v1)
 - 2022-10-20, **VIBUS: Data-efficient 3D Scene Parsing with VIewpoint Bottleneck and Uncertainty-Spectrum Modeling**, Beiwen Tian et.al., Paper: [http://arxiv.org/abs/2210.11472v1](http://arxiv.org/abs/2210.11472v1), Code: **[https://github.com/air-discover/vibus](https://github.com/air-discover/vibus)**
 - 2022-10-20, **G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**, Rabab Abdelfattah et.al., Paper: [http://arxiv.org/abs/2210.11469v1](http://arxiv.org/abs/2210.11469v1)
 - 2022-10-20, **ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications**, Alex Gu et.al., Paper: [http://arxiv.org/abs/2210.11468v1](http://arxiv.org/abs/2210.11468v1)

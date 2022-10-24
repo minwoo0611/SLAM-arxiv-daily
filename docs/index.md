@@ -169,7 +169,7 @@ layout: default
 |**2022-10-21**|**Generative Range Imaging for Learning Scene Priors of 3D LiDAR Data**|Kazuto Nakashima et.al.|[2210.11750v1](http://arxiv.org/abs/2210.11750v1)|**[link](https://github.com/kazuto1011/dusty-gan-v2)**|
 |**2022-10-21**|**Optimal Pose Estimation and Covariance Analysis with Simultaneous Localization and Mapping Applications**|Saeed Maleki et.al.|[2210.11697v1](http://arxiv.org/abs/2210.11697v1)|null|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
-|**2022-10-20**|**XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection**|Sunsheng Gu et.al.|[2210.11590v1](http://arxiv.org/abs/2210.11590v1)|null|
+|**2022-10-20**|**XC: Exploring Quantitative Use Cases for Explanations in 3D Object Detection**|Sunsheng Gu et.al.|[2210.11590v1](http://arxiv.org/abs/2210.11590v1)|**[link](https://github.com/sunshenggu/xc_eval_pcdet)**|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
 |**2022-10-20**|**The Software Stack That Won the Formula Student Driverless Competition**|Andres Alvarez et.al.|[2210.10933v1](http://arxiv.org/abs/2210.10933v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|**[link](https://github.com/opencalib/lidar2camera_self-check)**|

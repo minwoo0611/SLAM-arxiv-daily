@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
+|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|null|
+|**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
+|**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
 |**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v1](http://arxiv.org/abs/2210.12756v1)|null|
 |**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
@@ -163,6 +167,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-25**|**MidasTouch: Monte-Carlo inference over distributions across sliding touch**|Sudharshan Suresh et.al.|[2210.14210v1](http://arxiv.org/abs/2210.14210v1)|null|
+|**2022-10-24**|**SphNet: A Spherical Network for Semantic Pointcloud Segmentation**|Lukas Bernreiter et.al.|[2210.13992v1](http://arxiv.org/abs/2210.13992v1)|null|
+|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|null|
+|**2022-10-24**|**Depth Monocular Estimation with Attention-based Encoder-Decoder Network from Single Image**|Xin Zhang et.al.|[2210.13646v1](http://arxiv.org/abs/2210.13646v1)|null|
+|**2022-10-24**|**LidarAugment: Searching for Scalable 3D LiDAR Data Augmentations**|Zhaoqi Leng et.al.|[2210.13488v1](http://arxiv.org/abs/2210.13488v1)|null|
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
 |**2022-10-23**|**DMODE: Differential Monocular Object Distance Estimation Module without Class Specific Information**|Pedram Agand et.al.|[2210.12596v1](http://arxiv.org/abs/2210.12596v1)|**[link](https://github.com/anonym-paper/dmode)**|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
@@ -368,6 +377,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-25**|**Crafting the dynamical structure of synchronization by harnessing bosonic multi-level cavity QED**|Riccardo J. Valencia-Tortora et.al.|[2210.14224v1](http://arxiv.org/abs/2210.14224v1)|null|
+|**2022-10-25**|**PlanT: Explainable Planning Transformers via Object-Level Representations**|Katrin Renz et.al.|[2210.14222v1](http://arxiv.org/abs/2210.14222v1)|null|
+|**2022-10-25**|**The uncertainty of infectious disease outbreaks is underestimated**|Matthew J. Penn et.al.|[2210.14221v1](http://arxiv.org/abs/2210.14221v1)|null|
+|**2022-10-25**|**Characterizing information loss in a chaotic double pendulum with the Information Bottleneck**|Kieran A. Murphy et.al.|[2210.14220v1](http://arxiv.org/abs/2210.14220v1)|null|
+|**2022-10-25**|**Orbit-Superposition Dynamical Modelling of Barred Galaxies**|Behzad Tahmasebzadeh et.al.|[2210.14218v1](http://arxiv.org/abs/2210.14218v1)|null|
+|**2022-10-25**|**Cell dynamics in microfluidic devices under heterogeneous chemotaxis and growth conditions: a mathematical study**|Jaobo Ayensa-Jiménez et.al.|[2210.14217v1](http://arxiv.org/abs/2210.14217v1)|null|
+|**2022-10-25**|**MidasTouch: Monte-Carlo inference over distributions across sliding touch**|Sudharshan Suresh et.al.|[2210.14210v1](http://arxiv.org/abs/2210.14210v1)|null|
+|**2022-10-25**|**Kinetically limited valence of colloidal particles with surface mobile DNA linkers**|Pedro A. Sánchez et.al.|[2210.14209v1](http://arxiv.org/abs/2210.14209v1)|null|
+|**2022-10-25**|**Affine IETs with a singular conjugacy to an IET**|Frank Trujillo et.al.|[2210.14202v1](http://arxiv.org/abs/2210.14202v1)|null|
+|**2022-10-25**|**Extended Dynamical Mean Field Theory for Correlated Electron Models**|Haoyu Hu et.al.|[2210.14197v1](http://arxiv.org/abs/2210.14197v1)|null|
 |**2022-10-24**|**Superconducting microsphere magnetically levitated in an anharmonic potential**|Martí Gutierrez Latorre et.al.|[2210.13451v1](http://arxiv.org/abs/2210.13451v1)|null|
 |**2022-10-24**|**Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure**|Austin Hinkel et.al.|[2210.13450v1](http://arxiv.org/abs/2210.13450v1)|null|
 |**2022-10-24**|**Monocular Dynamic View Synthesis: A Reality Check**|Hang Gao et.al.|[2210.13445v1](http://arxiv.org/abs/2210.13445v1)|**[link](https://github.com/kair-bair/dycheck)**|

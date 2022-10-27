@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## SLAM
 
@@ -171,6 +171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-26**|**CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**|Yufei Wang et.al.|[2210.14898v1](http://arxiv.org/abs/2210.14898v1)|null|
+|**2022-10-26**|**Nanosecond gating of superconducting nanowire single-photon detectors using cryogenic bias circuitry**|Thomas Hummel et.al.|[2210.14841v1](http://arxiv.org/abs/2210.14841v1)|null|
+|**2022-10-26**|**Analyzing Deep Learning Representations of Point Clouds for Real-Time In-Vehicle LiDAR Perception**|Marc Uecker et.al.|[2210.14612v1](http://arxiv.org/abs/2210.14612v1)|null|
 |**2022-10-25**|**MidasTouch: Monte-Carlo inference over distributions across sliding touch**|Sudharshan Suresh et.al.|[2210.14210v1](http://arxiv.org/abs/2210.14210v1)|null|
 |**2022-10-24**|**SphNet: A Spherical Network for Semantic Pointcloud Segmentation**|Lukas Bernreiter et.al.|[2210.13992v1](http://arxiv.org/abs/2210.13992v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
@@ -381,6 +384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-26**|**Injection and nucleation of topological defects in the quench dynamics of the Frenkel-Kontorova model**|Oksana Chelpanova et.al.|[2210.14904v1](http://arxiv.org/abs/2210.14904v1)|null|
+|**2022-10-26**|**(Slow-)Twisting inflationary attractors**|Perseas Christodoulidis et.al.|[2210.14900v1](http://arxiv.org/abs/2210.14900v1)|null|
+|**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
+|**2022-10-26**|**CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**|Yufei Wang et.al.|[2210.14898v1](http://arxiv.org/abs/2210.14898v1)|null|
+|**2022-10-26**|**Learning to predict arbitrary quantum processes**|Hsin-Yuan Huang et.al.|[2210.14894v1](http://arxiv.org/abs/2210.14894v1)|null|
+|**2022-10-26**|**Superstabilizing Control of Discrete-Time ARX Models under Error in Variables**|Jared Miller et.al.|[2210.14893v1](http://arxiv.org/abs/2210.14893v1)|null|
+|**2022-10-26**|**Rigidity for piece-wise smooth circle maps and certain GIETs**|Przemysław Berk et.al.|[2210.14886v1](http://arxiv.org/abs/2210.14886v1)|null|
+|**2022-10-26**|**Angular Momentum Loss Rates in Be Stars Determined by the Viscous Decretion Disc Model**|M. R. Ghoreyshi et.al.|[2210.14885v1](http://arxiv.org/abs/2210.14885v1)|null|
+|**2022-10-26**|**A Control-theoretic Model for Bidirectional Molecular Communication Systems**|Taishi Kotsuka et.al.|[2210.14879v1](http://arxiv.org/abs/2210.14879v1)|null|
+|**2022-10-26**|**Spatio-temporal modeling of saltatory conduction in neurons using Poisson-Nernst-Planck treatment and estimation of conduction velocity**|Rahul Gulati et.al.|[2210.14870v1](http://arxiv.org/abs/2210.14870v1)|null|
 |**2022-10-25**|**Crafting the dynamical structure of synchronization by harnessing bosonic multi-level cavity QED**|Riccardo J. Valencia-Tortora et.al.|[2210.14224v1](http://arxiv.org/abs/2210.14224v1)|null|
 |**2022-10-25**|**PlanT: Explainable Planning Transformers via Object-Level Representations**|Katrin Renz et.al.|[2210.14222v1](http://arxiv.org/abs/2210.14222v1)|null|
 |**2022-10-25**|**The uncertainty of infectious disease outbreaks is underestimated**|Matthew J. Penn et.al.|[2210.14221v1](http://arxiv.org/abs/2210.14221v1)|null|

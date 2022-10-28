@@ -1,4 +1,4 @@
-## Updated on 2022.10.27
+## Updated on 2022.10.28
 
 ## SLAM
 
@@ -380,11 +380,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-26**|**Injection and nucleation of topological defects in the quench dynamics of the Frenkel-Kontorova model**|Oksana Chelpanova et.al.|[2210.14904v1](http://arxiv.org/abs/2210.14904v1)|null|
+|**2022-10-27**|**Injection and nucleation of topological defects in the quench dynamics of the Frenkel-Kontorova model**|Oksana Chelpanova et.al.|[2210.14904v2](http://arxiv.org/abs/2210.14904v2)|null|
 |**2022-10-26**|**(Slow-)Twisting inflationary attractors**|Perseas Christodoulidis et.al.|[2210.14900v1](http://arxiv.org/abs/2210.14900v1)|null|
 |**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
 |**2022-10-26**|**CU-Net: LiDAR Depth-Only Completion With Coupled U-Net**|Yufei Wang et.al.|[2210.14898v1](http://arxiv.org/abs/2210.14898v1)|**[link](https://github.com/yufeiwang777/cu-net)**|
-|**2022-10-26**|**Learning to predict arbitrary quantum processes**|Hsin-Yuan Huang et.al.|[2210.14894v1](http://arxiv.org/abs/2210.14894v1)|null|
+|**2022-10-27**|**Learning to predict arbitrary quantum processes**|Hsin-Yuan Huang et.al.|[2210.14894v2](http://arxiv.org/abs/2210.14894v2)|null|
 |**2022-10-26**|**Superstabilizing Control of Discrete-Time ARX Models under Error in Variables**|Jared Miller et.al.|[2210.14893v1](http://arxiv.org/abs/2210.14893v1)|null|
 |**2022-10-26**|**Rigidity for piece-wise smooth circle maps and certain GIETs**|Przemysław Berk et.al.|[2210.14886v1](http://arxiv.org/abs/2210.14886v1)|null|
 |**2022-10-26**|**Angular Momentum Loss Rates in Be Stars Determined by the Viscous Decretion Disc Model**|M. R. Ghoreyshi et.al.|[2210.14885v1](http://arxiv.org/abs/2210.14885v1)|null|

@@ -171,7 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|null|
+|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|**[link](https://github.com/nedzhaken/human_aware_navigation)**|
 |**2022-10-27**|**Li3DeTr: A LiDAR based 3D Detection Transformer**|Gopi Krishna Erabati et.al.|[2210.15365v1](http://arxiv.org/abs/2210.15365v1)|null|
 |**2022-10-27**|**MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving**|Gopi Krishna Erabati et.al.|[2210.15316v1](http://arxiv.org/abs/2210.15316v1)|null|
 |**2022-10-26**|**LiDAR-guided object search and detection in Subterranean Environments**|Manthan Patel et.al.|[2210.14997v1](http://arxiv.org/abs/2210.14997v1)|null|
@@ -394,7 +394,7 @@ layout: default
 |**2022-10-27**|**Topology of singular set of semiconcave function via Arnaud's theorem**|Tianqi Shi et.al.|[2210.15646v1](http://arxiv.org/abs/2210.15646v1)|null|
 |**2022-10-27**|**Twin stars as probes of the nuclear equation of state: effects of rotation through the PSR J0952-0607 pulsar and constraints via the tidal deformability from the GW170817 event**|L. Tsaloukidis et.al.|[2210.15644v1](http://arxiv.org/abs/2210.15644v1)|null|
 |**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
-|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|null|
+|**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|**[link](https://github.com/nedzhaken/human_aware_navigation)**|
 |**2022-10-27**|**Schwinger particle production: rapid switch off of the external field versus dynamical assistance**|I. A. Aleksandrov et.al.|[2210.15626v1](http://arxiv.org/abs/2210.15626v1)|null|
 |**2022-10-27**|**Neural Networks with Quantization Constraints**|Ignacio Hounie et.al.|[2210.15623v1](http://arxiv.org/abs/2210.15623v1)|**[link](https://github.com/ihounie/pd-qat)**|
 |**2022-10-27**|**A positivity-preserving and conservative high-order flux reconstruction method for the polyatomic Boltzmann--BGK equation**|Tarik Dzanic et.al.|[2210.15611v1](http://arxiv.org/abs/2210.15611v1)|null|

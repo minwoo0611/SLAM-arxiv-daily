@@ -12,7 +12,7 @@ layout: default
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
 |**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
-|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v1](http://arxiv.org/abs/2210.12756v1)|null|
+|**2022-10-28**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v2](http://arxiv.org/abs/2210.12756v2)|null|
 |**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
@@ -171,6 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Object Segmentation of Cluttered Airborne LiDAR Point Clouds**|Mariona Caros et.al.|[2210.16081v1](http://arxiv.org/abs/2210.16081v1)|**[link](https://github.com/marionacaros/3d-object-segmentation)**|
 |**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|**[link](https://github.com/nedzhaken/human_aware_navigation)**|
 |**2022-10-27**|**Li3DeTr: A LiDAR based 3D Detection Transformer**|Gopi Krishna Erabati et.al.|[2210.15365v1](http://arxiv.org/abs/2210.15365v1)|null|
 |**2022-10-27**|**MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving**|Gopi Krishna Erabati et.al.|[2210.15316v1](http://arxiv.org/abs/2210.15316v1)|null|
@@ -388,6 +389,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Logarithmic Regret in Adaptive Control of Noisy Linear Quadratic Regulator Systems Using Hints**|Mohammad Akbari et.al.|[2210.16303v1](http://arxiv.org/abs/2210.16303v1)|null|
+|**2022-10-28**|**Learning Modular Simulations for Homogeneous Systems**|Jayesh K. Gupta et.al.|[2210.16294v1](http://arxiv.org/abs/2210.16294v1)|null|
+|**2022-10-28**|**Projection-based Density Matrix Renormalization Group in Density Functional Theory Embedding**|Pavel Beran et.al.|[2210.16289v1](http://arxiv.org/abs/2210.16289v1)|null|
+|**2022-10-28**|**Nonlinear Stability of Complex Droop Control in Converter-Based Power Systems**|Xiuqiang He et.al.|[2210.16288v1](http://arxiv.org/abs/2210.16288v1)|null|
+|**2022-10-28**|**A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks**|Zhengdao Chen et.al.|[2210.16286v1](http://arxiv.org/abs/2210.16286v1)|null|
+|**2022-10-28**|**Factorized Parameter Estimation for Real-Time Gravitational Wave Inference**|Tousif Islam et.al.|[2210.16278v1](http://arxiv.org/abs/2210.16278v1)|null|
+|**2022-10-28**|**Robustness and Convergence Analysis of First-Order Distributed Optimization Algorithms over Subspace Constraints**|Dennis J. Marquis et.al.|[2210.16277v1](http://arxiv.org/abs/2210.16277v1)|null|
+|**2022-10-28**|**The THESAN project: Lyman-alpha emitter luminosity function calibration**|Clara Xu et.al.|[2210.16275v1](http://arxiv.org/abs/2210.16275v1)|null|
+|**2022-10-28**|**ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search**|Rongqi Pan et.al.|[2210.16269v1](http://arxiv.org/abs/2210.16269v1)|null|
+|**2022-10-28**|**Thermal vestiges of avalanches in the driven random field Ising model**|Liheng Yao et.al.|[2210.16268v1](http://arxiv.org/abs/2210.16268v1)|null|
 |**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
 |**2022-10-27**|**Dynamic melting and condensation of topological dislocation modes**|Sanjib Kumar Das et.al.|[2210.15661v1](http://arxiv.org/abs/2210.15661v1)|null|
 |**2022-10-27**|**User Identification: The Key Enabler for Multi-User Vision-Aided Wireless Communications**|Gouranga Charan et.al.|[2210.15652v1](http://arxiv.org/abs/2210.15652v1)|null|

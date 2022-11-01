@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
@@ -167,6 +168,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|**[link](https://github.com/norlab-ulaval/perceptreev1)**|
+|**2022-10-31**|**Point-Syn2Real: Semi-Supervised Synthetic-to-Real Cross-Domain Learning for Object Classification in 3D Point Clouds**|Ziwei Wang et.al.|[2210.17009v1](http://arxiv.org/abs/2210.17009v1)|null|
+|**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574v1](http://arxiv.org/abs/2210.16574v1)|null|
+|**2022-10-29**|**Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features**|Kohei Honda et.al.|[2210.16510v1](http://arxiv.org/abs/2210.16510v1)|null|
 |**2022-10-28**|**Object Segmentation of Cluttered Airborne LiDAR Point Clouds**|Mariona Caros et.al.|[2210.16081v1](http://arxiv.org/abs/2210.16081v1)|**[link](https://github.com/marionacaros/3d-object-segmentation)**|
 |**2022-10-27**|**Software-hardware Integration and Human-centered Benchmarking for Socially-compliant Robot Navigation**|Iaroslav Okunevich et.al.|[2210.15628v1](http://arxiv.org/abs/2210.15628v1)|**[link](https://github.com/nedzhaken/human_aware_navigation)**|
 |**2022-10-27**|**Li3DeTr: A LiDAR based 3D Detection Transformer**|Gopi Krishna Erabati et.al.|[2210.15365v1](http://arxiv.org/abs/2210.15365v1)|null|
@@ -385,6 +390,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Nesterov Meets Optimism: Rate-Optimal Optimistic-Gradient-Based Method for Stochastic Bilinearly-Coupled Minimax Optimization**|Chris Junchi Li et.al.|[2210.17550v1](http://arxiv.org/abs/2210.17550v1)|null|
+|**2022-10-31**|**Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**|Saar Tarnopolsky et.al.|[2210.17544v1](http://arxiv.org/abs/2210.17544v1)|null|
+|**2022-10-31**|**High order splitting methods for SDEs satisfying a commutativity condition**|James Foster et.al.|[2210.17543v1](http://arxiv.org/abs/2210.17543v1)|null|
+|**2022-10-31**|**From the EFT of Spinning Gravitating Objects to Poincaré and Gauge Invariance**|Michèle Levi et.al.|[2210.17538v1](http://arxiv.org/abs/2210.17538v1)|null|
+|**2022-10-31**|**Progress in the numerical studies of the type IIB matrix model**|Konstantinos N. Anagnostopoulos et.al.|[2210.17537v1](http://arxiv.org/abs/2210.17537v1)|null|
+|**2022-10-31**|**Constraining modified gravity theories with scalar fields using black-hole images**|Georgios Antoniou et.al.|[2210.17533v1](http://arxiv.org/abs/2210.17533v1)|null|
+|**2022-10-31**|**Rational maps with rational multipliers**|Valentin Huguin et.al.|[2210.17521v1](http://arxiv.org/abs/2210.17521v1)|null|
+|**2022-10-31**|**Asymptotics of quantum channels**|Daniele Amato et.al.|[2210.17513v1](http://arxiv.org/abs/2210.17513v1)|null|
+|**2022-10-31**|**GRaM-X: A new GPU-accelerated dynamical spacetime GRMHD code for Exascale computing with the Einstein Toolkit**|Swapnil Shankar et.al.|[2210.17509v1](http://arxiv.org/abs/2210.17509v1)|null|
+|**2022-10-31**|**Space-fluid Adaptive Sampling by Self-Organisation**|Roberto Casadei et.al.|[2210.17505v1](http://arxiv.org/abs/2210.17505v1)|null|
 |**2022-10-28**|**Logarithmic Regret in Adaptive Control of Noisy Linear Quadratic Regulator Systems Using Hints**|Mohammad Akbari et.al.|[2210.16303v1](http://arxiv.org/abs/2210.16303v1)|null|
 |**2022-10-28**|**Learning Modular Simulations for Homogeneous Systems**|Jayesh K. Gupta et.al.|[2210.16294v1](http://arxiv.org/abs/2210.16294v1)|null|
 |**2022-10-28**|**Projection-based Density Matrix Renormalization Group in Density Functional Theory Embedding**|Pavel Beran et.al.|[2210.16289v1](http://arxiv.org/abs/2210.16289v1)|null|

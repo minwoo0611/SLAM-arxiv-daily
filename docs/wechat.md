@@ -759,6 +759,16 @@
 
 ## Dynamic Object
 
+- 2022-11-01, **A group from a map and orbit equivalence**, Jérôme Los et.al., Paper: [http://arxiv.org/abs/2211.00637v1](http://arxiv.org/abs/2211.00637v1)
+- 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
+- 2022-11-01, **Estimating the Long-term Behavior of Biologically Inspired Agent-based Models**, Daniel A. Cruz et.al., Paper: [http://arxiv.org/abs/2211.00630v1](http://arxiv.org/abs/2211.00630v1)
+- 2022-11-01, **Discovery of a red backsplash galaxy candidate near M81**, Kirsten J. Casey et.al., Paper: [http://arxiv.org/abs/2211.00629v1](http://arxiv.org/abs/2211.00629v1)
+- 2022-11-01, **Asymmetric Hashing for Fast Ranking via Neural Network Measures**, Khoa Doan et.al., Paper: [http://arxiv.org/abs/2211.00619v1](http://arxiv.org/abs/2211.00619v1)
+- 2022-11-01, **Convergence of policy gradient methods for finite-horizon stochastic linear-quadratic control problems**, Michael Giegrich et.al., Paper: [http://arxiv.org/abs/2211.00617v1](http://arxiv.org/abs/2211.00617v1)
+- 2022-11-01, **Quantum Natural Gradient with Efficient Backtracking Line Search**, Touheed Anwar Atif et.al., Paper: [http://arxiv.org/abs/2211.00615v1](http://arxiv.org/abs/2211.00615v1)
+- 2022-11-01, **Building an Acceleration Ladder with Tidal Streams and Pulsar Timing**, Peter Craig et.al., Paper: [http://arxiv.org/abs/2211.00613v1](http://arxiv.org/abs/2211.00613v1)
+- 2022-11-01, **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2211.00611v1](http://arxiv.org/abs/2211.00611v1)
+- 2022-11-01, **Does fluid structure encode predictions of glassy dynamics?**, Tomilola M. Obadiya et.al., Paper: [http://arxiv.org/abs/2211.00604v1](http://arxiv.org/abs/2211.00604v1)
 - 2022-10-31, **Nesterov Meets Optimism: Rate-Optimal Optimistic-Gradient-Based Method for Stochastic Bilinearly-Coupled Minimax Optimization**, Chris Junchi Li et.al., Paper: [http://arxiv.org/abs/2210.17550v1](http://arxiv.org/abs/2210.17550v1)
 - 2022-11-01, **Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**, Saar Tarnopolsky et.al., Paper: [http://arxiv.org/abs/2210.17544v2](http://arxiv.org/abs/2210.17544v2)
 - 2022-11-01, **High order splitting methods for SDEs satisfying a commutativity condition**, James Foster et.al., Paper: [http://arxiv.org/abs/2210.17543v2](http://arxiv.org/abs/2210.17543v2)

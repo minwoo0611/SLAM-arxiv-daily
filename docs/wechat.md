@@ -1,4 +1,4 @@
-> Updated on 2022.11.01
+> Updated on 2022.11.02
 
 ## SLAM
 
@@ -760,10 +760,10 @@
 ## Dynamic Object
 
 - 2022-10-31, **Nesterov Meets Optimism: Rate-Optimal Optimistic-Gradient-Based Method for Stochastic Bilinearly-Coupled Minimax Optimization**, Chris Junchi Li et.al., Paper: [http://arxiv.org/abs/2210.17550v1](http://arxiv.org/abs/2210.17550v1)
-- 2022-10-31, **Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**, Saar Tarnopolsky et.al., Paper: [http://arxiv.org/abs/2210.17544v1](http://arxiv.org/abs/2210.17544v1)
-- 2022-10-31, **High order splitting methods for SDEs satisfying a commutativity condition**, James Foster et.al., Paper: [http://arxiv.org/abs/2210.17543v1](http://arxiv.org/abs/2210.17543v1)
+- 2022-11-01, **Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**, Saar Tarnopolsky et.al., Paper: [http://arxiv.org/abs/2210.17544v2](http://arxiv.org/abs/2210.17544v2)
+- 2022-11-01, **High order splitting methods for SDEs satisfying a commutativity condition**, James Foster et.al., Paper: [http://arxiv.org/abs/2210.17543v2](http://arxiv.org/abs/2210.17543v2)
 - 2022-10-31, **From the EFT of Spinning Gravitating Objects to Poincaré and Gauge Invariance**, Michèle Levi et.al., Paper: [http://arxiv.org/abs/2210.17538v1](http://arxiv.org/abs/2210.17538v1)
-- 2022-10-31, **Progress in the numerical studies of the type IIB matrix model**, Konstantinos N. Anagnostopoulos et.al., Paper: [http://arxiv.org/abs/2210.17537v1](http://arxiv.org/abs/2210.17537v1)
+- 2022-11-01, **Progress in the numerical studies of the type IIB matrix model**, Konstantinos N. Anagnostopoulos et.al., Paper: [http://arxiv.org/abs/2210.17537v2](http://arxiv.org/abs/2210.17537v2)
 - 2022-10-31, **Constraining modified gravity theories with scalar fields using black-hole images**, Georgios Antoniou et.al., Paper: [http://arxiv.org/abs/2210.17533v1](http://arxiv.org/abs/2210.17533v1)
 - 2022-10-31, **Rational maps with rational multipliers**, Valentin Huguin et.al., Paper: [http://arxiv.org/abs/2210.17521v1](http://arxiv.org/abs/2210.17521v1)
 - 2022-10-31, **Asymptotics of quantum channels**, Daniele Amato et.al., Paper: [http://arxiv.org/abs/2210.17513v1](http://arxiv.org/abs/2210.17513v1)

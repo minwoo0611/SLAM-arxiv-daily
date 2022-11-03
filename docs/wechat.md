@@ -1,7 +1,9 @@
-> Updated on 2022.11.02
+> Updated on 2022.11.03
 
 ## SLAM
 
+- 2022-11-02, **Semantic SuperPoint: A Deep Semantic Descriptor**, Gabriel S. Gama et.al., Paper: [http://arxiv.org/abs/2211.01098v1](http://arxiv.org/abs/2211.01098v1)
+- 2022-11-02, **Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**, Myung-Hwan Jeon et.al., Paper: [http://arxiv.org/abs/2211.00960v1](http://arxiv.org/abs/2211.00960v1)
 - 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
 - 2022-10-25, **MAROAM: Map-based Radar SLAM through Two-step Feature Selection**, Dequan Wang et.al., Paper: [http://arxiv.org/abs/2210.13797v1](http://arxiv.org/abs/2210.13797v1)
 - 2022-10-25, **S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**, Dapeng Feng et.al., Paper: [http://arxiv.org/abs/2210.13723v1](http://arxiv.org/abs/2210.13723v1), Code: **[https://github.com/pengyu-team/s3e](https://github.com/pengyu-team/s3e)**
@@ -539,6 +541,10 @@
 
 ## LiDAR
 
+- 2022-11-02, **A comparison of uncertainty estimation approaches for DNN-based camera localization**, Matteo Vaghi et.al., Paper: [http://arxiv.org/abs/2211.01234v1](http://arxiv.org/abs/2211.01234v1)
+- 2022-11-02, **OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**, Yongzhi Su et.al., Paper: [http://arxiv.org/abs/2211.01142v1](http://arxiv.org/abs/2211.01142v1)
+- 2022-11-02, **Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**, Novel Certad et.al., Paper: [http://arxiv.org/abs/2211.01105v1](http://arxiv.org/abs/2211.01105v1)
+- 2022-11-01, **3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds**, Jyoti Kini et.al., Paper: [http://arxiv.org/abs/2211.00746v1](http://arxiv.org/abs/2211.00746v1)
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
 - 2022-10-31, **Point-Syn2Real: Semi-Supervised Synthetic-to-Real Cross-Domain Learning for Object Classification in 3D Point Clouds**, Ziwei Wang et.al., Paper: [http://arxiv.org/abs/2210.17009v1](http://arxiv.org/abs/2210.17009v1)
 - 2022-10-29, **Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**, Youngseok Kim et.al., Paper: [http://arxiv.org/abs/2210.16574v1](http://arxiv.org/abs/2210.16574v1)
@@ -759,6 +765,16 @@
 
 ## Dynamic Object
 
+- 2022-11-02, **Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**, Di Luo et.al., Paper: [http://arxiv.org/abs/2211.01365v1](http://arxiv.org/abs/2211.01365v1)
+- 2022-11-02, **A study of global magnetic helicity in self-consistent spherical dynamos**, Parag Gupta et.al., Paper: [http://arxiv.org/abs/2211.01356v1](http://arxiv.org/abs/2211.01356v1)
+- 2022-11-02, **A New Test for Market Efficiency and Uncovered Interest Parity**, Richard T. Baillie et.al., Paper: [http://arxiv.org/abs/2211.01344v1](http://arxiv.org/abs/2211.01344v1)
+- 2022-11-02, **Predicting phoneme-level prosody latents using AR and flow-based Prior Networks for expressive speech synthesis**, Konstantinos Klapsas et.al., Paper: [http://arxiv.org/abs/2211.01327v1](http://arxiv.org/abs/2211.01327v1)
+- 2022-11-02, **A Joint Framework Towards Class-aware and Class-agnostic Alignment for Few-shot Segmentation**, Kai Huang et.al., Paper: [http://arxiv.org/abs/2211.01310v1](http://arxiv.org/abs/2211.01310v1)
+- 2022-11-02, **Light-induced ultrafast dynamics of spin crossovers in LaCoO3**, Yu. S. Orlov et.al., Paper: [http://arxiv.org/abs/2211.01300v1](http://arxiv.org/abs/2211.01300v1)
+- 2022-11-02, **Contract Composition for Dynamical Control Systems: Definition and Verification using Linear Programming**, Miel Sharf et.al., Paper: [http://arxiv.org/abs/2211.01298v1](http://arxiv.org/abs/2211.01298v1)
+- 2022-11-02, **C3SASR: Cheap Causal Convolutions for Self-Attentive Sequential Recommendation**, Jiayi Chen et.al., Paper: [http://arxiv.org/abs/2211.01297v1](http://arxiv.org/abs/2211.01297v1)
+- 2022-11-02, **Novel results obtained by modeling of dynamic processes in superconductors: phase-slip centers as cooling engines**, Iris Mowgood et.al., Paper: [http://arxiv.org/abs/2211.01286v1](http://arxiv.org/abs/2211.01286v1)
+- 2022-11-02, **Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow**, Luca Banetta et.al., Paper: [http://arxiv.org/abs/2211.01284v1](http://arxiv.org/abs/2211.01284v1)
 - 2022-11-01, **A group from a map and orbit equivalence**, Jérôme Los et.al., Paper: [http://arxiv.org/abs/2211.00637v1](http://arxiv.org/abs/2211.00637v1)
 - 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
 - 2022-11-01, **Estimating the Long-term Behavior of Biologically Inspired Agent-based Models**, Daniel A. Cruz et.al., Paper: [http://arxiv.org/abs/2211.00630v1](http://arxiv.org/abs/2211.00630v1)

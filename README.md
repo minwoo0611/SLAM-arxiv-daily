@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
+|**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
+|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v1](http://arxiv.org/abs/2211.01538v1)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
 |**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
@@ -170,6 +173,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**Along Similar Lines: Local Obstacle Avoidance for Long-term Autonomous Path Following**|Jordy Sehn et.al.|[2211.02047v1](http://arxiv.org/abs/2211.02047v1)|null|
+|**2022-11-03**|**PointSee: Image Enhances Point Cloud**|Lipeng Gu et.al.|[2211.01664v1](http://arxiv.org/abs/2211.01664v1)|null|
+|**2022-11-02**|**Optimizing for periodicity: a model-independent approach to flux crosstalk calibration for superconducting circuits**|X. Dai et.al.|[2211.01497v1](http://arxiv.org/abs/2211.01497v1)|null|
 |**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi et.al.|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su et.al.|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
 |**2022-11-02**|**Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**|Novel Certad et.al.|[2211.01105v1](http://arxiv.org/abs/2211.01105v1)|null|
@@ -396,6 +402,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**Fast and robust Bayesian Inference using Gaussian Processes with GPry**|Jonas El Gammal et.al.|[2211.02045v1](http://arxiv.org/abs/2211.02045v1)|**[link](https://github.com/jonaselgammal/gpry)**|
+|**2022-11-03**|**Competitive Kill-and-Restart Strategies for Non-Clairvoyant Scheduling**|Sven Jäger et.al.|[2211.02044v1](http://arxiv.org/abs/2211.02044v1)|null|
+|**2022-11-03**|**Could Giant Pretrained Image Models Extract Universal Representations?**|Yutong Lin et.al.|[2211.02043v1](http://arxiv.org/abs/2211.02043v1)|null|
+|**2022-11-03**|**Comparison of Matsubara dynamics with exact quantum dynamics for an oscillator coupled to a dissipative bath**|Adam Prada et.al.|[2211.02042v1](http://arxiv.org/abs/2211.02042v1)|null|
+|**2022-11-03**|**Convergence of the logarithm of the characteristic polynomial of unitary Brownian motion to the Gaussian free field**|Johannes Forkel et.al.|[2211.02034v1](http://arxiv.org/abs/2211.02034v1)|null|
+|**2022-11-03**|**Dynamical simulations of carotenoid photoexcited states using density matrix renormalization group techniques**|Dilhan Manawadu et.al.|[2211.02022v1](http://arxiv.org/abs/2211.02022v1)|null|
+|**2022-11-03**|**Extending the analogy between intracellular motion in mammalian cells and glassy dynamics**|B. Corci et.al.|[2211.02019v1](http://arxiv.org/abs/2211.02019v1)|null|
+|**2022-11-03**|**A cryogenic SRAM based arbitrary waveform generator in 14 nm for spin qubit control**|Mridula Prathapan et.al.|[2211.02017v1](http://arxiv.org/abs/2211.02017v1)|null|
+|**2022-11-03**|**A Bayesian inference of relativistic mean-field model for neutron star matter from observation of NICER and GW170817/AT2017gfo**|Zhenyu Zhu et.al.|[2211.02007v1](http://arxiv.org/abs/2211.02007v1)|null|
+|**2022-11-03**|**SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency**|Yang Liu et.al.|[2211.02006v1](http://arxiv.org/abs/2211.02006v1)|null|
 |**2022-11-02**|**Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning**|Di Luo et.al.|[2211.01365v1](http://arxiv.org/abs/2211.01365v1)|null|
 |**2022-11-02**|**A study of global magnetic helicity in self-consistent spherical dynamos**|Parag Gupta et.al.|[2211.01356v1](http://arxiv.org/abs/2211.01356v1)|null|
 |**2022-11-02**|**A New Test for Market Efficiency and Uncovered Interest Parity**|Richard T. Baillie et.al.|[2211.01344v1](http://arxiv.org/abs/2211.01344v1)|null|

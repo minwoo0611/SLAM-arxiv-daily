@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v1](http://arxiv.org/abs/2211.02445v1)|null|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-04**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
@@ -173,6 +174,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-04**|**Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**|Brahayam Ponton et.al.|[2211.02614v1](http://arxiv.org/abs/2211.02614v1)|null|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v1](http://arxiv.org/abs/2211.02445v1)|null|
+|**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
 |**2022-11-03**|**Along Similar Lines: Local Obstacle Avoidance for Long-term Autonomous Path Following**|Jordy Sehn et.al.|[2211.02047v1](http://arxiv.org/abs/2211.02047v1)|null|
 |**2022-11-03**|**PointSee: Image Enhances Point Cloud**|Lipeng Gu et.al.|[2211.01664v1](http://arxiv.org/abs/2211.01664v1)|null|
 |**2022-11-02**|**Optimizing for periodicity: a model-independent approach to flux crosstalk calibration for superconducting circuits**|X. Dai et.al.|[2211.01497v1](http://arxiv.org/abs/2211.01497v1)|null|
@@ -402,6 +406,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-04**|**Neural Grasp Distance Fields for Robot Manipulation**|Thomas Weng et.al.|[2211.02647v1](http://arxiv.org/abs/2211.02647v1)|**[link](https://github.com/facebookresearch/NGDF)**|
+|**2022-11-04**|**Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations**|Baiwei Guo et.al.|[2211.02645v1](http://arxiv.org/abs/2211.02645v1)|null|
+|**2022-11-04**|**Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**|Brahayam Ponton et.al.|[2211.02614v1](http://arxiv.org/abs/2211.02614v1)|null|
+|**2022-11-04**|**Reservoir Computing via Quantum Recurrent Neural Networks**|Samuel Yen-Chi Chen et.al.|[2211.02612v1](http://arxiv.org/abs/2211.02612v1)|null|
+|**2022-11-04**|**Universality of moiré physics in collapsed chiral carbon nanotubes**|Olga Arroyo-Gascón et.al.|[2211.02599v1](http://arxiv.org/abs/2211.02599v1)|null|
+|**2022-11-04**|**A Ferroelectric Tunnel Junction-based Integrate-and-Fire Neuron**|Paolo Gibertini et.al.|[2211.02598v1](http://arxiv.org/abs/2211.02598v1)|null|
+|**2022-11-04**|**Spectral quantization for ancient asymptotically cylindrical flows**|Wenkui Du et.al.|[2211.02595v1](http://arxiv.org/abs/2211.02595v1)|null|
+|**2022-11-04**|**Curiosity search for non-equilibrium behaviors in a dynamically learned order parameter space**|Martin J. Falk et.al.|[2211.02589v1](http://arxiv.org/abs/2211.02589v1)|null|
+|**2022-11-04**|**Velocity-informed upper bounds on the convective heat transport induced by internal heat sources and sinks**|Vincent Bouillaut et.al.|[2211.02587v1](http://arxiv.org/abs/2211.02587v1)|null|
+|**2022-11-04**|**Hamiltonian Quantum Generative Adversarial Networks**|Leeseok Kim et.al.|[2211.02584v1](http://arxiv.org/abs/2211.02584v1)|null|
 |**2022-11-03**|**Fast and robust Bayesian Inference using Gaussian Processes with GPry**|Jonas El Gammal et.al.|[2211.02045v1](http://arxiv.org/abs/2211.02045v1)|**[link](https://github.com/jonaselgammal/gpry)**|
 |**2022-11-03**|**Competitive Kill-and-Restart Strategies for Non-Clairvoyant Scheduling**|Sven Jäger et.al.|[2211.02044v1](http://arxiv.org/abs/2211.02044v1)|null|
 |**2022-11-03**|**Could Giant Pretrained Image Models Extract Universal Representations?**|Yutong Lin et.al.|[2211.02043v1](http://arxiv.org/abs/2211.02043v1)|null|

@@ -179,7 +179,7 @@
 |---|---|---|---|---|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Non-Line-of-Sight Passive Acoustic Localization Around Corners**|Jeremy Boger-Lombard et.al.|[2211.03453v1](http://arxiv.org/abs/2211.03453v1)|null|
-|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|null|
+|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
 |**2022-11-07**|**Multipath Interference Suppression of Amplitude-Modulated Continuous Wave Scanning LiDAR Based on Bayesian-Optimized XGBoost Ensemble**|Sunghyun Lee et.al.|[2211.03381v1](http://arxiv.org/abs/2211.03381v1)|null|
 |**2022-11-04**|**Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**|Brahayam Ponton et.al.|[2211.02614v1](http://arxiv.org/abs/2211.02614v1)|null|
 |**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|

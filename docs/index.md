@@ -418,7 +418,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-07**|**A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**|Duo Xu et.al.|[2211.03781v1](http://arxiv.org/abs/2211.03781v1)|null|
-|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|null|
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|**[link](https://github.com/maitreyapatel/cripp-vqa)**|
 |**2022-11-07**|**Perspective on Reversible to Irreversible Transitions in Periodic Driven Many Body Systems and Future Directions For Classical and Quantum Systems**|C. Reichhardt et.al.|[2211.03775v1](http://arxiv.org/abs/2211.03775v1)|null|
 |**2022-11-07**|**Objective dyspnea evaluation on COVID-19 patients learning from exertion-induced dyspnea scores**|Zijing Zhang et.al.|[2211.03773v1](http://arxiv.org/abs/2211.03773v1)|null|
 |**2022-11-07**|**Optically thick, nonlocal, inhomogeneous, stationary jet model for high-energy radiation from blazars: Application to Mrk 421**|Piotr Banasinski et.al.|[2211.03762v1](http://arxiv.org/abs/2211.03762v1)|null|

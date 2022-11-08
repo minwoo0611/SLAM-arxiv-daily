@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
+|**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
+|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
 |**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
@@ -174,6 +177,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
+|**2022-11-07**|**Non-Line-of-Sight Passive Acoustic Localization Around Corners**|Jeremy Boger-Lombard et.al.|[2211.03453v1](http://arxiv.org/abs/2211.03453v1)|null|
+|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|null|
+|**2022-11-07**|**Multipath Interference Suppression of Amplitude-Modulated Continuous Wave Scanning LiDAR Based on Bayesian-Optimized XGBoost Ensemble**|Sunghyun Lee et.al.|[2211.03381v1](http://arxiv.org/abs/2211.03381v1)|null|
 |**2022-11-04**|**Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**|Brahayam Ponton et.al.|[2211.02614v1](http://arxiv.org/abs/2211.02614v1)|null|
 |**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
 |**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
@@ -406,6 +413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**|Duo Xu et.al.|[2211.03781v1](http://arxiv.org/abs/2211.03781v1)|null|
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|null|
+|**2022-11-07**|**Perspective on Reversible to Irreversible Transitions in Periodic Driven Many Body Systems and Future Directions For Classical and Quantum Systems**|C. Reichhardt et.al.|[2211.03775v1](http://arxiv.org/abs/2211.03775v1)|null|
+|**2022-11-07**|**Objective dyspnea evaluation on COVID-19 patients learning from exertion-induced dyspnea scores**|Zijing Zhang et.al.|[2211.03773v1](http://arxiv.org/abs/2211.03773v1)|null|
+|**2022-11-07**|**Optically thick, nonlocal, inhomogeneous, stationary jet model for high-energy radiation from blazars: Application to Mrk 421**|Piotr Banasinski et.al.|[2211.03762v1](http://arxiv.org/abs/2211.03762v1)|null|
+|**2022-11-07**|**Spectral Independence Beyond Uniqueness using the topological method**|Charilaos Efthymiou et.al.|[2211.03753v1](http://arxiv.org/abs/2211.03753v1)|null|
+|**2022-11-07**|**Monte Carlo Techniques for Addressing Large Errors and Missing Data in Simulation-based Inference**|Bingjie Wang et.al.|[2211.03747v1](http://arxiv.org/abs/2211.03747v1)|null|
+|**2022-11-07**|**AskewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks**|Louis Leconte et.al.|[2211.03741v1](http://arxiv.org/abs/2211.03741v1)|null|
+|**2022-11-07**|**Support expansion $\mathrm C^*$-algebras**|Bruno de Mendonça Braga et.al.|[2211.03739v1](http://arxiv.org/abs/2211.03739v1)|null|
+|**2022-11-07**|**Dark Matter and Galactic Collisions, gravitational lensing and the apparatus of wimps under consideration**|R. Debnath et.al.|[2211.03738v1](http://arxiv.org/abs/2211.03738v1)|null|
 |**2022-11-04**|**Neural Grasp Distance Fields for Robot Manipulation**|Thomas Weng et.al.|[2211.02647v1](http://arxiv.org/abs/2211.02647v1)|**[link](https://github.com/facebookresearch/NGDF)**|
 |**2022-11-07**|**Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations**|Baiwei Guo et.al.|[2211.02645v2](http://arxiv.org/abs/2211.02645v2)|null|
 |**2022-11-04**|**Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**|Brahayam Ponton et.al.|[2211.02614v1](http://arxiv.org/abs/2211.02614v1)|null|

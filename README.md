@@ -418,7 +418,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-08**|**Triple evolution: an important channel in the formation of type Ia supernovae**|Abinaya Swaruba Rajamuthukumar et.al.|[2211.04463v1](http://arxiv.org/abs/2211.04463v1)|null|
-|**2022-11-08**|**A new BART prior for flexible modeling with categorical predictors**|Sameer K. Deshpande et.al.|[2211.04459v1](http://arxiv.org/abs/2211.04459v1)|null|
+|**2022-11-08**|**A new BART prior for flexible modeling with categorical predictors**|Sameer K. Deshpande et.al.|[2211.04459v1](http://arxiv.org/abs/2211.04459v1)|**[link](https://github.com/skdeshpande91/flexbart)**|
 |**2022-11-08**|**Microprocessor Design with Dynamic Clock Source and Multi-Width Instructions**|Keyu Chen et.al.|[2211.04455v1](http://arxiv.org/abs/2211.04455v1)|null|
 |**2022-11-08**|**Developing a data fusion concept for radar and optical ground based SST station**|Bruno Coelho et.al.|[2211.04443v1](http://arxiv.org/abs/2211.04443v1)|null|
 |**2022-11-08**|**Non-singlet quark helicity PDFs of the nucleon from pseudo-distributions**|Robert G. Edwards et.al.|[2211.04434v1](http://arxiv.org/abs/2211.04434v1)|null|

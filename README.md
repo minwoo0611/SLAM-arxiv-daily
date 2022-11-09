@@ -177,6 +177,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta et.al.|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
+|**2022-11-08**|**DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**|Matthew McDermott et.al.|[2211.04047v1](http://arxiv.org/abs/2211.04047v1)|null|
+|**2022-11-08**|**Enhanced Low-resolution LiDAR-Camera Calibration Via Depth Interpolation and Supervised Contrastive Learning**|Zhikang Zhang et.al.|[2211.03932v1](http://arxiv.org/abs/2211.03932v1)|null|
+|**2022-11-07**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v1](http://arxiv.org/abs/2211.03900v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Non-Line-of-Sight Passive Acoustic Localization Around Corners**|Jeremy Boger-Lombard et.al.|[2211.03453v1](http://arxiv.org/abs/2211.03453v1)|null|
 |**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
@@ -413,6 +417,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Triple evolution: an important channel in the formation of type Ia supernovae**|Abinaya Swaruba Rajamuthukumar et.al.|[2211.04463v1](http://arxiv.org/abs/2211.04463v1)|null|
+|**2022-11-08**|**A new BART prior for flexible modeling with categorical predictors**|Sameer K. Deshpande et.al.|[2211.04459v1](http://arxiv.org/abs/2211.04459v1)|null|
+|**2022-11-08**|**Microprocessor Design with Dynamic Clock Source and Multi-Width Instructions**|Keyu Chen et.al.|[2211.04455v1](http://arxiv.org/abs/2211.04455v1)|null|
+|**2022-11-08**|**Developing a data fusion concept for radar and optical ground based SST station**|Bruno Coelho et.al.|[2211.04443v1](http://arxiv.org/abs/2211.04443v1)|null|
+|**2022-11-08**|**Non-singlet quark helicity PDFs of the nucleon from pseudo-distributions**|Robert G. Edwards et.al.|[2211.04434v1](http://arxiv.org/abs/2211.04434v1)|null|
+|**2022-11-08**|**A half-century of international research collaboration dynamism: Congregate or disperse?**|Keisuke Okamura et.al.|[2211.04429v1](http://arxiv.org/abs/2211.04429v1)|null|
+|**2022-11-08**|**Word Order Matters when you Increase Masking**|Karim Lasri et.al.|[2211.04427v1](http://arxiv.org/abs/2211.04427v1)|null|
+|**2022-11-08**|**Automated detection of coronaL MAss ejecta origiNs for space weather AppliCations (ALMANAC)**|Thomas Williams et.al.|[2211.04405v1](http://arxiv.org/abs/2211.04405v1)|null|
+|**2022-11-08**|**An Energy-Based Lengthscale for Reduced Order Models of Turbulent Flows**|Changhong Mou et.al.|[2211.04404v1](http://arxiv.org/abs/2211.04404v1)|null|
+|**2022-11-08**|**Automated CFD shape optimization of stator blades for the PediaFlow pediatric ventricular assist device**|Mansur Zhussupbekov et.al.|[2211.04401v1](http://arxiv.org/abs/2211.04401v1)|null|
 |**2022-11-07**|**A Census of Outflow to Magnetic Field Orientations in Nearby Molecular Clouds**|Duo Xu et.al.|[2211.03781v1](http://arxiv.org/abs/2211.03781v1)|null|
 |**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|**[link](https://github.com/maitreyapatel/cripp-vqa)**|
 |**2022-11-07**|**Perspective on Reversible to Irreversible Transitions in Periodic Driven Many Body Systems and Future Directions For Classical and Quantum Systems**|C. Reichhardt et.al.|[2211.03775v1](http://arxiv.org/abs/2211.03775v1)|null|

@@ -177,6 +177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Better-than-classical Grover search via quantum error detection and suppression**|Bibek Pokharel et.al.|[2211.04543v1](http://arxiv.org/abs/2211.04543v1)|null|
 |**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta et.al.|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
 |**2022-11-08**|**DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**|Matthew McDermott et.al.|[2211.04047v1](http://arxiv.org/abs/2211.04047v1)|null|
 |**2022-11-08**|**Enhanced Low-resolution LiDAR-Camera Calibration Via Depth Interpolation and Supervised Contrastive Learning**|Zhikang Zhang et.al.|[2211.03932v1](http://arxiv.org/abs/2211.03932v1)|null|
@@ -417,6 +418,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-09**|**Asynchronous accretion can mimic diverse white dwarf pollutants I: core and mantle fragments**|Marc G. Brouwers et.al.|[2211.05114v1](http://arxiv.org/abs/2211.05114v1)|null|
+|**2022-11-09**|**Dramatic enhancement of second and third harmonic generation in gold nanogratings in the visible and UV ranges**|S. Mukhopadhyay et.al.|[2211.05111v1](http://arxiv.org/abs/2211.05111v1)|null|
+|**2022-11-09**|**Coupling Semi-Analytic and N-body Galaxies (CoSANG) for cosmological stellar halo simulations I- Methods and the structure of dark matter halos**|Shahram Talei et.al.|[2211.05107v1](http://arxiv.org/abs/2211.05107v1)|null|
+|**2022-11-09**|**Optimal Diophantine Exponents for $\mathrm{SL}(n)$**|Subhajit Jana et.al.|[2211.05106v1](http://arxiv.org/abs/2211.05106v1)|null|
+|**2022-11-09**|**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**|Patrick Schramowski et.al.|[2211.05105v1](http://arxiv.org/abs/2211.05105v1)|null|
+|**2022-11-09**|**Statistical recovery of 21cm visibilities and their power spectra with Gaussian constrained realisations and Gibbs sampling**|Fraser Kennedy et.al.|[2211.05088v1](http://arxiv.org/abs/2211.05088v1)|null|
+|**2022-11-09**|**Generalized Lagrangian Heterogenous Multiscale Modeling of Complex Fluids**|Nicolas Moreno et.al.|[2211.05080v1](http://arxiv.org/abs/2211.05080v1)|null|
+|**2022-11-09**|**Taylor dispersion and phase mixing in the non-cutoff Boltzmann equation on the whole space**|Jacob Bedrossian et.al.|[2211.05079v1](http://arxiv.org/abs/2211.05079v1)|null|
+|**2022-11-09**|**Entropy-stable flux-differencing formulation with Gauss nodes for the DGSEM**|Andrés Mateo-Gabín et.al.|[2211.05066v1](http://arxiv.org/abs/2211.05066v1)|null|
+|**2022-11-09**|**The Mathematical Theory Of Diffusion In Solids: Time Dependent First Kind Boundary Conditions**|Guglielmo Macrelli et.al.|[2211.05065v1](http://arxiv.org/abs/2211.05065v1)|null|
 |**2022-11-08**|**Triple evolution: an important channel in the formation of type Ia supernovae**|Abinaya Swaruba Rajamuthukumar et.al.|[2211.04463v1](http://arxiv.org/abs/2211.04463v1)|null|
 |**2022-11-08**|**A new BART prior for flexible modeling with categorical predictors**|Sameer K. Deshpande et.al.|[2211.04459v1](http://arxiv.org/abs/2211.04459v1)|**[link](https://github.com/skdeshpande91/flexbart)**|
 |**2022-11-08**|**Microprocessor Design with Dynamic Clock Source and Multi-Width Instructions**|Keyu Chen et.al.|[2211.04455v1](http://arxiv.org/abs/2211.04455v1)|null|

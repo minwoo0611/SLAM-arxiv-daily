@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
 - 2022-11-07, **When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**, Gerhard Kurz et.al., Paper: [http://arxiv.org/abs/2211.03484v1](http://arxiv.org/abs/2211.03484v1)
 - 2022-11-07, **Detecting Invalid Map Merges in Lifelong SLAM**, Matthias Holoch et.al., Paper: [http://arxiv.org/abs/2211.03423v1](http://arxiv.org/abs/2211.03423v1)
 - 2022-11-06, **Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**, Yibin Wu et.al., Paper: [http://arxiv.org/abs/2211.03174v1](http://arxiv.org/abs/2211.03174v1)
@@ -548,6 +549,8 @@
 
 ## LiDAR
 
+- 2022-11-10, **Hyperbolic Cosine Transformer for LiDAR 3D Object Detection**, Jigang Tong et.al., Paper: [http://arxiv.org/abs/2211.05580v1](http://arxiv.org/abs/2211.05580v1)
+- 2022-11-10, **onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**, Haoming Zhang et.al., Paper: [http://arxiv.org/abs/2211.05400v1](http://arxiv.org/abs/2211.05400v1)
 - 2022-11-08, **Better-than-classical Grover search via quantum error detection and suppression**, Bibek Pokharel et.al., Paper: [http://arxiv.org/abs/2211.04543v1](http://arxiv.org/abs/2211.04543v1)
 - 2022-11-08, **Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**, Ignacio de L. Páez-Ubieta et.al., Paper: [http://arxiv.org/abs/2211.04085v1](http://arxiv.org/abs/2211.04085v1)
 - 2022-11-08, **DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2211.04047v1](http://arxiv.org/abs/2211.04047v1)
@@ -787,6 +790,16 @@
 
 ## Dynamic Object
 
+- 2022-11-10, **The X-Cube Floquet Code**, Zhehao Zhang et.al., Paper: [http://arxiv.org/abs/2211.05784v1](http://arxiv.org/abs/2211.05784v1)
+- 2022-11-10, **Chemical systems with limit cycles**, Radek Erban et.al., Paper: [http://arxiv.org/abs/2211.05755v1](http://arxiv.org/abs/2211.05755v1)
+- 2022-11-10, **Quantum generalized Calogero-Moser systems from free Hamiltonian reduction**, Katarzyna Kowalczyk-Murynka et.al., Paper: [http://arxiv.org/abs/2211.05751v1](http://arxiv.org/abs/2211.05751v1)
+- 2022-11-10, **Ultrafast formation of topological defects in a 2D charge density wave**, Yun Cheng et.al., Paper: [http://arxiv.org/abs/2211.05748v1](http://arxiv.org/abs/2211.05748v1)
+- 2022-11-10, **Equilibrium solutions of a sessile drop partially covered by another liquid**, Pablo D. Ravazzoli et.al., Paper: [http://arxiv.org/abs/2211.05743v1](http://arxiv.org/abs/2211.05743v1)
+- 2022-11-10, **FedLesScan: Mitigating Stragglers in Serverless Federated Learning**, Mohamed Elzohairy et.al., Paper: [http://arxiv.org/abs/2211.05739v1](http://arxiv.org/abs/2211.05739v1)
+- 2022-11-10, **RAPIDx: High-performance ReRAM Processing in-Memory Accelerator for Sequence Alignment**, Weihong Xu et.al., Paper: [http://arxiv.org/abs/2211.05733v1](http://arxiv.org/abs/2211.05733v1)
+- 2022-11-10, **The Sample Complexity of Online Contract Design**, Banghua Zhu et.al., Paper: [http://arxiv.org/abs/2211.05732v1](http://arxiv.org/abs/2211.05732v1)
+- 2022-11-10, **Simulations with machine learning potentials identify the ion conduction mechanism mediating non-Arrhenius behavior in LGPS**, Gavin Winter et.al., Paper: [http://arxiv.org/abs/2211.05713v1](http://arxiv.org/abs/2211.05713v1)
+- 2022-11-10, **Skyrmion automotion in confined counter-sensor device geometries**, Kilian Leutner et.al., Paper: [http://arxiv.org/abs/2211.05711v1](http://arxiv.org/abs/2211.05711v1)
 - 2022-11-09, **Asynchronous accretion can mimic diverse white dwarf pollutants I: core and mantle fragments**, Marc G. Brouwers et.al., Paper: [http://arxiv.org/abs/2211.05114v1](http://arxiv.org/abs/2211.05114v1)
 - 2022-11-09, **Dramatic enhancement of second and third harmonic generation in gold nanogratings in the visible and UV ranges**, S. Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2211.05111v1](http://arxiv.org/abs/2211.05111v1)
 - 2022-11-09, **Coupling Semi-Analytic and N-body Galaxies (CoSANG) for cosmological stellar halo simulations I- Methods and the structure of dark matter halos**, Shahram Talei et.al., Paper: [http://arxiv.org/abs/2211.05107v1](http://arxiv.org/abs/2211.05107v1)

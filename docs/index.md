@@ -186,7 +186,7 @@ layout: default
 |**2022-11-10**|**onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**|Haoming Zhang et.al.|[2211.05400v1](http://arxiv.org/abs/2211.05400v1)|null|
 |**2022-11-08**|**Better-than-classical Grover search via quantum error detection and suppression**|Bibek Pokharel et.al.|[2211.04543v1](http://arxiv.org/abs/2211.04543v1)|null|
 |**2022-11-08**|**Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**|Ignacio de L. Páez-Ubieta et.al.|[2211.04085v1](http://arxiv.org/abs/2211.04085v1)|null|
-|**2022-11-08**|**DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**|Matthew McDermott et.al.|[2211.04047v1](http://arxiv.org/abs/2211.04047v1)|null|
+|**2022-11-11**|**DNN Filter for Bias Reduction in Distribution-to-Distribution Scan Matching**|Matthew McDermott et.al.|[2211.04047v2](http://arxiv.org/abs/2211.04047v2)|null|
 |**2022-11-08**|**Enhanced Low-resolution LiDAR-Camera Calibration Via Depth Interpolation and Supervised Contrastive Learning**|Zhikang Zhang et.al.|[2211.03932v1](http://arxiv.org/abs/2211.03932v1)|null|
 |**2022-11-09**|**SLICT: Multi-input Multi-scale Surfel-Based Lidar-Inertial Continuous-Time Odometry and Mapping**|Thien-Minh Nguyen et.al.|[2211.03900v2](http://arxiv.org/abs/2211.03900v2)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|

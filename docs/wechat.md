@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-11, **Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2211.05982v1](http://arxiv.org/abs/2211.05982v1)
 - 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
 - 2022-11-07, **When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**, Gerhard Kurz et.al., Paper: [http://arxiv.org/abs/2211.03484v1](http://arxiv.org/abs/2211.03484v1)
 - 2022-11-07, **Detecting Invalid Map Merges in Lifelong SLAM**, Matthias Holoch et.al., Paper: [http://arxiv.org/abs/2211.03423v1](http://arxiv.org/abs/2211.03423v1)
@@ -549,6 +550,10 @@
 
 ## LiDAR
 
+- 2022-11-11, **A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation**, Lokesh Veeramacheneni et.al., Paper: [http://arxiv.org/abs/2211.06241v1](http://arxiv.org/abs/2211.06241v1)
+- 2022-11-11, **RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**, Yanlong Yang et.al., Paper: [http://arxiv.org/abs/2211.06108v1](http://arxiv.org/abs/2211.06108v1)
+- 2022-11-11, **Multi-modal Fusion Technology based on Vehicle Information: A Survey**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2211.06080v1](http://arxiv.org/abs/2211.06080v1)
+- 2022-11-11, **LiDAL: Inter-frame Uncertainty Based Active Learning for 3D LiDAR Semantic Segmentation**, Zeyu Hu et.al., Paper: [http://arxiv.org/abs/2211.05997v1](http://arxiv.org/abs/2211.05997v1), Code: **[https://github.com/hzykent/lidal](https://github.com/hzykent/lidal)**
 - 2022-11-10, **Hyperbolic Cosine Transformer for LiDAR 3D Object Detection**, Jigang Tong et.al., Paper: [http://arxiv.org/abs/2211.05580v1](http://arxiv.org/abs/2211.05580v1)
 - 2022-11-10, **onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**, Haoming Zhang et.al., Paper: [http://arxiv.org/abs/2211.05400v1](http://arxiv.org/abs/2211.05400v1)
 - 2022-11-08, **Better-than-classical Grover search via quantum error detection and suppression**, Bibek Pokharel et.al., Paper: [http://arxiv.org/abs/2211.04543v1](http://arxiv.org/abs/2211.04543v1)
@@ -790,6 +795,16 @@
 
 ## Dynamic Object
 
+- 2022-11-11, **Carrollian hydrodynamics and symplectic structure on stretched horizons**, Laurent Freidel et.al., Paper: [http://arxiv.org/abs/2211.06415v1](http://arxiv.org/abs/2211.06415v1)
+- 2022-11-11, **RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**, Mateus P. Otto et.al., Paper: [http://arxiv.org/abs/2211.06410v1](http://arxiv.org/abs/2211.06410v1)
+- 2022-11-11, **Behaviour Trees for Conversational Explanation Experiences**, Anjana Wijekoon et.al., Paper: [http://arxiv.org/abs/2211.06402v1](http://arxiv.org/abs/2211.06402v1)
+- 2022-11-11, **Close TNO Passages as a Driver of the Origin and Evolution of Ultra-Wide Kuiper Belt Binaries**, Hunter M. Campbell et.al., Paper: [http://arxiv.org/abs/2211.06383v1](http://arxiv.org/abs/2211.06383v1)
+- 2022-11-11, **A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**, Rian Dolphin et.al., Paper: [http://arxiv.org/abs/2211.06378v1](http://arxiv.org/abs/2211.06378v1)
+- 2022-11-11, **Physics-Constrained Deep Learning of Incompressible Cavity Flows**, Christopher J. McDevitt et.al., Paper: [http://arxiv.org/abs/2211.06375v1](http://arxiv.org/abs/2211.06375v1)
+- 2022-11-11, **Adaptive Programmable Networks for In Materia Neuromorphic Computing**, Kilian D. Stenning et.al., Paper: [http://arxiv.org/abs/2211.06373v1](http://arxiv.org/abs/2211.06373v1)
+- 2022-11-11, **Enhancing and Adversarial: Improve ASR with Speaker Labels**, Wei Zhou et.al., Paper: [http://arxiv.org/abs/2211.06369v1](http://arxiv.org/abs/2211.06369v1)
+- 2022-11-11, **Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection**, Yi Yu et.al., Paper: [http://arxiv.org/abs/2211.06368v1](http://arxiv.org/abs/2211.06368v1), Code: **[https://github.com/open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)**
+- 2022-11-11, **The dynamical Franz-Keldysh effect in the deep ultraviolet probed by transient absorption and dispersion of diamond using a miniature beamline**, Jan Reislöhner et.al., Paper: [http://arxiv.org/abs/2211.06364v1](http://arxiv.org/abs/2211.06364v1)
 - 2022-11-10, **The X-Cube Floquet Code**, Zhehao Zhang et.al., Paper: [http://arxiv.org/abs/2211.05784v1](http://arxiv.org/abs/2211.05784v1)
 - 2022-11-10, **Chemical systems with limit cycles**, Radek Erban et.al., Paper: [http://arxiv.org/abs/2211.05755v1](http://arxiv.org/abs/2211.05755v1)
 - 2022-11-10, **Quantum generalized Calogero-Moser systems from free Hamiltonian reduction**, Katarzyna Kowalczyk-Murynka et.al., Paper: [http://arxiv.org/abs/2211.05751v1](http://arxiv.org/abs/2211.05751v1)

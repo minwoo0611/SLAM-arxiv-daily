@@ -796,7 +796,7 @@
 ## Dynamic Object
 
 - 2022-11-11, **Carrollian hydrodynamics and symplectic structure on stretched horizons**, Laurent Freidel et.al., Paper: [http://arxiv.org/abs/2211.06415v1](http://arxiv.org/abs/2211.06415v1)
-- 2022-11-11, **RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**, Mateus P. Otto et.al., Paper: [http://arxiv.org/abs/2211.06410v1](http://arxiv.org/abs/2211.06410v1)
+- 2022-11-11, **RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**, Mateus P. Otto et.al., Paper: [http://arxiv.org/abs/2211.06410v1](http://arxiv.org/abs/2211.06410v1), Code: **[https://github.com/mpotto/pyselect](https://github.com/mpotto/pyselect)**
 - 2022-11-11, **Behaviour Trees for Conversational Explanation Experiences**, Anjana Wijekoon et.al., Paper: [http://arxiv.org/abs/2211.06402v1](http://arxiv.org/abs/2211.06402v1)
 - 2022-11-11, **Close TNO Passages as a Driver of the Origin and Evolution of Ultra-Wide Kuiper Belt Binaries**, Hunter M. Campbell et.al., Paper: [http://arxiv.org/abs/2211.06383v1](http://arxiv.org/abs/2211.06383v1)
 - 2022-11-11, **A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**, Rian Dolphin et.al., Paper: [http://arxiv.org/abs/2211.06378v1](http://arxiv.org/abs/2211.06378v1)

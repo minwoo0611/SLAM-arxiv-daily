@@ -442,7 +442,7 @@ layout: default
 |**2022-11-14**|**Towards Data-Driven Offline Simulations for Online Reinforcement Learning**|Shengpu Tang et.al.|[2211.07614v1](http://arxiv.org/abs/2211.07614v1)|null|
 |**2022-11-14**|**Fundamentally Understanding and Solving RowHammer**|Onur Mutlu et.al.|[2211.07613v1](http://arxiv.org/abs/2211.07613v1)|null|
 |**2022-11-14**|**The SNAD Viewer: Everything You Want to Know about Your Favorite ZTF Object**|Konstantin Malanchev et.al.|[2211.07605v1](http://arxiv.org/abs/2211.07605v1)|null|
-|**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|null|
+|**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|**[link](https://github.com/eladrich/latent-nerf)**|
 |**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
 |**2022-11-11**|**Carrollian hydrodynamics and symplectic structure on stretched horizons**|Laurent Freidel et.al.|[2211.06415v1](http://arxiv.org/abs/2211.06415v1)|null|
 |**2022-11-11**|**RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**|Mateus P. Otto et.al.|[2211.06410v1](http://arxiv.org/abs/2211.06410v1)|**[link](https://github.com/mpotto/pyselect)**|

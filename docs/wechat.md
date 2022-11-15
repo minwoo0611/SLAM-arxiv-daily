@@ -800,7 +800,7 @@
 ## Dynamic Object
 
 - 2022-11-14, **Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**, Kenta Kiuchi et.al., Paper: [http://arxiv.org/abs/2211.07637v1](http://arxiv.org/abs/2211.07637v1)
-- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1)
+- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1), Code: **[https://github.com/baaivision/eva](https://github.com/baaivision/eva)**
 - 2022-11-14, **Exploratory Control with Tsallis Entropy for Latent Factor Models**, Ryan Donnelly et.al., Paper: [http://arxiv.org/abs/2211.07622v1](http://arxiv.org/abs/2211.07622v1)
 - 2022-11-14, **Étale categories, restriction semigroups, and their operator algebras**, Gilles G. de Castro et.al., Paper: [http://arxiv.org/abs/2211.07618v1](http://arxiv.org/abs/2211.07618v1)
 - 2022-11-14, **Between News and History: Identifying Networked Topics of Collective Attention on Wikipedia**, Patrick Gildersleve et.al., Paper: [http://arxiv.org/abs/2211.07616v1](http://arxiv.org/abs/2211.07616v1)

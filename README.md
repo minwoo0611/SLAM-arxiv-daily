@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
+|**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
@@ -179,6 +182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Hong et.al.|[2211.07171v1](http://arxiv.org/abs/2211.07171v1)|null|
 |**2022-11-11**|**A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation**|Lokesh Veeramacheneni et.al.|[2211.06241v1](http://arxiv.org/abs/2211.06241v1)|null|
 |**2022-11-11**|**RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**|Yanlong Yang et.al.|[2211.06108v1](http://arxiv.org/abs/2211.06108v1)|null|
 |**2022-11-11**|**Multi-modal Fusion Technology based on Vehicle Information: A Survey**|Yan Gong et.al.|[2211.06080v1](http://arxiv.org/abs/2211.06080v1)|null|
@@ -426,6 +430,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**|Kenta Kiuchi et.al.|[2211.07637v1](http://arxiv.org/abs/2211.07637v1)|null|
+|**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|null|
+|**2022-11-14**|**Exploratory Control with Tsallis Entropy for Latent Factor Models**|Ryan Donnelly et.al.|[2211.07622v1](http://arxiv.org/abs/2211.07622v1)|null|
+|**2022-11-14**|**Étale categories, restriction semigroups, and their operator algebras**|Gilles G. de Castro et.al.|[2211.07618v1](http://arxiv.org/abs/2211.07618v1)|null|
+|**2022-11-14**|**Between News and History: Identifying Networked Topics of Collective Attention on Wikipedia**|Patrick Gildersleve et.al.|[2211.07616v1](http://arxiv.org/abs/2211.07616v1)|null|
+|**2022-11-14**|**Towards Data-Driven Offline Simulations for Online Reinforcement Learning**|Shengpu Tang et.al.|[2211.07614v1](http://arxiv.org/abs/2211.07614v1)|null|
+|**2022-11-14**|**Fundamentally Understanding and Solving RowHammer**|Onur Mutlu et.al.|[2211.07613v1](http://arxiv.org/abs/2211.07613v1)|null|
+|**2022-11-14**|**The SNAD Viewer: Everything You Want to Know about Your Favorite ZTF Object**|Konstantin Malanchev et.al.|[2211.07605v1](http://arxiv.org/abs/2211.07605v1)|null|
+|**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|null|
+|**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
 |**2022-11-11**|**Carrollian hydrodynamics and symplectic structure on stretched horizons**|Laurent Freidel et.al.|[2211.06415v1](http://arxiv.org/abs/2211.06415v1)|null|
 |**2022-11-11**|**RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**|Mateus P. Otto et.al.|[2211.06410v1](http://arxiv.org/abs/2211.06410v1)|**[link](https://github.com/mpotto/pyselect)**|
 |**2022-11-11**|**Behaviour Trees for Conversational Explanation Experiences**|Anjana Wijekoon et.al.|[2211.06402v1](http://arxiv.org/abs/2211.06402v1)|null|

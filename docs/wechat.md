@@ -553,6 +553,11 @@
 
 ## LiDAR
 
+- 2022-11-15, **Data-Driven Occupancy Grid Mapping using Synthetic and Real-World Data**, Raphael van Kempen et.al., Paper: [http://arxiv.org/abs/2211.08278v1](http://arxiv.org/abs/2211.08278v1)
+- 2022-11-15, **3D Cascade RCNN: High Quality Object Detection in Point Clouds**, Qi Cai et.al., Paper: [http://arxiv.org/abs/2211.08248v1](http://arxiv.org/abs/2211.08248v1), Code: **[https://github.com/caiqi/cascasde-3d](https://github.com/caiqi/cascasde-3d)**
+- 2022-11-15, **Monocular BEV Perception of Road Scenes via Front-to-Top View Projection**, Wenxi Liu et.al., Paper: [http://arxiv.org/abs/2211.08144v1](http://arxiv.org/abs/2211.08144v1)
+- 2022-11-15, **PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2211.08055v1](http://arxiv.org/abs/2211.08055v1)
+- 2022-11-15, **Drone-based Volume Estimation in Indoor Environments**, Samuel Balula et.al., Paper: [http://arxiv.org/abs/2211.08013v1](http://arxiv.org/abs/2211.08013v1)
 - 2022-11-14, **Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**, Yu Hong et.al., Paper: [http://arxiv.org/abs/2211.07171v1](http://arxiv.org/abs/2211.07171v1), Code: **[https://github.com/Cc-Hy/CMKD](https://github.com/Cc-Hy/CMKD)**
 - 2022-11-11, **A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation**, Lokesh Veeramacheneni et.al., Paper: [http://arxiv.org/abs/2211.06241v1](http://arxiv.org/abs/2211.06241v1)
 - 2022-11-11, **RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**, Yanlong Yang et.al., Paper: [http://arxiv.org/abs/2211.06108v1](http://arxiv.org/abs/2211.06108v1)
@@ -799,6 +804,16 @@
 
 ## Dynamic Object
 
+- 2022-11-15, **The inefficiency of stellar feedback in driving galactic outflows in massive galaxies at high redshift**, L. Bassini et.al., Paper: [http://arxiv.org/abs/2211.08423v1](http://arxiv.org/abs/2211.08423v1)
+- 2022-11-15, **Far-from-equilibrium universality in two-dimensional Heisenberg antiferromagnets**, Zhaoyi Li et.al., Paper: [http://arxiv.org/abs/2211.08392v1](http://arxiv.org/abs/2211.08392v1)
+- 2022-11-15, **Photometric identification of compact galaxies, stars and quasars using multiple neural networks**, Siddharth Chaini et.al., Paper: [http://arxiv.org/abs/2211.08388v1](http://arxiv.org/abs/2211.08388v1)
+- 2022-11-15, **CardiacGen: A Hierarchical Deep Generative Model for Cardiac Signals**, Tushar Agarwal et.al., Paper: [http://arxiv.org/abs/2211.08385v1](http://arxiv.org/abs/2211.08385v1), Code: **[https://github.com/SENSE-Lab-OSU/cardiac_gen_model](https://github.com/SENSE-Lab-OSU/cardiac_gen_model)**
+- 2022-11-15, **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**, Ali Behrouz et.al., Paper: [http://arxiv.org/abs/2211.08378v1](http://arxiv.org/abs/2211.08378v1), Code: **[https://github.com/ubc-systopia/anomuly](https://github.com/ubc-systopia/anomuly)**
+- 2022-11-15, **A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters**, Giulia Gianfagna et.al., Paper: [http://arxiv.org/abs/2211.08372v1](http://arxiv.org/abs/2211.08372v1)
+- 2022-11-15, **Methodological proposal to identify the nationality of Twitter users through Random-Forests**, Damián Quijano et.al., Paper: [http://arxiv.org/abs/2211.08370v1](http://arxiv.org/abs/2211.08370v1)
+- 2022-11-15, **Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**, Josip Jukić et.al., Paper: [http://arxiv.org/abs/2211.08369v1](http://arxiv.org/abs/2211.08369v1)
+- 2022-11-15, **Classifying text using machine learning models and determining conversation drift**, Chaitanya Chadha et.al., Paper: [http://arxiv.org/abs/2211.08365v1](http://arxiv.org/abs/2211.08365v1)
+- 2022-11-15, **An environmental disturbance observer framework for autonomous ships**, Daniel Menges et.al., Paper: [http://arxiv.org/abs/2211.08360v1](http://arxiv.org/abs/2211.08360v1)
 - 2022-11-14, **Self-consistent picture of the mass ejection from a one second-long binary neutron star merger leaving a short-lived remnant in general-relativistic neutrino-radiation magnetohydrodynamic simulation**, Kenta Kiuchi et.al., Paper: [http://arxiv.org/abs/2211.07637v1](http://arxiv.org/abs/2211.07637v1)
 - 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1), Code: **[https://github.com/baaivision/eva](https://github.com/baaivision/eva)**
 - 2022-11-14, **Exploratory Control with Tsallis Entropy for Latent Factor Models**, Ryan Donnelly et.al., Paper: [http://arxiv.org/abs/2211.07622v1](http://arxiv.org/abs/2211.07622v1)

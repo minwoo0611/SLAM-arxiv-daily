@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 - 2022-11-14, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v1](http://arxiv.org/abs/2211.07365v1), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
 - 2022-11-13, **Automatic Eye-in-Hand Calibration using EKF**, Aditya Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2211.06881v1](http://arxiv.org/abs/2211.06881v1)
 - 2022-11-12, **Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**, Zhihao Wang et.al., Paper: [http://arxiv.org/abs/2211.06557v1](http://arxiv.org/abs/2211.06557v1)
@@ -553,7 +554,10 @@
 
 ## LiDAR
 
-- 2022-11-15, **Data-Driven Occupancy Grid Mapping using Synthetic and Real-World Data**, Raphael van Kempen et.al., Paper: [http://arxiv.org/abs/2211.08278v1](http://arxiv.org/abs/2211.08278v1)
+- 2022-11-16, **Convective boundary layer sensible and latent heat flux lidar observations and towards new model parametrizations**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08785v1](http://arxiv.org/abs/2211.08785v1)
+- 2022-11-16, **A wind, temperature, H$_2$O and CO$_2$ scanning lidar mobile observatory for a 3D thermodynamic view of the atmosphere**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08765v1](http://arxiv.org/abs/2211.08765v1)
+- 2022-11-16, **Towards Long-Tailed 3D Detection**, Neehar Peri et.al., Paper: [http://arxiv.org/abs/2211.08691v1](http://arxiv.org/abs/2211.08691v1)
+- 2022-11-15, **Data-Driven Occupancy Grid Mapping using Synthetic and Real-World Data**, Raphael van Kempen et.al., Paper: [http://arxiv.org/abs/2211.08278v1](http://arxiv.org/abs/2211.08278v1), Code: **[https://github.com/ika-rwth-aachen/devilog](https://github.com/ika-rwth-aachen/devilog)**
 - 2022-11-15, **3D Cascade RCNN: High Quality Object Detection in Point Clouds**, Qi Cai et.al., Paper: [http://arxiv.org/abs/2211.08248v1](http://arxiv.org/abs/2211.08248v1), Code: **[https://github.com/caiqi/cascasde-3d](https://github.com/caiqi/cascasde-3d)**
 - 2022-11-15, **Monocular BEV Perception of Road Scenes via Front-to-Top View Projection**, Wenxi Liu et.al., Paper: [http://arxiv.org/abs/2211.08144v1](http://arxiv.org/abs/2211.08144v1)
 - 2022-11-15, **PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2211.08055v1](http://arxiv.org/abs/2211.08055v1)
@@ -804,6 +808,16 @@
 
 ## Dynamic Object
 
+- 2022-11-16, **Real-time quantum error correction beyond break-even**, V. V. Sivak et.al., Paper: [http://arxiv.org/abs/2211.09116v1](http://arxiv.org/abs/2211.09116v1)
+- 2022-11-16, **Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**, Srikanta Pal et.al., Paper: [http://arxiv.org/abs/2211.09112v1](http://arxiv.org/abs/2211.09112v1)
+- 2022-11-16, **Global impact of emerging internetwork fields on the low solar atmosphere**, Milan Gošić et.al., Paper: [http://arxiv.org/abs/2211.09111v1](http://arxiv.org/abs/2211.09111v1)
+- 2022-11-16, **Robust Online Video Instance Segmentation with Track Queries**, Zitong Zhan et.al., Paper: [http://arxiv.org/abs/2211.09108v1](http://arxiv.org/abs/2211.09108v1)
+- 2022-11-16, **The Naval Seafloor Evolution Architecture: A Platform for Predicting Dynamic Seafloor Roughness**, William S. Kearney et.al., Paper: [http://arxiv.org/abs/2211.09092v1](http://arxiv.org/abs/2211.09092v1)
+- 2022-11-16, **Optimised Bayesian system identification in quantum devices**, Thomas M. Stace et.al., Paper: [http://arxiv.org/abs/2211.09090v1](http://arxiv.org/abs/2211.09090v1)
+- 2022-11-16, **Online convex optimization for constrained control of linear systems using a reference governor**, Marko Nonhoff et.al., Paper: [http://arxiv.org/abs/2211.09088v1](http://arxiv.org/abs/2211.09088v1)
+- 2022-11-16, **Single scan STEM-EMCD in 3-beam orientation using a quadruple aperture**, Hasan Ali et.al., Paper: [http://arxiv.org/abs/2211.09087v1](http://arxiv.org/abs/2211.09087v1)
+- 2022-11-16, **Observability of signatures of transport-induced chemistry in clear atmospheres of hot gas giant exoplanets**, Maria Zamyatina et.al., Paper: [http://arxiv.org/abs/2211.09071v1](http://arxiv.org/abs/2211.09071v1)
+- 2022-11-16, **Egocentric Hand-object Interaction Detection**, Yao Lu et.al., Paper: [http://arxiv.org/abs/2211.09067v1](http://arxiv.org/abs/2211.09067v1)
 - 2022-11-15, **The inefficiency of stellar feedback in driving galactic outflows in massive galaxies at high redshift**, L. Bassini et.al., Paper: [http://arxiv.org/abs/2211.08423v1](http://arxiv.org/abs/2211.08423v1)
 - 2022-11-15, **Far-from-equilibrium universality in two-dimensional Heisenberg antiferromagnets**, Zhaoyi Li et.al., Paper: [http://arxiv.org/abs/2211.08392v1](http://arxiv.org/abs/2211.08392v1)
 - 2022-11-15, **Photometric identification of compact galaxies, stars and quasars using multiple neural networks**, Siddharth Chaini et.al., Paper: [http://arxiv.org/abs/2211.08388v1](http://arxiv.org/abs/2211.08388v1)

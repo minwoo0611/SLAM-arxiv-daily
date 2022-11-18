@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 - 2022-11-14, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v1](http://arxiv.org/abs/2211.07365v1), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
 - 2022-11-13, **Automatic Eye-in-Hand Calibration using EKF**, Aditya Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2211.06881v1](http://arxiv.org/abs/2211.06881v1)
@@ -554,6 +555,13 @@
 
 ## LiDAR
 
+- 2022-11-17, **Proactively Predicting Dynamic 6G Link Blockages Using LiDAR and In-Band Signatures**, Shunyao Wu et.al., Paper: [http://arxiv.org/abs/2211.09535v1](http://arxiv.org/abs/2211.09535v1)
+- 2022-11-17, **ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**, Yiyang Shen et.al., Paper: [http://arxiv.org/abs/2211.09518v1](http://arxiv.org/abs/2211.09518v1)
+- 2022-11-17, **aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**, Tamás Matuszka et.al., Paper: [http://arxiv.org/abs/2211.09445v1](http://arxiv.org/abs/2211.09445v1)
+- 2022-11-17, **BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection**, Zehui Chen et.al., Paper: [http://arxiv.org/abs/2211.09386v1](http://arxiv.org/abs/2211.09386v1), Code: **[https://github.com/zehuichen123/bevdistill](https://github.com/zehuichen123/bevdistill)**
+- 2022-11-17, **Estimation of physical activities of people in offices from time-series point-cloud data**, Koki Kizawa et.al., Paper: [http://arxiv.org/abs/2211.09334v1](http://arxiv.org/abs/2211.09334v1)
+- 2022-11-17, **You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning**, Jieqi Shi et.al., Paper: [http://arxiv.org/abs/2211.09302v1](http://arxiv.org/abs/2211.09302v1)
+- 2022-11-16, **Occlusion-Aware MPC for Guaranteed Safe Robot Navigation with Unseen Dynamic Obstacles**, Roya Firoozi et.al., Paper: [http://arxiv.org/abs/2211.09156v1](http://arxiv.org/abs/2211.09156v1)
 - 2022-11-16, **Convective boundary layer sensible and latent heat flux lidar observations and towards new model parametrizations**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08785v1](http://arxiv.org/abs/2211.08785v1)
 - 2022-11-16, **A wind, temperature, H$_2$O and CO$_2$ scanning lidar mobile observatory for a 3D thermodynamic view of the atmosphere**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08765v1](http://arxiv.org/abs/2211.08765v1)
 - 2022-11-16, **Towards Long-Tailed 3D Detection**, Neehar Peri et.al., Paper: [http://arxiv.org/abs/2211.08691v1](http://arxiv.org/abs/2211.08691v1)
@@ -808,6 +816,16 @@
 
 ## Dynamic Object
 
+- 2022-11-17, **SPACEx: Speech-driven Portrait Animation with Controllable Expression**, Siddharth Gururani et.al., Paper: [http://arxiv.org/abs/2211.09809v1](http://arxiv.org/abs/2211.09809v1)
+- 2022-11-17, **Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**, Weijie Su et.al., Paper: [http://arxiv.org/abs/2211.09807v1](http://arxiv.org/abs/2211.09807v1)
+- 2022-11-17, **Programmable photonic system for quantum simulation in arbitrary topologies**, Ben Bartlett et.al., Paper: [http://arxiv.org/abs/2211.09805v1](http://arxiv.org/abs/2211.09805v1)
+- 2022-11-17, **MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.09791v1](http://arxiv.org/abs/2211.09791v1), Code: **[https://github.com/megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2)**
+- 2022-11-17, **ConStruct-VL: Data-Free Continual Structured VL Concepts Learning**, James Seale Smith et.al., Paper: [http://arxiv.org/abs/2211.09790v1](http://arxiv.org/abs/2211.09790v1)
+- 2022-11-17, **Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**, Hasan Bahcivan et.al., Paper: [http://arxiv.org/abs/2211.09789v1](http://arxiv.org/abs/2211.09789v1)
+- 2022-11-17, **DiffusionDet: Diffusion Model for Object Detection**, Shoufa Chen et.al., Paper: [http://arxiv.org/abs/2211.09788v1](http://arxiv.org/abs/2211.09788v1), Code: **[https://github.com/shoufachen/diffusiondet](https://github.com/shoufachen/diffusiondet)**
+- 2022-11-17, **Auction-based Operation in LEO Satellite Systems for High-Efficiency Communications**, Lin Cheng et.al., Paper: [http://arxiv.org/abs/2211.09787v1](http://arxiv.org/abs/2211.09787v1)
+- 2022-11-17, **SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields**, Anthony Simeonov et.al., Paper: [http://arxiv.org/abs/2211.09786v1](http://arxiv.org/abs/2211.09786v1)
+- 2022-11-17, **Time-Varying Multi-Objective Optimization: Tradeoff Regret Bounds**, Allahkaram Shafiei et.al., Paper: [http://arxiv.org/abs/2211.09774v1](http://arxiv.org/abs/2211.09774v1)
 - 2022-11-16, **Real-time quantum error correction beyond break-even**, V. V. Sivak et.al., Paper: [http://arxiv.org/abs/2211.09116v1](http://arxiv.org/abs/2211.09116v1)
 - 2022-11-16, **Reconstruction of full sky CMB E and B modes spectra removing E-to-B leakage from partial sky using deep learning**, Srikanta Pal et.al., Paper: [http://arxiv.org/abs/2211.09112v1](http://arxiv.org/abs/2211.09112v1)
 - 2022-11-16, **Global impact of emerging internetwork fields on the low solar atmosphere**, Milan Gošić et.al., Paper: [http://arxiv.org/abs/2211.09111v1](http://arxiv.org/abs/2211.09111v1)

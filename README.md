@@ -184,6 +184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-18**|**Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information**|Ahmed Ben Saad et.al.|[2211.10177v1](http://arxiv.org/abs/2211.10177v1)|null|
+|**2022-11-18**|**LiSnowNet: Real-time Snow Removal for LiDAR Point Cloud**|Ming-Yuan Yu et.al.|[2211.10023v1](http://arxiv.org/abs/2211.10023v1)|null|
 |**2022-11-17**|**Proactively Predicting Dynamic 6G Link Blockages Using LiDAR and In-Band Signatures**|Shunyao Wu et.al.|[2211.09535v1](http://arxiv.org/abs/2211.09535v1)|null|
 |**2022-11-17**|**ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**|Yiyang Shen et.al.|[2211.09518v1](http://arxiv.org/abs/2211.09518v1)|null|
 |**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|**[link](https://github.com/aimotive/aimotive_dataset)**|
@@ -447,6 +449,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-18**|**Real time evolution of Anderson impurity models via tensor network influence functionals**|Nathan Ng et.al.|[2211.10430v1](http://arxiv.org/abs/2211.10430v1)|null|
+|**2022-11-18**|**Interface Capturing Flow Boiling Simulations in a Compact Heat Exchanger**|Anna Iskhakova et.al.|[2211.10429v1](http://arxiv.org/abs/2211.10429v1)|null|
+|**2022-11-18**|**Quantum theory of light-driven coherent lattice dynamics**|Fabio Caruso et.al.|[2211.10424v1](http://arxiv.org/abs/2211.10424v1)|null|
+|**2022-11-18**|**Mirror Sinkhorn: Fast Online Optimization on Transport Polytopes**|Marin Ballu et.al.|[2211.10420v1](http://arxiv.org/abs/2211.10420v1)|null|
+|**2022-11-18**|**Inverse Design of Nanophotonic Devices using Dynamic Binarization**|Marco Butz et.al.|[2211.10416v1](http://arxiv.org/abs/2211.10416v1)|null|
+|**2022-11-18**|**CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval**|Minghan Li et.al.|[2211.10411v1](http://arxiv.org/abs/2211.10411v1)|**[link](https://github.com/facebookresearch/dpr-scale)**|
+|**2022-11-18**|**Materials Science Ontology Design with an Analytico-Synthetic Facet Analysis Framework**|Jane Greenberg et.al.|[2211.10407v1](http://arxiv.org/abs/2211.10407v1)|null|
+|**2022-11-18**|**Unitarized one-loop graviton-graviton scattering**|Rafael L. Delgado et.al.|[2211.10406v1](http://arxiv.org/abs/2211.10406v1)|null|
+|**2022-11-18**|**Bandwidth and visibility improvement in detection of a weak signal using mode entanglement and swapping**|Yue Jiang et.al.|[2211.10403v1](http://arxiv.org/abs/2211.10403v1)|null|
+|**2022-11-18**|**Tsallis holographic dark energy under Complex form of Quintessence model**|J. Sadeghi et.al.|[2211.10401v1](http://arxiv.org/abs/2211.10401v1)|null|
 |**2022-11-17**|**SPACEx: Speech-driven Portrait Animation with Controllable Expression**|Siddharth Gururani et.al.|[2211.09809v1](http://arxiv.org/abs/2211.09809v1)|null|
 |**2022-11-17**|**Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**|Weijie Su et.al.|[2211.09807v1](http://arxiv.org/abs/2211.09807v1)|null|
 |**2022-11-17**|**Programmable photonic system for quantum simulation in arbitrary topologies**|Ben Bartlett et.al.|[2211.09805v1](http://arxiv.org/abs/2211.09805v1)|**[link](https://github.com/fancompute/synthetic-hamiltonians)**|

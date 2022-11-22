@@ -4,7 +4,7 @@
 
 - 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
-- 2022-11-14, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v1](http://arxiv.org/abs/2211.07365v1), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
+- 2022-11-20, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v2](http://arxiv.org/abs/2211.07365v2), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
 - 2022-11-13, **Automatic Eye-in-Hand Calibration using EKF**, Aditya Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2211.06881v1](http://arxiv.org/abs/2211.06881v1)
 - 2022-11-12, **Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**, Zhihao Wang et.al., Paper: [http://arxiv.org/abs/2211.06557v1](http://arxiv.org/abs/2211.06557v1)
 - 2022-11-11, **Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2211.05982v1](http://arxiv.org/abs/2211.05982v1)
@@ -818,7 +818,7 @@
 
 ## Dynamic Object
 
-- 2022-11-18, **Real time evolution of Anderson impurity models via tensor network influence functionals**, Nathan Ng et.al., Paper: [http://arxiv.org/abs/2211.10430v1](http://arxiv.org/abs/2211.10430v1)
+- 2022-11-21, **Real time evolution of Anderson impurity models via tensor network influence functionals**, Nathan Ng et.al., Paper: [http://arxiv.org/abs/2211.10430v2](http://arxiv.org/abs/2211.10430v2)
 - 2022-11-18, **Interface Capturing Flow Boiling Simulations in a Compact Heat Exchanger**, Anna Iskhakova et.al., Paper: [http://arxiv.org/abs/2211.10429v1](http://arxiv.org/abs/2211.10429v1)
 - 2022-11-18, **Quantum theory of light-driven coherent lattice dynamics**, Fabio Caruso et.al., Paper: [http://arxiv.org/abs/2211.10424v1](http://arxiv.org/abs/2211.10424v1)
 - 2022-11-18, **Mirror Sinkhorn: Fast Online Optimization on Transport Polytopes**, Marin Ballu et.al., Paper: [http://arxiv.org/abs/2211.10420v1](http://arxiv.org/abs/2211.10420v1)

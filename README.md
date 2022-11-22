@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
@@ -184,6 +185,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou et.al.|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
+|**2022-11-21**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v1](http://arxiv.org/abs/2211.11175v1)|null|
+|**2022-11-20**|**DesNet: Decomposed Scale-Consistent Network for Unsupervised Depth Completion**|Zhiqiang Yan et.al.|[2211.10994v1](http://arxiv.org/abs/2211.10994v1)|null|
+|**2022-11-20**|**Context-Aware Data Augmentation for LIDAR 3D Object Detection**|Xuzhong Hu et.al.|[2211.10850v1](http://arxiv.org/abs/2211.10850v1)|null|
+|**2022-11-19**|**MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs**|Fanze Kong et.al.|[2211.10716v1](http://arxiv.org/abs/2211.10716v1)|null|
+|**2022-11-19**|**LIDAR GAIT: Benchmarking 3D Gait Recognition with Point Clouds**|Chuanfu Shen et.al.|[2211.10598v1](http://arxiv.org/abs/2211.10598v1)|null|
+|**2022-11-19**|**Normal Transformer: Extracting Surface Geometry from LiDAR Points Enhanced by Visual Semantics**|Ancheng Lin et.al.|[2211.10580v1](http://arxiv.org/abs/2211.10580v1)|null|
 |**2022-11-18**|**Improving Pixel-Level Contrastive Learning by Leveraging Exogenous Depth Information**|Ahmed Ben Saad et.al.|[2211.10177v1](http://arxiv.org/abs/2211.10177v1)|null|
 |**2022-11-18**|**LiSnowNet: Real-time Snow Removal for LiDAR Point Cloud**|Ming-Yuan Yu et.al.|[2211.10023v1](http://arxiv.org/abs/2211.10023v1)|null|
 |**2022-11-17**|**Proactively Predicting Dynamic 6G Link Blockages Using LiDAR and In-Band Signatures**|Shunyao Wu et.al.|[2211.09535v1](http://arxiv.org/abs/2211.09535v1)|null|
@@ -449,6 +457,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
+|**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
+|**2022-11-21**|**Sensor Placement for Online Fault Diagnosis**|Dhananjay Raju et.al.|[2211.11741v1](http://arxiv.org/abs/2211.11741v1)|null|
+|**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
+|**2022-11-21**|**Teaching Structured Vision&Language Concepts to Vision&Language Models**|Sivan Doveh et.al.|[2211.11733v1](http://arxiv.org/abs/2211.11733v1)|null|
+|**2022-11-21**|**A Review on Contact and Collision Methods for Multi-body Hydrodynamic problems in Complex Flows**|Sajjad Karimnejad et.al.|[2211.11728v1](http://arxiv.org/abs/2211.11728v1)|null|
+|**2022-11-21**|**Neural tangent kernel analysis of PINN for advection-diffusion equation**|M. H. Saadat et.al.|[2211.11716v1](http://arxiv.org/abs/2211.11716v1)|null|
+|**2022-11-21**|**Adaptive Stochastic Optimisation of Nonconvex Composite Objectives**|Weijia Shao et.al.|[2211.11710v1](http://arxiv.org/abs/2211.11710v1)|null|
+|**2022-11-21**|**A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**|E. Pérez-Montero et.al.|[2211.11707v1](http://arxiv.org/abs/2211.11707v1)|null|
+|**2022-11-21**|**Disentangled Representation Learning**|Xin Wang et.al.|[2211.11695v1](http://arxiv.org/abs/2211.11695v1)|null|
 |**2022-11-21**|**Real time evolution of Anderson impurity models via tensor network influence functionals**|Nathan Ng et.al.|[2211.10430v2](http://arxiv.org/abs/2211.10430v2)|null|
 |**2022-11-18**|**Interface Capturing Flow Boiling Simulations in a Compact Heat Exchanger**|Anna Iskhakova et.al.|[2211.10429v1](http://arxiv.org/abs/2211.10429v1)|null|
 |**2022-11-18**|**Quantum theory of light-driven coherent lattice dynamics**|Fabio Caruso et.al.|[2211.10424v1](http://arxiv.org/abs/2211.10424v1)|null|

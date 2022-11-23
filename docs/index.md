@@ -190,7 +190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou et.al.|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
-|**2022-11-21**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v1](http://arxiv.org/abs/2211.11175v1)|null|
+|**2022-11-22**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v2](http://arxiv.org/abs/2211.11175v2)|null|
 |**2022-11-20**|**DesNet: Decomposed Scale-Consistent Network for Unsupervised Depth Completion**|Zhiqiang Yan et.al.|[2211.10994v1](http://arxiv.org/abs/2211.10994v1)|null|
 |**2022-11-20**|**Context-Aware Data Augmentation for LIDAR 3D Object Detection**|Xuzhong Hu et.al.|[2211.10850v1](http://arxiv.org/abs/2211.10850v1)|null|
 |**2022-11-19**|**MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs**|Fanze Kong et.al.|[2211.10716v1](http://arxiv.org/abs/2211.10716v1)|null|
@@ -466,7 +466,7 @@ layout: default
 |**2022-11-21**|**Sensor Placement for Online Fault Diagnosis**|Dhananjay Raju et.al.|[2211.11741v1](http://arxiv.org/abs/2211.11741v1)|null|
 |**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
 |**2022-11-21**|**Teaching Structured Vision&Language Concepts to Vision&Language Models**|Sivan Doveh et.al.|[2211.11733v1](http://arxiv.org/abs/2211.11733v1)|null|
-|**2022-11-21**|**A Review on Contact and Collision Methods for Multi-body Hydrodynamic problems in Complex Flows**|Sajjad Karimnejad et.al.|[2211.11728v1](http://arxiv.org/abs/2211.11728v1)|null|
+|**2022-11-22**|**A Review on Contact and Collision Methods for Multi-body Hydrodynamic problems in Complex Flows**|Sajjad Karimnejad et.al.|[2211.11728v2](http://arxiv.org/abs/2211.11728v2)|null|
 |**2022-11-21**|**Neural tangent kernel analysis of PINN for advection-diffusion equation**|M. H. Saadat et.al.|[2211.11716v1](http://arxiv.org/abs/2211.11716v1)|null|
 |**2022-11-21**|**Adaptive Stochastic Optimisation of Nonconvex Composite Objectives**|Weijia Shao et.al.|[2211.11710v1](http://arxiv.org/abs/2211.11710v1)|null|
 |**2022-11-21**|**A tactile model of the night summer northern sky for the teaching of astronomy to the BVI**|E. Pérez-Montero et.al.|[2211.11707v1](http://arxiv.org/abs/2211.11707v1)|null|

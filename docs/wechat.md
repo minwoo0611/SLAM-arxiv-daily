@@ -834,7 +834,7 @@
 - 2022-11-22, **Instant Volumetric Head Avatars**, Wojciech Zielonka et.al., Paper: [http://arxiv.org/abs/2211.12499v1](http://arxiv.org/abs/2211.12499v1)
 - 2022-11-22, **Touch and Go: Learning from Human-Collected Vision and Touch**, Fengyu Yang et.al., Paper: [http://arxiv.org/abs/2211.12498v1](http://arxiv.org/abs/2211.12498v1)
 - 2022-11-22, **MagicPony: Learning Articulated 3D Animals in the Wild**, Shangzhe Wu et.al., Paper: [http://arxiv.org/abs/2211.12497v1](http://arxiv.org/abs/2211.12497v1)
-- 2022-11-22, **On the Transferability of Visual Features in Generalized Zero-Shot Learning**, Paola Cascante-Bonilla et.al., Paper: [http://arxiv.org/abs/2211.12494v1](http://arxiv.org/abs/2211.12494v1)
+- 2022-11-22, **On the Transferability of Visual Features in Generalized Zero-Shot Learning**, Paola Cascante-Bonilla et.al., Paper: [http://arxiv.org/abs/2211.12494v1](http://arxiv.org/abs/2211.12494v1), Code: **[https://github.com/uvavision/tv-gzsl](https://github.com/uvavision/tv-gzsl)**
 - 2022-11-22, **HyperTuning: Toward Adapting Large Language Models without Back-propagation**, Jason Phang et.al., Paper: [http://arxiv.org/abs/2211.12485v1](http://arxiv.org/abs/2211.12485v1)
 - 2022-11-22, **On the BPS sector in AdS_3/CFT_2 Holography**, Emil J. Martinec et.al., Paper: [http://arxiv.org/abs/2211.12476v1](http://arxiv.org/abs/2211.12476v1)
 - 2022-11-22, **Challenges and outcomes in remote undergraduate research programs during the COVID-19 pandemic**, Dina Zohrabi Alaee et.al., Paper: [http://arxiv.org/abs/2211.12458v1](http://arxiv.org/abs/2211.12458v1)

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
@@ -189,6 +190,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
+|**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou et.al.|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
 |**2022-11-22**|**CoPEM: Cooperative Perception Error Models for Autonomous Driving**|Andrea Piazzoni et.al.|[2211.11175v2](http://arxiv.org/abs/2211.11175v2)|null|
 |**2022-11-20**|**DesNet: Decomposed Scale-Consistent Network for Unsupervised Depth Completion**|Zhiqiang Yan et.al.|[2211.10994v1](http://arxiv.org/abs/2211.10994v1)|null|
@@ -461,6 +464,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-22**|**Limiting the accretion disk light in two mass transferring hot subdwarf binaries**|Kunal Deshmukh et.al.|[2211.12502v1](http://arxiv.org/abs/2211.12502v1)|null|
+|**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|null|
+|**2022-11-22**|**Instant Volumetric Head Avatars**|Wojciech Zielonka et.al.|[2211.12499v1](http://arxiv.org/abs/2211.12499v1)|null|
+|**2022-11-22**|**Touch and Go: Learning from Human-Collected Vision and Touch**|Fengyu Yang et.al.|[2211.12498v1](http://arxiv.org/abs/2211.12498v1)|null|
+|**2022-11-22**|**MagicPony: Learning Articulated 3D Animals in the Wild**|Shangzhe Wu et.al.|[2211.12497v1](http://arxiv.org/abs/2211.12497v1)|null|
+|**2022-11-22**|**On the Transferability of Visual Features in Generalized Zero-Shot Learning**|Paola Cascante-Bonilla et.al.|[2211.12494v1](http://arxiv.org/abs/2211.12494v1)|null|
+|**2022-11-22**|**HyperTuning: Toward Adapting Large Language Models without Back-propagation**|Jason Phang et.al.|[2211.12485v1](http://arxiv.org/abs/2211.12485v1)|null|
+|**2022-11-22**|**On the BPS sector in AdS_3/CFT_2 Holography**|Emil J. Martinec et.al.|[2211.12476v1](http://arxiv.org/abs/2211.12476v1)|null|
+|**2022-11-22**|**Challenges and outcomes in remote undergraduate research programs during the COVID-19 pandemic**|Dina Zohrabi Alaee et.al.|[2211.12458v1](http://arxiv.org/abs/2211.12458v1)|null|
+|**2022-11-22**|**ISIM: Iterative Self-Improved Model for Weakly Supervised Segmentation**|Cenk Bircanoglu et.al.|[2211.12455v1](http://arxiv.org/abs/2211.12455v1)|null|
 |**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
 |**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
 |**2022-11-21**|**Sensor Placement for Online Fault Diagnosis**|Dhananjay Raju et.al.|[2211.11741v1](http://arxiv.org/abs/2211.11741v1)|null|

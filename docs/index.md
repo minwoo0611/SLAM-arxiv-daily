@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan et.al.|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
@@ -190,6 +191,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
+|**2022-11-23**|**Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection**|Tianyu Wang et.al.|[2211.13067v1](http://arxiv.org/abs/2211.13067v1)|null|
+|**2022-11-23**|**High-efficiency coupled-cavity optical frequency comb generation**|Mateusz P. Mrozowski et.al.|[2211.12871v1](http://arxiv.org/abs/2211.12871v1)|null|
+|**2022-11-23**|**Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**|Joshua Knights et.al.|[2211.12732v1](http://arxiv.org/abs/2211.12732v1)|null|
+|**2022-11-23**|**One Class One Click: Quasi Scene-level Weakly Supervised Point Cloud Semantic Segmentation with Active Learning**|Puzuo Wang et.al.|[2211.12657v1](http://arxiv.org/abs/2211.12657v1)|null|
+|**2022-11-22**|**PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans**|Yan Xia et.al.|[2211.12542v1](http://arxiv.org/abs/2211.12542v1)|null|
 |**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**Efficient Second-Order Plane Adjustment**|Lipu Zhou et.al.|[2211.11542v1](http://arxiv.org/abs/2211.11542v1)|null|
@@ -464,6 +471,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-23**|**Self-Supervised Learning based on Heat Equation**|Yinpeng Chen et.al.|[2211.13228v1](http://arxiv.org/abs/2211.13228v1)|null|
+|**2022-11-23**|**Learning to Imitate Object Interactions from Internet Videos**|Austin Patel et.al.|[2211.13225v1](http://arxiv.org/abs/2211.13225v1)|null|
+|**2022-11-23**|**Generalizable Implicit Neural Representations via Instance Pattern Composers**|Chiheon Kim et.al.|[2211.13223v1](http://arxiv.org/abs/2211.13223v1)|null|
+|**2022-11-23**|**Costs and benefits of automation for astronomical facilities**|A. Yanes-Díaz et.al.|[2211.13214v1](http://arxiv.org/abs/2211.13214v1)|null|
+|**2022-11-23**|**Transverse-momentum-dependent factorization at next-to-leading power**|Leonard Gamberg et.al.|[2211.13209v1](http://arxiv.org/abs/2211.13209v1)|null|
+|**2022-11-23**|**Inversion-Based Creativity Transfer with Diffusion Models**|Yuxin Zhang et.al.|[2211.13203v1](http://arxiv.org/abs/2211.13203v1)|null|
+|**2022-11-23**|**Imaging gate-induced molecular melting on a graphene field-effect transistor**|Franklin Liou et.al.|[2211.13198v1](http://arxiv.org/abs/2211.13198v1)|null|
+|**2022-11-23**|**SeedBERT: Recovering Annotator Rating Distributions from an Aggregated Label**|Aneesha Sampath et.al.|[2211.13196v1](http://arxiv.org/abs/2211.13196v1)|null|
+|**2022-11-23**|**Privacy-Preserving Application-to-Application Authentication Using Dynamic Runtime Behaviors**|Mihai Christodorescu et.al.|[2211.13195v1](http://arxiv.org/abs/2211.13195v1)|null|
+|**2022-11-23**|**Indian Commercial Truck License Plate Detection and Recognition for Weighbridge Automation**|Siddharth Agrawal et.al.|[2211.13194v1](http://arxiv.org/abs/2211.13194v1)|null|
 |**2022-11-22**|**Limiting the accretion disk light in two mass transferring hot subdwarf binaries**|Kunal Deshmukh et.al.|[2211.12502v1](http://arxiv.org/abs/2211.12502v1)|null|
 |**2022-11-22**|**AeDet: Azimuth-invariant Multi-view 3D Object Detection**|Chengjian Feng et.al.|[2211.12501v1](http://arxiv.org/abs/2211.12501v1)|null|
 |**2022-11-22**|**Instant Volumetric Head Avatars**|Wojciech Zielonka et.al.|[2211.12499v1](http://arxiv.org/abs/2211.12499v1)|null|

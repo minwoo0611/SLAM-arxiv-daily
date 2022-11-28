@@ -5,7 +5,7 @@
 - 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
-- 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
+- 2022-11-24, **Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v2](http://arxiv.org/abs/2211.09241v2)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 - 2022-11-20, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v2](http://arxiv.org/abs/2211.07365v2), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
 - 2022-11-13, **Automatic Eye-in-Hand Calibration using EKF**, Aditya Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2211.06881v1](http://arxiv.org/abs/2211.06881v1)
@@ -839,7 +839,7 @@
 - 2022-11-23, **Self-Supervised Learning based on Heat Equation**, Yinpeng Chen et.al., Paper: [http://arxiv.org/abs/2211.13228v1](http://arxiv.org/abs/2211.13228v1)
 - 2022-11-23, **Learning to Imitate Object Interactions from Internet Videos**, Austin Patel et.al., Paper: [http://arxiv.org/abs/2211.13225v1](http://arxiv.org/abs/2211.13225v1)
 - 2022-11-23, **Generalizable Implicit Neural Representations via Instance Pattern Composers**, Chiheon Kim et.al., Paper: [http://arxiv.org/abs/2211.13223v1](http://arxiv.org/abs/2211.13223v1)
-- 2022-11-23, **Costs and benefits of automation for astronomical facilities**, A. Yanes-Díaz et.al., Paper: [http://arxiv.org/abs/2211.13214v1](http://arxiv.org/abs/2211.13214v1)
+- 2022-11-24, **Costs and benefits of automation for astronomical facilities**, A. Yanes-Díaz et.al., Paper: [http://arxiv.org/abs/2211.13214v2](http://arxiv.org/abs/2211.13214v2)
 - 2022-11-23, **Transverse-momentum-dependent factorization at next-to-leading power**, Leonard Gamberg et.al., Paper: [http://arxiv.org/abs/2211.13209v1](http://arxiv.org/abs/2211.13209v1)
 - 2022-11-23, **Inversion-Based Creativity Transfer with Diffusion Models**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2211.13203v1](http://arxiv.org/abs/2211.13203v1), Code: **[https://github.com/zyxelsa/creativity-transfer](https://github.com/zyxelsa/creativity-transfer)**
 - 2022-11-23, **Imaging gate-induced molecular melting on a graphene field-effect transistor**, Franklin Liou et.al., Paper: [http://arxiv.org/abs/2211.13198v1](http://arxiv.org/abs/2211.13198v1)

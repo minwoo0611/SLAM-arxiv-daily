@@ -842,7 +842,7 @@
 
 - 2022-11-25, **Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2211.14310v1](http://arxiv.org/abs/2211.14310v1)
 - 2022-11-25, **WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**, Guillaume Le Moing et.al., Paper: [http://arxiv.org/abs/2211.14308v1](http://arxiv.org/abs/2211.14308v1)
-- 2022-11-25, **MAEDAY: MAE for few and zero shot AnomalY-Detection**, Eli Schwartz et.al., Paper: [http://arxiv.org/abs/2211.14307v1](http://arxiv.org/abs/2211.14307v1)
+- 2022-11-25, **MAEDAY: MAE for few and zero shot AnomalY-Detection**, Eli Schwartz et.al., Paper: [http://arxiv.org/abs/2211.14307v1](http://arxiv.org/abs/2211.14307v1), Code: **[https://github.com/elischwartz/maeday](https://github.com/elischwartz/maeday)**
 - 2022-11-25, **SpaText: Spatio-Textual Representation for Controllable Image Generation**, Omri Avrahami et.al., Paper: [http://arxiv.org/abs/2211.14305v1](http://arxiv.org/abs/2211.14305v1)
 - 2022-11-25, **Neural DAEs: Constrained neural networks**, Tue Boesen et.al., Paper: [http://arxiv.org/abs/2211.14302v1](http://arxiv.org/abs/2211.14302v1)
 - 2022-11-25, **Pixels Together Strong: Segmenting Unknown Regions Rejected by All**, Nazir Nayal et.al., Paper: [http://arxiv.org/abs/2211.14293v1](http://arxiv.org/abs/2211.14293v1)

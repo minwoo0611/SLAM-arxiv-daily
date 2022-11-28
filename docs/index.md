@@ -191,6 +191,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**Invariance-Aware Randomized Smoothing Certificates**|Jan Schuchardt et.al.|[2211.14207v1](http://arxiv.org/abs/2211.14207v1)|null|
+|**2022-11-25**|**Far3Det: Towards Far-Field 3D Detection**|Shubham Gupta et.al.|[2211.13858v1](http://arxiv.org/abs/2211.13858v1)|null|
+|**2022-11-24**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kim et.al.|[2211.13529v1](http://arxiv.org/abs/2211.13529v1)|null|
+|**2022-11-24**|**Automated Driving Systems Data Acquisition and Processing Platform**|Xin Xia et.al.|[2211.13425v1](http://arxiv.org/abs/2211.13425v1)|null|
 |**2022-11-23**|**Navigation with Tactile Sensor for Natural Human-Robot Interaction**|Zhen Hao Gan et.al.|[2211.13091v1](http://arxiv.org/abs/2211.13091v1)|null|
 |**2022-11-23**|**Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection**|Tianyu Wang et.al.|[2211.13067v1](http://arxiv.org/abs/2211.13067v1)|null|
 |**2022-11-23**|**High-efficiency coupled-cavity optical frequency comb generation**|Mateusz P. Mrozowski et.al.|[2211.12871v1](http://arxiv.org/abs/2211.12871v1)|null|
@@ -471,6 +475,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**|Leif Van Holland et.al.|[2211.14310v1](http://arxiv.org/abs/2211.14310v1)|null|
+|**2022-11-25**|**WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**|Guillaume Le Moing et.al.|[2211.14308v1](http://arxiv.org/abs/2211.14308v1)|null|
+|**2022-11-25**|**MAEDAY: MAE for few and zero shot AnomalY-Detection**|Eli Schwartz et.al.|[2211.14307v1](http://arxiv.org/abs/2211.14307v1)|null|
+|**2022-11-25**|**SpaText: Spatio-Textual Representation for Controllable Image Generation**|Omri Avrahami et.al.|[2211.14305v1](http://arxiv.org/abs/2211.14305v1)|null|
+|**2022-11-25**|**Neural DAEs: Constrained neural networks**|Tue Boesen et.al.|[2211.14302v1](http://arxiv.org/abs/2211.14302v1)|null|
+|**2022-11-25**|**Pixels Together Strong: Segmenting Unknown Regions Rejected by All**|Nazir Nayal et.al.|[2211.14293v1](http://arxiv.org/abs/2211.14293v1)|null|
+|**2022-11-25**|**Coherent Dynamics of the Swing-Up Excitation Technique**|Katarina Boos et.al.|[2211.14289v1](http://arxiv.org/abs/2211.14289v1)|null|
+|**2022-11-25**|**CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis**|Shichong Peng et.al.|[2211.14286v1](http://arxiv.org/abs/2211.14286v1)|null|
+|**2022-11-25**|**Geo-Spatial Cluster based Hybrid Spatio-Temporal Copula Interpolation**|Debjoy Thakur et.al.|[2211.14285v1](http://arxiv.org/abs/2211.14285v1)|null|
+|**2022-11-25**|**Gravitational waves radiated by magnetic galactic binaries and detection by LISA**|Adrien Bourgoin et.al.|[2211.14278v1](http://arxiv.org/abs/2211.14278v1)|null|
 |**2022-11-23**|**Self-Supervised Learning based on Heat Equation**|Yinpeng Chen et.al.|[2211.13228v1](http://arxiv.org/abs/2211.13228v1)|null|
 |**2022-11-23**|**Learning to Imitate Object Interactions from Internet Videos**|Austin Patel et.al.|[2211.13225v1](http://arxiv.org/abs/2211.13225v1)|null|
 |**2022-11-23**|**Generalizable Implicit Neural Representations via Instance Pattern Composers**|Chiheon Kim et.al.|[2211.13223v1](http://arxiv.org/abs/2211.13223v1)|null|

@@ -560,7 +560,7 @@
 
 ## LiDAR
 
-- 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1)
+- 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1), Code: **[https://github.com/haomo-ai/superfusion](https://github.com/haomo-ai/superfusion)**
 - 2022-11-27, **3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**, Changyong Shu et.al., Paper: [http://arxiv.org/abs/2211.14710v1](http://arxiv.org/abs/2211.14710v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-25, **Invariance-Aware Randomized Smoothing Certificates**, Jan Schuchardt et.al., Paper: [http://arxiv.org/abs/2211.14207v1](http://arxiv.org/abs/2211.14207v1)

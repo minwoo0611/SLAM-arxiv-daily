@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
+- 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
@@ -558,6 +560,9 @@
 
 ## LiDAR
 
+- 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1)
+- 2022-11-27, **3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**, Changyong Shu et.al., Paper: [http://arxiv.org/abs/2211.14710v1](http://arxiv.org/abs/2211.14710v1)
+- 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-25, **Invariance-Aware Randomized Smoothing Certificates**, Jan Schuchardt et.al., Paper: [http://arxiv.org/abs/2211.14207v1](http://arxiv.org/abs/2211.14207v1)
 - 2022-11-25, **Far3Det: Towards Far-Field 3D Detection**, Shubham Gupta et.al., Paper: [http://arxiv.org/abs/2211.13858v1](http://arxiv.org/abs/2211.13858v1)
 - 2022-11-24, **3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**, Yecheol Kim et.al., Paper: [http://arxiv.org/abs/2211.13529v1](http://arxiv.org/abs/2211.13529v1)
@@ -840,6 +845,16 @@
 
 ## Dynamic Object
 
+- 2022-11-28, **Hand-Object Interaction Image Generation**, Hezhen Hu et.al., Paper: [http://arxiv.org/abs/2211.15663v1](http://arxiv.org/abs/2211.15663v1)
+- 2022-11-28, **Is Conditional Generative Modeling all you need for Decision-Making?**, Anurag Ajay et.al., Paper: [http://arxiv.org/abs/2211.15657v1](http://arxiv.org/abs/2211.15657v1)
+- 2022-11-28, **OpenScene: 3D Scene Understanding with Open Vocabularies**, Songyou Peng et.al., Paper: [http://arxiv.org/abs/2211.15654v1](http://arxiv.org/abs/2211.15654v1)
+- 2022-11-28, **Doubly Intermittent Maps with Critical Points, Unbounded Derivatives and Regularly Varying Tail**, Mubarak Muhammad et.al., Paper: [http://arxiv.org/abs/2211.15648v1](http://arxiv.org/abs/2211.15648v1)
+- 2022-11-28, **Witnessing the non-objectivity of an unknown quantum dynamics**, Davide Poderini et.al., Paper: [http://arxiv.org/abs/2211.15638v1](http://arxiv.org/abs/2211.15638v1)
+- 2022-11-28, **Log-ergodic price processes in mathematical finance**, Kiarash Firouzi et.al., Paper: [http://arxiv.org/abs/2211.15637v1](http://arxiv.org/abs/2211.15637v1)
+- 2022-11-28, **Time-linear quantum transport simulations with correlated nonequilibrium Green's functions**, R. Tuovinen et.al., Paper: [http://arxiv.org/abs/2211.15635v1](http://arxiv.org/abs/2211.15635v1)
+- 2022-11-28, **Aligning Active Particles Py Package**, Rüdiger Kürsten et.al., Paper: [http://arxiv.org/abs/2211.15630v1](http://arxiv.org/abs/2211.15630v1)
+- 2022-11-28, **Ergodic robust maximization of asymptotic growth under stochastic volatility**, David Itkin et.al., Paper: [http://arxiv.org/abs/2211.15628v1](http://arxiv.org/abs/2211.15628v1)
+- 2022-11-28, **ROC Analysis for Paired Comparison Data**, Ran Huo et.al., Paper: [http://arxiv.org/abs/2211.15622v1](http://arxiv.org/abs/2211.15622v1)
 - 2022-11-25, **Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2211.14310v1](http://arxiv.org/abs/2211.14310v1)
 - 2022-11-25, **WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**, Guillaume Le Moing et.al., Paper: [http://arxiv.org/abs/2211.14308v1](http://arxiv.org/abs/2211.14308v1)
 - 2022-11-25, **MAEDAY: MAE for few and zero shot AnomalY-Detection**, Eli Schwartz et.al., Paper: [http://arxiv.org/abs/2211.14307v1](http://arxiv.org/abs/2211.14307v1), Code: **[https://github.com/elischwartz/maeday](https://github.com/elischwartz/maeday)**

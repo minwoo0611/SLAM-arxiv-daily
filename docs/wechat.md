@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1)
+- 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
@@ -560,6 +562,9 @@
 
 ## LiDAR
 
+- 2022-11-29, **X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2211.16335v1](http://arxiv.org/abs/2211.16335v1)
+- 2022-11-29, **Analyzing Infrastructure LiDAR Placement with Realistic LiDAR**, Xinyu Cai et.al., Paper: [http://arxiv.org/abs/2211.15975v1](http://arxiv.org/abs/2211.15975v1)
+- 2022-11-29, **Effective Utilisation of Multiple Open-Source Datasets to Improve Generalisation Performance of Point Cloud Segmentation Models**, Matthew Howe et.al., Paper: [http://arxiv.org/abs/2211.15877v1](http://arxiv.org/abs/2211.15877v1)
 - 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1), Code: **[https://github.com/haomo-ai/superfusion](https://github.com/haomo-ai/superfusion)**
 - 2022-11-27, **3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**, Changyong Shu et.al., Paper: [http://arxiv.org/abs/2211.14710v1](http://arxiv.org/abs/2211.14710v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
@@ -845,6 +850,16 @@
 
 ## Dynamic Object
 
+- 2022-11-29, **Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2211.16499v1](http://arxiv.org/abs/2211.16499v1)
+- 2022-11-29, **On the Ability of Graph Neural Networks to Model Interactions Between Vertices**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2211.16494v1](http://arxiv.org/abs/2211.16494v1)
+- 2022-11-29, **Taming a Generative Model**, Shimon Malnick et.al., Paper: [http://arxiv.org/abs/2211.16488v1](http://arxiv.org/abs/2211.16488v1)
+- 2022-11-29, **DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**, Karl Holmquist et.al., Paper: [http://arxiv.org/abs/2211.16487v1](http://arxiv.org/abs/2211.16487v1)
+- 2022-11-29, **NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**, Samuel M. Factor et.al., Paper: [http://arxiv.org/abs/2211.16481v1](http://arxiv.org/abs/2211.16481v1)
+- 2022-11-29, **Symmetric periodic Reeb orbits on the sphere**, Miguel Abreu et.al., Paper: [http://arxiv.org/abs/2211.16470v1](http://arxiv.org/abs/2211.16470v1)
+- 2022-11-29, **SpK: A fast atomic and microphysics code for the high-energy-density regime**, A. J. Crilly et.al., Paper: [http://arxiv.org/abs/2211.16464v1](http://arxiv.org/abs/2211.16464v1)
+- 2022-11-29, **A geometrical approach to nontrivial topology via exotic spinors**, J. M. Hoff da Silva et.al., Paper: [http://arxiv.org/abs/2211.16458v1](http://arxiv.org/abs/2211.16458v1)
+- 2022-11-29, **Parametrized Asymmetric Neutral hydrogen Disk Integrated Spectrum Characterization (PANDISC) I: Introduction to A Physically Motivated H I Model**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2211.16455v1](http://arxiv.org/abs/2211.16455v1)
+- 2022-11-29, **Constructive proofs for localized radial solutions of semilinear elliptic systems on $\mathbb{R}^d$**, Jan Bouwe van den Berg et.al., Paper: [http://arxiv.org/abs/2211.16445v1](http://arxiv.org/abs/2211.16445v1)
 - 2022-11-28, **Hand-Object Interaction Image Generation**, Hezhen Hu et.al., Paper: [http://arxiv.org/abs/2211.15663v1](http://arxiv.org/abs/2211.15663v1)
 - 2022-11-28, **Is Conditional Generative Modeling all you need for Decision-Making?**, Anurag Ajay et.al., Paper: [http://arxiv.org/abs/2211.15657v1](http://arxiv.org/abs/2211.15657v1)
 - 2022-11-28, **OpenScene: 3D Scene Understanding with Open Vocabularies**, Songyou Peng et.al., Paper: [http://arxiv.org/abs/2211.15654v1](http://arxiv.org/abs/2211.15654v1)

@@ -2,7 +2,7 @@
 
 ## SLAM
 
-- 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1)
+- 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1), Code: **[https://github.com/roblabwh/patchmatch](https://github.com/roblabwh/patchmatch)**
 - 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
@@ -852,7 +852,7 @@
 
 - 2022-11-29, **Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2211.16499v1](http://arxiv.org/abs/2211.16499v1)
 - 2022-11-29, **On the Ability of Graph Neural Networks to Model Interactions Between Vertices**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2211.16494v1](http://arxiv.org/abs/2211.16494v1)
-- 2022-11-29, **Taming a Generative Model**, Shimon Malnick et.al., Paper: [http://arxiv.org/abs/2211.16488v1](http://arxiv.org/abs/2211.16488v1)
+- 2022-11-29, **Taming a Generative Model**, Shimon Malnick et.al., Paper: [http://arxiv.org/abs/2211.16488v1](http://arxiv.org/abs/2211.16488v1), Code: **[https://github.com/shimonmalnick/taming_a_generative_model](https://github.com/shimonmalnick/taming_a_generative_model)**
 - 2022-11-29, **DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**, Karl Holmquist et.al., Paper: [http://arxiv.org/abs/2211.16487v1](http://arxiv.org/abs/2211.16487v1)
 - 2022-11-29, **NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**, Samuel M. Factor et.al., Paper: [http://arxiv.org/abs/2211.16481v1](http://arxiv.org/abs/2211.16481v1)
 - 2022-11-29, **Symmetric periodic Reeb orbits on the sphere**, Miguel Abreu et.al., Paper: [http://arxiv.org/abs/2211.16470v1](http://arxiv.org/abs/2211.16470v1)

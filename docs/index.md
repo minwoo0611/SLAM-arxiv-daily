@@ -486,7 +486,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-29**|**Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**|Nataniel Ruiz et.al.|[2211.16499v1](http://arxiv.org/abs/2211.16499v1)|null|
-|**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|null|
+|**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v1](http://arxiv.org/abs/2211.16494v1)|**[link](https://github.com/noamrazin/gnn_interactions)**|
 |**2022-11-29**|**Taming a Generative Model**|Shimon Malnick et.al.|[2211.16488v1](http://arxiv.org/abs/2211.16488v1)|**[link](https://github.com/shimonmalnick/taming_a_generative_model)**|
 |**2022-11-29**|**DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**|Karl Holmquist et.al.|[2211.16487v1](http://arxiv.org/abs/2211.16487v1)|null|
 |**2022-11-29**|**NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**|Samuel M. Factor et.al.|[2211.16481v1](http://arxiv.org/abs/2211.16481v1)|null|

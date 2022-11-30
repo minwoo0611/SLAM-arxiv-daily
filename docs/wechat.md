@@ -851,7 +851,7 @@
 ## Dynamic Object
 
 - 2022-11-29, **Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2211.16499v1](http://arxiv.org/abs/2211.16499v1)
-- 2022-11-29, **On the Ability of Graph Neural Networks to Model Interactions Between Vertices**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2211.16494v1](http://arxiv.org/abs/2211.16494v1)
+- 2022-11-29, **On the Ability of Graph Neural Networks to Model Interactions Between Vertices**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2211.16494v1](http://arxiv.org/abs/2211.16494v1), Code: **[https://github.com/noamrazin/gnn_interactions](https://github.com/noamrazin/gnn_interactions)**
 - 2022-11-29, **Taming a Generative Model**, Shimon Malnick et.al., Paper: [http://arxiv.org/abs/2211.16488v1](http://arxiv.org/abs/2211.16488v1), Code: **[https://github.com/shimonmalnick/taming_a_generative_model](https://github.com/shimonmalnick/taming_a_generative_model)**
 - 2022-11-29, **DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**, Karl Holmquist et.al., Paper: [http://arxiv.org/abs/2211.16487v1](http://arxiv.org/abs/2211.16487v1)
 - 2022-11-29, **NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs**, Samuel M. Factor et.al., Paper: [http://arxiv.org/abs/2211.16481v1](http://arxiv.org/abs/2211.16481v1)

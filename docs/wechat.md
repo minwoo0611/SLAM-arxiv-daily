@@ -562,7 +562,7 @@
 
 ## LiDAR
 
-- 2022-11-29, **X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2211.16335v1](http://arxiv.org/abs/2211.16335v1)
+- 2022-11-30, **X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2211.16335v2](http://arxiv.org/abs/2211.16335v2)
 - 2022-11-29, **Analyzing Infrastructure LiDAR Placement with Realistic LiDAR**, Xinyu Cai et.al., Paper: [http://arxiv.org/abs/2211.15975v1](http://arxiv.org/abs/2211.15975v1), Code: **[https://github.com/pjlab-adg/lidarsimlib-and-placement-evaluation](https://github.com/pjlab-adg/lidarsimlib-and-placement-evaluation)**
 - 2022-11-29, **Effective Utilisation of Multiple Open-Source Datasets to Improve Generalisation Performance of Point Cloud Segmentation Models**, Matthew Howe et.al., Paper: [http://arxiv.org/abs/2211.15877v1](http://arxiv.org/abs/2211.15877v1)
 - 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1), Code: **[https://github.com/haomo-ai/superfusion](https://github.com/haomo-ai/superfusion)**

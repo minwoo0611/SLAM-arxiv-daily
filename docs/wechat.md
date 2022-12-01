@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-30, **MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**, Pranjali Pathre et.al., Paper: [http://arxiv.org/abs/2211.16882v1](http://arxiv.org/abs/2211.16882v1)
 - 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1), Code: **[https://github.com/roblabwh/patchmatch](https://github.com/roblabwh/patchmatch)**
 - 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
@@ -562,6 +563,8 @@
 
 ## LiDAR
 
+- 2022-11-30, **Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**, Peishan Cong et.al., Paper: [http://arxiv.org/abs/2211.16951v1](http://arxiv.org/abs/2211.16951v1)
+- 2022-11-30, **Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**, Zizhang Wu et.al., Paper: [http://arxiv.org/abs/2211.16779v1](http://arxiv.org/abs/2211.16779v1)
 - 2022-11-30, **X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2211.16335v2](http://arxiv.org/abs/2211.16335v2)
 - 2022-11-29, **Analyzing Infrastructure LiDAR Placement with Realistic LiDAR**, Xinyu Cai et.al., Paper: [http://arxiv.org/abs/2211.15975v1](http://arxiv.org/abs/2211.15975v1), Code: **[https://github.com/pjlab-adg/lidarsimlib-and-placement-evaluation](https://github.com/pjlab-adg/lidarsimlib-and-placement-evaluation)**
 - 2022-11-29, **Effective Utilisation of Multiple Open-Source Datasets to Improve Generalisation Performance of Point Cloud Segmentation Models**, Matthew Howe et.al., Paper: [http://arxiv.org/abs/2211.15877v1](http://arxiv.org/abs/2211.15877v1)
@@ -850,6 +853,16 @@
 
 ## Dynamic Object
 
+- 2022-11-30, **Interpretability with full complexity by constraining feature information**, Kieran A. Murphy et.al., Paper: [http://arxiv.org/abs/2211.17264v1](http://arxiv.org/abs/2211.17264v1)
+- 2022-11-30, **Plateau-free Differentiable Path Tracing**, Michael Fischer et.al., Paper: [http://arxiv.org/abs/2211.17263v1](http://arxiv.org/abs/2211.17263v1)
+- 2022-11-30, **SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene**, Minjung Son et.al., Paper: [http://arxiv.org/abs/2211.17260v1](http://arxiv.org/abs/2211.17260v1)
+- 2022-11-30, **CLIPascene: Scene Sketching with Different Types and Levels of Abstraction**, Yael Vinker et.al., Paper: [http://arxiv.org/abs/2211.17256v1](http://arxiv.org/abs/2211.17256v1)
+- 2022-11-30, **Safe Model-Free Reinforcement Learning using Disturbance-Observer-Based Control Barrier Functions**, Yikun Cheng et.al., Paper: [http://arxiv.org/abs/2211.17250v1](http://arxiv.org/abs/2211.17250v1)
+- 2022-11-30, **Behavior near the extinction time for systems of differential equations with sublinear dissipation terms**, Luan Hoang et.al., Paper: [http://arxiv.org/abs/2211.17241v1](http://arxiv.org/abs/2211.17241v1)
+- 2022-11-30, **Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**, Lorenzo Rimoldini et.al., Paper: [http://arxiv.org/abs/2211.17238v1](http://arxiv.org/abs/2211.17238v1)
+- 2022-11-30, **Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**, Ke Zhou et.al., Paper: [http://arxiv.org/abs/2211.17236v1](http://arxiv.org/abs/2211.17236v1)
+- 2022-11-30, **NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**, Yu Yin et.al., Paper: [http://arxiv.org/abs/2211.17235v1](http://arxiv.org/abs/2211.17235v1)
+- 2022-11-30, **ObjCAViT: Improving Monocular Depth Estimation Using Natural Language Models And Image-Object Cross-Attention**, Dylan Auty et.al., Paper: [http://arxiv.org/abs/2211.17232v1](http://arxiv.org/abs/2211.17232v1)
 - 2022-11-29, **Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2211.16499v1](http://arxiv.org/abs/2211.16499v1)
 - 2022-11-29, **On the Ability of Graph Neural Networks to Model Interactions Between Vertices**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2211.16494v1](http://arxiv.org/abs/2211.16494v1), Code: **[https://github.com/noamrazin/gnn_interactions](https://github.com/noamrazin/gnn_interactions)**
 - 2022-11-29, **Taming a Generative Model**, Shimon Malnick et.al., Paper: [http://arxiv.org/abs/2211.16488v1](http://arxiv.org/abs/2211.16488v1), Code: **[https://github.com/shimonmalnick/taming_a_generative_model](https://github.com/shimonmalnick/taming_a_generative_model)**
